@@ -1,4 +1,31 @@
-.venv/ 
-__pycache__/ 
-*.pyc 
-.vscode/ 
+# DVC Internal Caches & Temp Files
+.dvc/cache/
+.dvc/tmp/
+.dvc/config.local
+.dvc/config
+
+# Data Files Managed by DVC
+data/dataset.csv
+data/dataset_clean.csv
+
+# Serialized Model Artifacts
+*.pkl
+*.joblib
+best_insurance_model.pkl
+
+# Python Runtime & Build Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments & Environment Variables
+.venv/
+venv/
+env/
+ENV/
+.env
