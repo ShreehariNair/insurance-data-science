@@ -29,3 +29,6 @@ venv/
 env/
 ENV/
 .env
+
+applied-503016-de62083810cb.json
+client_secret.json

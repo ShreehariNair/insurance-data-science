@@ -1,0 +1,5 @@
+outs:
+- md5: fce1f3176fe82c2b21b275b6d051f951
+  size: 145716
+  hash: md5
+  path: best_insurance_model.pkl
