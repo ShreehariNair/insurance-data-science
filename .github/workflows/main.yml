@@ -1,0 +1,121 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  lint-test-dvc:
+    name: Lint, Pull DVC Model & Run Tests
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python Runtime
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install & Fix DVC Google Drive Dependencies
+        run: |
+          python -m pip install --upgrade pip setuptools wheel
+          pip install "cryptography>=41.0.0" "pyOpenSSL>=23.2.0" "PyDrive2>=1.18.0" "dvc[gdrive]" flake8 pytest requests
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Authenticate & Pull Model with DVC
+        env:
+          GDRIVE_KEY: ${{ secrets.GDRIVE_SERVICE_ACCOUNT_KEY }}
+        run: |
+          echo "$GDRIVE_KEY" > /tmp/gdrive-key.json
+
+          dvc remote modify gdriveremote gdrive_use_service_account true
+          dvc remote modify --local gdriveremote gdrive_service_account_json_file_path /tmp/gdrive-key.json
+
+          dvc pull
+
+      - name: Run Syntax & Lint Checks
+        run: |
+          flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+          flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
+
+      - name: Execute Server Health Check & Endpoint Test
+        env:
+          PYTHONUNBUFFERED: "1"
+        run: |
+          # 1. Start Uvicorn directly in background
+          uvicorn main:app --host 127.0.0.1 --port 8000 &
+          SERVER_PID=$!
+
+          # 2. Wait for startup
+          sleep 5
+
+          # 3. Fail fast if process died
+          if ! kill -0 $SERVER_PID 2>/dev/null; then
+            echo "FastAPI server crashed on startup!"
+            exit 1
+          fi
+
+          # 4. Run tests
+          python -c "import urllib.request; res = urllib.request.urlopen('http://127.0.0.1:8000/'); print(res.read().decode())"
+
+          python -c "
+          import requests
+          url = 'http://127.0.0.1:8000/predict'
+          payload = {
+              'age_group': 'Adult',
+              'gender': 'M',
+              'bmi_category': 'Overweight',
+              'smoker': 1,
+              'children': 1,
+              'income_lpa': 2.9,
+              'city': 'Amritsar',
+              'occupation': 'Electrician',
+              'type_policy': 'I',
+              'type_product': 'S',
+              'tenure_years': 24.51,
+              'reimbursement': 0
+          }
+          res = requests.post(url, json=payload)
+          print('Status Code:', res.status_code)
+          print('Response:', res.json())
+          assert res.status_code == 200
+          "
+
+          # 5. Clean up process
+          kill $SERVER_PID
+
+  docker-build:
+    name: Build Docker Container
+    needs: lint-test-dvc
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python Runtime for DVC
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install DVC & Patch Crypto
+        run: |
+          python -m pip install --upgrade pip setuptools wheel
+          pip install "cryptography>=41.0.0" "pyOpenSSL>=23.2.0" "PyDrive2>=1.18.0" "dvc[gdrive]"
+
+      - name: Pull Model Binary for Docker Context
+        env:
+          GDRIVE_KEY: ${{ secrets.GDRIVE_SERVICE_ACCOUNT_KEY }}
+        run: |
+          echo "$GDRIVE_KEY" > /tmp/gdrive-key.json
+          dvc remote modify gdriveremote gdrive_use_service_account true
+          dvc remote modify --local gdriveremote gdrive_service_account_json_file_path /tmp/gdrive-key.json
+          dvc pull
+
+      - name: Build Docker Image
+        run: |
+          docker build -t insurance_api:latest .

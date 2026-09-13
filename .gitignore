@@ -2,7 +2,6 @@
 .dvc/cache/
 .dvc/tmp/
 .dvc/config.local
-.dvc/config
 
 # Data Files Managed by DVC
 data/dataset.csv

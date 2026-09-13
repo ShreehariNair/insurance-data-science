@@ -3,16 +3,22 @@ from pydantic import BaseModel
 import pandas as pd
 import joblib
 import uvicorn
+import os 
+import sys
 
 # 1. Initialize App
 app = FastAPI(title="Insurance Premium Predictor")
 
 # 2. Load Model 
 # (Ensure 'best_insurance_model.pkl' is in the same directory)
+model_path = "data/best_insurance_model.pkl"
+
 try:
-    model = joblib.load("best_insurance_model.pkl")
+    model = joblib.load("data/best_insurance_model.pkl")
+    print(f"Successfully loaded model from {model_path}", flush=True)
 except Exception as e:
-    print(f"Error loading model: {e}")
+    print(f"CRITICAL: Failed to load model from {model_path}: {e}", flush=True)
+    sys.exit(1)
 
 # 3. Define Request Schema
 class InsuranceData(BaseModel):
@@ -49,3 +55,6 @@ def predict_premium(data: InsuranceData):
         }
     except Exception as e:
         raise HTTPException(status_code=400, detail=str(e))
+
+if __name__ == "__main__":
+    uvicorn.run(app, host="127.0.0.1", port=8000)

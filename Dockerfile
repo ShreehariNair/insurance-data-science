@@ -1,5 +1,5 @@
-# Use lightweight Python base
-FROM python:3.10-slim
+# Use Python 3.11 base image for scikit-learn 1.9 compatibility
+FROM python:3.11-slim
 
 # Set working directory inside container
 WORKDIR /app
@@ -8,12 +8,15 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy application code and model artifact
-COPY main.py .
-COPY best_insurance_model.pkl .
+# Create internal data folder
+RUN mkdir -p /app/data
 
-# Expose port for the FastAPI server
+# Copy application code and model artifact from data/ directory
+COPY main.py .
+COPY data/best_insurance_model.pkl ./data/best_insurance_model.pkl
+
+# Expose port for FastAPI server
 EXPOSE 8000
 
-# Start the application
+# Start Uvicorn application
 CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
