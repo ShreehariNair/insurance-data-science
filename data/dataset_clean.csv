@@ -1,0 +1,2338 @@
+age_group,gender,bmi_category,smoker,children,income_lpa,city,occupation,type_policy,type_product,tenure_years,reimbursement,premium
+Adult,M,Overweight,1,1,2.9,Amritsar,Electrician,I,S,24.51,0,18500
+Middle-Aged,F,Overweight,0,0,15.68,Rajkot,Marketing Manager,I,S,24.54,0,26000
+Young Adult,M,Obese,0,0,4.12,Meerut,Content Writer,I,P,24.54,1,8100
+Young Adult,M,Obese,0,0,4.36,Nashik,Content Writer,I,S,24.54,0,8300
+Middle-Aged,F,Obese,0,0,11.4,Lucknow,Retail Manager,I,S,17.71,0,27800
+Adult,F,Underweight,0,0,13.52,Allahabad,Marketing Manager,I,P,23.15,1,19500
+Middle-Aged,M,Overweight,0,2,5.43,Visakhapatnam,Shop Owner,I,P,23.5,1,24000
+Young Adult,F,Obese,0,0,3.0,Delhi,Lab Technician,I,P,23.5,1,6900
+Middle-Aged,M,Overweight,0,5,10.5,Meerut,Data Analyst,I,P,24.5,1,33600
+Young Adult,M,Normal,0,0,4.0,Surat,Real Estate Agent,I,S,26.48,0,6500
+Middle-Aged,M,Obese,0,4,15.68,Faridabad,Consultant,I,S,26.5,0,39900
+Middle-Aged,F,Normal,0,3,14.24,Ranchi,Consultant,I,S,23.5,0,29450
+Senior,M,Normal,1,4,9.04,Rajkot,Real Estate Agent,I,S,25.5,0,49750
+Middle-Aged,M,Overweight,0,2,12.67,Kanpur,Sales Manager,I,S,24.5,0,26400
+Middle-Aged,F,Normal,0,2,8.08,Srinagar,Content Writer,I,P,23.42,1,28000
+Adult,M,Obese,1,1,3.08,Ahmedabad,Electrician,I,P,25.42,1,21680
+Adult,M,Obese,0,0,3.26,Kolkata,Electrician,I,S,25.45,0,16100
+Adult,F,Normal,0,2,11.84,Lucknow,Lawyer,I,S,26.44,0,20400
+Middle-Aged,M,Obese,1,3,12.04,Rajkot,Sales Manager,I,P,25.42,1,34230
+Adult,F,Obese,0,0,2.66,Mumbai,Carpenter,I,P,25.42,1,11500
+Adult,F,Underweight,0,2,9.42,Amritsar,Engineer,I,S,23.3,0,19500
+Young Adult,M,Obese,0,0,10.0,Ahmedabad,Businessman,I,S,24.33,0,9380
+Adult,F,Overweight,0,0,3.32,Ahmedabad,Electrician,I,P,23.36,1,14500
+Middle-Aged,M,Obese,0,1,3.86,Kanpur,Factory Worker,I,S,23.37,0,24850
+Senior,F,Normal,0,2,17.6,Surat,Lawyer,I,S,23.61,0,47600
+Middle-Aged,F,Obese,0,0,11.04,Patna,Retail Manager,I,P,25.34,1,26250
+Senior,F,Normal,1,2,21.7,Surat,Businessman,I,P,26.25,1,58500
+Middle-Aged,F,Obese,0,2,4.28,Kolkata,Electrician,I,S,24.75,0,38200
+Middle-Aged,M,Overweight,1,0,9.65,Kolkata,Accountant,I,S,23.39,0,26125
+Adult,M,Obese,0,0,8.3,Vadodara,Accountant,I,P,10.4,1,16100
+Young Adult,M,Normal,0,0,7.0,Bangalore,Sales Manager,I,S,23.44,0,6200
+Young Adult,F,Normal,0,2,4.0,Visakhapatnam,Teacher,I,S,9.54,0,11200
+Middle-Aged,M,Obese,0,0,14.56,Amritsar,Architect,I,S,24.18,0,42000
+Middle-Aged,F,Normal,0,1,8.44,Rajkot,Real Estate Agent,I,P,24.31,1,31500
+Middle-Aged,M,Obese,0,2,5.43,Meerut,Nurse,I,P,26.08,1,30000
+Middle-Aged,M,Obese,0,0,7.72,Pune,Teacher,I,S,25.36,0,26450
+Adult,F,Obese,0,2,9.96,Ahmedabad,Civil Servant,I,S,23.25,0,21100
+Adult,M,Overweight,0,2,11.83,Faridabad,Architect,I,S,15.25,0,23000
+Adult,F,Obese,0,0,9.06,Pune,Retail Manager,I,S,12.67,0,13800
+Young Adult,F,Obese,0,1,4.0,Ludhiana,Pharmacist,I,S,24.31,0,9630
+Middle-Aged,M,Overweight,0,0,14.56,Indore,HR Manager,I,S,24.28,0,33600
+Middle-Aged,F,Overweight,1,0,14.98,Varanasi,Architect,I,S,24.26,0,45000
+Adult,M,Normal,0,0,9.06,Ludhiana,Data Analyst,I,P,25.25,1,12000
+Middle-Aged,F,Obese,1,3,10.4,Delhi,Government Employee,I,S,26.26,0,55800
+Young Adult,M,Obese,0,0,9.68,Kanpur,Marketing Manager,I,S,25.25,0,12825
+Young Adult,F,Obese,0,0,3.45,Kanpur,Lab Technician,I,S,25.25,0,10350
+Middle-Aged,F,Obese,0,2,7.96,Meerut,Chef,I,S,21.0,0,33750
+Adult,M,Obese,0,0,9.73,Ludhiana,Architect,I,P,25.25,1,11500
+Senior,F,Overweight,0,3,6.51,Varanasi,Lab Technician,I,P,24.25,1,39500
+Young Adult,M,Obese,1,4,3.0,Kanpur,Software Engineer,I,P,23.42,1,19687
+Middle-Aged,M,Overweight,0,0,11.94,Surat,Engineer,I,S,24.25,0,30000
+Young Adult,M,Obese,0,2,7.0,Indore,Sales Manager,I,P,24.25,1,12130
+Adult,M,Overweight,1,2,3.14,Ranchi,Electrician,I,S,24.3,0,21250
+Young Adult,F,Overweight,1,1,4.12,Amritsar,Chef,I,S,24.43,0,11250
+Young Adult,M,Overweight,0,0,6.18,Ludhiana,Data Analyst,I,P,24.97,1,7000
+Adult,M,Obese,1,0,16.6,Lucknow,Businessman,I,P,23.25,1,30625
+Middle-Aged,F,Obese,0,0,10.55,Visakhapatnam,Accountant,I,P,23.25,1,43500
+Middle-Aged,M,Overweight,0,1,6.88,Kolkata,Content Writer,I,S,26.48,0,20500
+Senior,M,Overweight,1,2,13.02,Varanasi,Banker,I,S,2.8,0,53000
+Young Adult,M,Obese,0,1,4.48,Ghaziabad,Chef,I,P,24.22,1,13125
+Young Adult,F,Obese,0,0,4.12,Kanpur,Real Estate Agent,I,P,25.23,1,8050
+Middle-Aged,M,Obese,0,0,4.22,Rajkot,Electrician,I,P,25.22,1,36250
+Middle-Aged,F,Obese,0,1,12.84,Nagpur,Engineer,I,S,24.22,0,47500
+Middle-Aged,M,Obese,0,0,21.36,Bhopal,Doctor,I,S,24.27,0,33250
+Middle-Aged,M,Obese,0,5,16.4,Ludhiana,Lawyer,I,S,25.69,0,55970
+Senior,M,Overweight,0,4,6.51,Visakhapatnam,Insurance Agent,I,S,24.42,0,42000
+Adult,M,Normal,0,0,7.62,Nashik,Civil Servant,I,P,24.25,1,10000
+Young Adult,F,Overweight,0,3,6.0,Vadodara,Civil Servant,I,P,24.25,1,14000
+Middle-Aged,F,Normal,0,3,3.98,Bangalore,Factory Worker,I,S,15.0,0,32500
+Young Adult,M,Obese,1,0,4.0,Ahmedabad,Real Estate Agent,I,S,25.42,0,9775
+Young Adult,F,Overweight,1,0,3.72,Bangalore,Lab Technician,I,S,25.72,0,11875
+Senior,F,Normal,0,1,15.82,Bhopal,Architect,I,P,26.16,1,52900
+Senior,F,Normal,0,2,6.51,Patna,Nurse,I,S,20.0,0,37000
+Young Adult,M,Underweight,0,1,4.12,Pune,Content Writer,I,S,25.22,0,9500
+Middle-Aged,F,Normal,1,1,7.72,Vadodara,Pharmacist,I,S,25.63,0,31250
+Middle-Aged,F,Overweight,0,0,3.68,Ludhiana,Carpenter,I,P,24.22,1,21000
+Adult,F,Normal,0,1,10.57,Kanpur,Architect,I,P,23.59,1,16900
+Young Adult,F,Obese,0,1,4.0,Indore,Pharmacist,I,S,25.2,0,10625
+Adult,M,Normal,0,0,12.08,Indore,Marketing Manager,I,S,24.2,0,14400
+Adult,M,Obese,1,0,8.52,Pune,Engineer,I,S,23.39,0,19912
+Adult,F,Obese,0,2,5.32,Bhopal,Chef,I,S,24.86,0,19175
+Young Adult,M,Obese,0,1,4.0,Faridabad,Pharmacist,I,P,23.36,1,10870
+Young Adult,M,Overweight,0,2,10.0,Chennai,Businessman,I,P,18.64,1,12440
+Young Adult,M,Obese,1,0,4.96,Bangalore,Pharmacist,I,P,25.16,1,14843
+Senior,F,Overweight,0,1,8.92,Pune,Chef,I,P,25.21,1,37000
+Young Adult,F,Overweight,0,1,3.54,Delhi,Software Engineer,I,P,23.17,1,11700
+Middle-Aged,F,Normal,0,2,5.34,Rajkot,Lab Technician,I,S,26.17,0,24000
+Young Adult,M,Obese,0,3,2.0,Nagpur,Factory Worker,I,P,24.18,1,14630
+Adult,F,Obese,0,0,2.6,Mumbai,Driver,I,P,24.18,1,13500
+Young Adult,F,Obese,0,1,4.0,Allahabad,Content Writer,I,P,24.18,1,10870
+Middle-Aged,M,Overweight,1,1,3.68,Jaipur,Plumber,I,P,24.18,1,28750
+Adult,F,Obese,0,0,6.76,Indore,Pharmacist,I,P,24.18,1,17250
+Young Adult,M,Obese,0,1,3.27,Ranchi,Lab Technician,I,P,9.08,1,11700
+Middle-Aged,F,Obese,0,0,13.3,Lucknow,Architect,I,P,6.72,1,30360
+Young Adult,M,Overweight,0,2,2.0,Patna,Plumber,I,P,2.18,1,11800
+Middle-Aged,F,Normal,0,2,7.84,Mumbai,Pharmacist,I,P,23.18,1,29000
+Middle-Aged,M,Normal,0,0,3.92,Meerut,Carpenter,I,P,26.17,1,24000
+Young Adult,M,Overweight,0,2,2.0,Bangalore,Carpenter,I,P,24.18,1,11200
+Middle-Aged,F,Overweight,1,2,6.06,Rajkot,Nurse,I,P,9.0,1,37500
+Young Adult,M,Overweight,0,0,2.3,Kolkata,Driver,I,P,7.61,1,8920
+Young Adult,F,Normal,0,0,4.0,Faridabad,Content Writer,I,P,1.2,1,6000
+Middle-Aged,F,Obese,0,2,8.08,Ranchi,Content Writer,I,P,24.18,1,53480
+Young Adult,M,Obese,1,0,3.0,Bangalore,Shop Owner,I,P,24.18,1,9660
+Adult,F,Obese,0,2,13.28,Bhopal,Marketing Manager,I,P,14.25,1,26740
+Young Adult,F,Obese,0,3,9.92,Hyderabad,Consultant,I,P,12.9,1,16620
+Middle-Aged,M,Obese,0,0,7.48,Varanasi,Teacher,I,P,11.66,1,28750
+Middle-Aged,F,Obese,0,3,10.32,Ghaziabad,Retail Manager,I,P,11.16,1,46920
+Middle-Aged,M,Normal,0,1,3.62,Agra,Carpenter,I,P,9.19,1,22400
+Middle-Aged,M,Normal,1,0,12.46,Surat,Sales Manager,I,P,25.16,1,42000
+Adult,F,Obese,1,2,3.14,Ahmedabad,Plumber,I,P,25.16,1,28210
+Young Adult,M,Overweight,0,1,3.45,Agra,Software Engineer,I,P,19.0,1,10000
+Adult,F,Overweight,1,0,16.3,Allahabad,Businessman,I,P,19.0,1,32160
+Young Adult,M,Obese,0,1,2.0,Surat,Factory Worker,I,S,23.27,0,8740
+Adult,F,Obese,0,0,6.4,Meerut,Real Estate Agent,I,S,26.16,0,17970
+Adult,F,Normal,0,0,7.8,Bhopal,Retail Manager,I,S,26.16,0,10620
+Adult,M,Normal,0,1,7.8,Bangalore,Engineer,I,S,24.62,0,11900
+Middle-Aged,F,Obese,0,1,5.43,Pune,Nurse,I,S,23.16,0,34720
+Adult,M,Overweight,0,0,6.65,Bangalore,Government Employee,I,S,23.41,0,11160
+Middle-Aged,F,Overweight,0,0,8.2,Allahabad,Content Writer,I,S,20.25,0,39380
+Young Adult,F,Normal,0,2,4.0,Pune,Content Writer,I,S,18.09,0,7440
+Adult,M,Obese,0,3,5.68,Nashik,Teacher,I,P,25.54,1,29920
+Young Adult,F,Normal,0,1,4.0,Ahmedabad,Chef,I,S,25.92,0,6720
+Adult,M,Obese,1,0,6.5,Patna,Accountant,I,S,23.25,0,17190
+Adult,F,Overweight,0,3,3.32,Mumbai,Plumber,I,S,25.13,0,18720
+Middle-Aged,M,Obese,0,2,10.32,Ranchi,Civil Servant,I,S,25.53,0,48360
+Middle-Aged,F,Overweight,0,3,7.0,Varanasi,Content Writer,I,P,23.56,1,28830
+Young Adult,F,Obese,0,0,4.0,Amritsar,Content Writer,I,S,24.08,0,7800
+Young Adult,M,Obese,0,0,12.0,Jaipur,Doctor,I,P,23.64,1,11700
+Middle-Aged,M,Obese,0,0,14.24,Agra,Marketing Manager,I,P,24.16,1,50700
+Middle-Aged,F,Overweight,0,0,19.9,Amritsar,Businessman,I,S,25.13,0,36750
+Middle-Aged,F,Obese,0,1,14.96,Chennai,Lawyer,I,S,26.12,0,43680
+Young Adult,M,Overweight,0,0,4.0,Mumbai,Real Estate Agent,I,S,1.43,0,6300
+Young Adult,F,Overweight,0,2,6.0,Hyderabad,Retail Manager,I,S,21.69,0,9300
+Adult,F,Obese,1,0,15.6,Kolkata,Doctor,I,S,25.12,0,34220
+Adult,M,Overweight,1,0,13.04,Bangalore,Lawyer,I,P,24.12,1,26250
+Senior,M,Obese,0,0,22.3,Hyderabad,Businessman,I,P,24.11,1,91000
+Young Adult,M,Obese,0,2,2.48,Visakhapatnam,Carpenter,I,S,25.08,0,13700
+Young Adult,M,Overweight,0,0,10.0,Ghaziabad,Businessman,I,S,24.08,0,7880
+Adult,M,Obese,0,1,6.5,Kolkata,Accountant,I,S,24.25,0,13830
+Young Adult,M,Obese,1,2,4.0,Amritsar,Pharmacist,I,S,24.43,0,13540
+Middle-Aged,F,Overweight,0,1,11.94,Srinagar,Retail Manager,I,S,24.43,0,35280
+Middle-Aged,F,Obese,0,1,12.84,Nagpur,Engineer,I,S,26.43,0,58240
+Adult,F,Obese,0,0,17.76,Bhopal,Doctor,I,S,20.5,0,25160
+Middle-Aged,F,Obese,1,1,12.3,Ranchi,Banker,I,S,16.75,0,73080
+Young Adult,M,Obese,0,2,4.12,Kanpur,Content Writer,I,P,23.33,1,8620
+Adult,M,Obese,0,3,10.15,Ranchi,Architect,I,P,24.08,1,33250
+Young Adult,M,Obese,0,2,4.6,Kolkata,Pharmacist,I,P,5.32,1,12140
+Middle-Aged,M,Overweight,0,0,11.76,Ranchi,Banker,I,P,24.08,1,27560
+Adult,F,Overweight,0,2,18.12,Kanpur,Doctor,I,P,23.09,1,27130
+Middle-Aged,M,Obese,0,3,17.12,Chennai,Lawyer,I,S,24.6,0,82010
+Adult,M,Obese,0,2,4.71,Ranchi,Shop Owner,I,P,25.07,1,17830
+Middle-Aged,F,Overweight,0,0,7.0,Amritsar,Content Writer,I,P,24.07,1,22050
+Adult,M,Obese,0,2,3.38,Ghaziabad,Carpenter,I,P,5.29,1,20150
+Adult,M,Obese,0,1,19.56,Bangalore,Doctor,I,S,24.75,0,24280
+Young Adult,M,Obese,0,1,8.0,Ghaziabad,Marketing Manager,I,S,24.5,0,11420
+Adult,F,Normal,0,0,5.32,Ranchi,Teacher,I,S,23.58,0,10620
+Adult,M,Obese,0,0,4.53,Kolkata,Software Engineer,I,S,11.33,0,16250
+Middle-Aged,F,Obese,0,0,6.88,Amritsar,Real Estate Agent,I,S,12.32,0,32500
+Young Adult,M,Normal,0,3,7.0,Lucknow,HR Manager,I,S,25.09,0,10200
+Middle-Aged,M,Overweight,0,1,10.68,Patna,Data Analyst,I,P,25.73,1,29400
+Middle-Aged,F,Obese,0,0,6.33,Ahmedabad,Lab Technician,I,P,23.09,1,48750
+Young Adult,F,Obese,1,1,8.0,Ghaziabad,Marketing Manager,I,P,26.08,1,14880
+Middle-Aged,F,Obese,0,1,15.68,Visakhapatnam,Lawyer,I,S,22.5,0,48050
+Young Adult,F,Obese,0,1,3.0,Varanasi,Shop Owner,I,S,25.1,0,8740
+Middle-Aged,F,Normal,0,2,13.51,Delhi,Sales Manager,I,S,25.09,0,37200
+Middle-Aged,F,Obese,0,1,12.48,Varanasi,Civil Servant,I,S,23.56,0,48040
+Adult,F,Obese,0,2,13.6,Srinagar,Businessman,I,S,23.56,0,19650
+Adult,F,Obese,0,0,12.56,Surat,Lawyer,I,S,26.06,0,21560
+Adult,M,Overweight,0,0,8.45,Delhi,Government Employee,I,S,23.33,0,16410
+Adult,F,Obese,1,0,15.4,Bangalore,Businessman,I,S,24.74,0,30190
+Young Adult,M,Overweight,0,1,6.0,Nagpur,Retail Manager,I,P,24.0,1,8400
+Young Adult,M,Obese,1,1,8.0,Bhopal,Consultant,I,S,23.4,0,13660
+Middle-Aged,F,Obese,0,0,11.58,Faridabad,Engineer,I,S,24.05,0,34500
+Middle-Aged,M,Normal,1,0,11.76,Varanasi,Data Analyst,I,S,24.05,0,36400
+Young Adult,M,Normal,0,0,3.72,Patna,Nurse,I,S,23.04,0,8500
+Adult,F,Obese,0,3,3.81,Indore,Lab Technician,I,S,23.0,0,15030
+Young Adult,F,Underweight,0,0,2.3,Jaipur,Factory Worker,I,S,24.0,0,8500
+Adult,F,Obese,0,0,12.32,Indore,Marketing Manager,I,P,26.0,1,21560
+Young Adult,F,Overweight,1,2,9.68,Agra,Lawyer,I,S,26.0,0,18040
+Adult,F,Normal,1,0,5.68,Nashik,Chef,I,P,24.0,1,21880
+Young Adult,M,Normal,0,0,2.0,Visakhapatnam,Factory Worker,I,P,25.44,1,6000
+Middle-Aged,F,Overweight,0,1,12.88,Bangalore,Sales Manager,I,P,24.0,1,33600
+Young Adult,F,Obese,0,2,9.2,Ludhiana,Marketing Manager,I,S,25.21,0,17040
+Young Adult,M,Normal,1,0,3.0,Mumbai,Shop Owner,I,S,24.75,0,8400
+Young Adult,F,Obese,1,3,3.36,Allahabad,Software Engineer,I,S,23.5,0,18480
+Young Adult,F,Overweight,0,0,6.0,Varanasi,Data Analyst,I,S,24.0,0,7880
+Middle-Aged,M,Normal,0,0,3.92,Ludhiana,Driver,I,S,24.0,0,20000
+Young Adult,M,Obese,0,0,6.2,Faridabad,Government Employee,I,P,23.0,1,13810
+Young Adult,F,Obese,1,2,7.0,Kolkata,Architect,I,P,23.5,1,17210
+Adult,F,Normal,0,0,16.0,Meerut,Businessman,I,P,25.84,1,18750
+Middle-Aged,M,Normal,0,1,12.48,Jaipur,Civil Servant,I,P,25.0,1,41720
+Middle-Aged,F,Overweight,1,0,9.2,Patna,Government Employee,I,P,25.24,1,36750
+Young Adult,M,Overweight,0,0,6.0,Meerut,Data Analyst,I,S,26.0,0,7880
+Young Adult,F,Obese,0,1,3.63,Ludhiana,Software Engineer,I,P,23.0,1,10950
+Middle-Aged,F,Normal,0,2,3.86,Kolkata,Plumber,I,P,23.0,1,24800
+Adult,F,Obese,0,0,5.08,Bhopal,Real Estate Agent,I,P,23.5,1,11210
+Middle-Aged,M,Obese,1,0,3.92,Visakhapatnam,Carpenter,I,S,25.21,0,33800
+Middle-Aged,F,Normal,0,0,8.75,Ahmedabad,Accountant,I,S,23.0,0,25000
+Adult,F,Overweight,0,0,13.0,Allahabad,Businessman,I,S,24.0,0,13390
+Young Adult,F,Normal,1,3,8.0,Visakhapatnam,Lawyer,I,S,15.89,0,9800
+Young Adult,F,Obese,1,2,4.48,Bhopal,Chef,I,S,24.03,0,11200
+Middle-Aged,F,Obese,1,1,7.48,Vadodara,Real Estate Agent,I,S,23.0,0,28500
+Adult,M,Underweight,0,3,13.28,Indore,Consultant,I,P,26.0,1,12400
+Adult,F,Obese,0,1,4.26,Meerut,Lab Technician,I,S,26.0,0,8900
+Middle-Aged,F,Obese,0,2,10.32,Chennai,Banker,I,S,16.0,0,13800
+Young Adult,M,Normal,0,2,8.0,Varanasi,Lawyer,I,S,15.43,0,5800
+Adult,M,Normal,0,2,5.44,Bangalore,Pharmacist,I,S,4.0,0,8200
+Young Adult,F,Obese,0,1,5.0,Vadodara,Accountant,I,S,26.0,0,5900
+Adult,M,Overweight,1,0,13.52,Nagpur,Marketing Manager,I,S,23.5,0,21500
+Adult,M,Normal,1,1,4.62,Hyderabad,Software Engineer,I,S,23.0,0,17800
+Middle-Aged,F,Obese,0,0,10.55,Faridabad,Government Employee,I,S,18.75,0,21000
+Young Adult,F,Obese,0,1,2.18,Srinagar,Driver,I,S,26.0,0,6800
+Young Adult,M,Normal,0,0,4.24,Lucknow,Teacher,I,S,24.0,0,5200
+Middle-Aged,F,Underweight,0,1,8.08,Pune,Teacher,I,S,23.53,0,18500
+Middle-Aged,M,Obese,0,2,4.22,Indore,Driver,I,S,23.04,0,23800
+Adult,M,Normal,1,3,4.35,Bangalore,Lab Technician,I,S,26.0,0,17200
+Senior,F,Obese,0,0,8.92,Varanasi,Chef,I,S,26.0,0,24500
+Middle-Aged,F,Obese,1,0,7.0,Agra,Real Estate Agent,I,P,25.0,1,24200
+Adult,F,Obese,0,3,2.96,Visakhapatnam,Driver,I,P,24.0,1,11800
+Adult,F,Obese,1,0,8.45,Indore,Accountant,I,P,24.0,1,21000
+Middle-Aged,F,Obese,1,2,8.2,Pune,Teacher,I,S,26.0,0,31200
+Senior,M,Overweight,0,3,15.61,Indore,HR Manager,I,S,24.0,0,26800
+Adult,F,Obese,0,1,6.28,Amritsar,Real Estate Agent,I,P,24.0,1,11500
+Adult,M,Overweight,0,1,4.17,Meerut,Shop Owner,I,P,25.64,1,8400
+Young Adult,M,Obese,1,2,5.15,Amritsar,Accountant,I,S,24.49,0,13500
+Adult,M,Obese,0,4,10.14,Mumbai,Retail Manager,I,P,23.45,1,15200
+Middle-Aged,F,Obese,0,0,5.25,Vadodara,Software Engineer,I,P,25.0,1,14500
+Young Adult,M,Obese,1,3,9.68,Lucknow,Marketing Manager,I,S,25.0,0,14200
+Young Adult,M,Obese,0,3,13.8,Jaipur,Doctor,I,P,20.84,1,9800
+Middle-Aged,M,Normal,0,3,5.16,Faridabad,Software Engineer,I,P,23.0,1,13200
+Middle-Aged,M,Normal,0,1,15.92,Vadodara,Consultant,I,P,23.0,1,17500
+Young Adult,F,Underweight,0,4,7.0,Vadodara,HR Manager,I,P,23.0,1,7200
+Middle-Aged,F,Obese,1,0,10.1,Hyderabad,Accountant,I,P,23.0,1,27500
+Young Adult,M,Obese,0,2,12.0,Ranchi,Doctor,I,P,21.94,1,5800
+Young Adult,M,Obese,1,0,4.0,Hyderabad,Real Estate Agent,I,P,23.96,1,10500
+Adult,F,Obese,0,2,4.08,Faridabad,Software Engineer,I,P,24.96,1,9400
+Middle-Aged,M,Obese,0,0,3.5,Rajkot,Factory Worker,I,P,23.96,1,13800
+Adult,M,Obese,0,3,4.62,Pune,Insurance Agent,I,P,25.95,1,12600
+Middle-Aged,M,Obese,1,0,9.2,Agra,Accountant,I,S,25.41,0,25400
+Senior,F,Normal,1,2,6.6,Indore,Shop Owner,I,S,24.0,0,31000
+Middle-Aged,F,Normal,0,3,3.68,Ahmedabad,Factory Worker,I,S,24.0,0,15800
+Young Adult,F,Obese,1,2,3.27,Ahmedabad,Lab Technician,I,P,23.0,1,11000
+Adult,M,Overweight,1,0,11.36,Kanpur,Lawyer,I,P,24.4,1,14800
+Adult,F,Overweight,0,0,4.89,Ghaziabad,Software Engineer,I,P,23.0,1,11200
+Young Adult,F,Obese,0,1,6.0,Bhopal,Data Analyst,I,S,23.0,0,6400
+Middle-Aged,M,Overweight,0,1,13.3,Surat,Sales Manager,I,S,24.0,0,16200
+Middle-Aged,M,Obese,0,0,12.88,Hyderabad,Sales Manager,I,S,24.0,0,15200
+Young Adult,M,Obese,0,1,8.24,Faridabad,Lawyer,I,S,25.0,0,6800
+Young Adult,F,Overweight,0,2,3.0,Varanasi,Lab Technician,I,S,26.0,0,5800
+Adult,M,Obese,0,1,7.62,Ludhiana,Banker,I,S,23.5,0,7800
+Middle-Aged,M,Obese,0,0,3.98,Kolkata,Driver,I,S,9.9,0,18200
+Young Adult,M,Obese,0,0,8.0,Indore,Lawyer,I,S,25.0,0,5600
+Senior,M,Obese,1,0,11.15,Vadodara,Accountant,I,P,25.95,1,38500
+Adult,M,Overweight,0,1,8.3,Ghaziabad,Government Employee,I,P,25.97,1,11800
+Young Adult,M,Obese,0,0,2.36,Kolkata,Driver,I,S,24.0,0,7200
+Young Adult,F,Obese,0,1,6.2,Kolkata,Government Employee,I,S,22.42,0,7600
+Adult,M,Obese,0,1,12.32,Chennai,Lawyer,I,S,24.0,0,10800
+Young Adult,M,Obese,0,0,6.18,Delhi,Data Analyst,I,P,24.0,1,6200
+Middle-Aged,F,Overweight,0,1,4.22,Agra,Electrician,I,P,26.0,1,19800
+Adult,F,Overweight,0,0,5.08,Faridabad,Content Writer,I,S,25.49,0,7100
+Middle-Aged,M,Overweight,0,2,8.2,Allahabad,Content Writer,I,S,25.49,0,19200
+Adult,F,Obese,1,1,9.06,Srinagar,Civil Servant,I,S,25.49,0,16800
+Young Adult,M,Overweight,0,0,12.0,Rajkot,Doctor,I,S,20.31,0,5800
+Young Adult,F,Obese,0,1,8.0,Hyderabad,Marketing Manager,I,P,24.4,1,5900
+Young Adult,M,Overweight,0,3,8.96,Allahabad,Consultant,I,P,25.0,1,8200
+Adult,F,Obese,0,0,10.14,Ahmedabad,Banker,I,P,24.0,1,12400
+Young Adult,F,Obese,0,0,5.0,Surat,Government Employee,I,P,24.0,1,5600
+Young Adult,M,Normal,0,2,8.48,Pune,Consultant,I,P,24.0,1,6900
+Middle-Aged,F,Obese,0,0,12.84,Rajkot,Engineer,I,P,24.0,1,21500
+Middle-Aged,M,Normal,0,0,13.51,Mumbai,Sales Manager,I,P,25.16,1,16500
+Middle-Aged,M,Obese,0,0,12.3,Indore,Banker,I,P,13.93,1,19200
+Middle-Aged,M,Obese,0,1,5.97,Kolkata,Nurse,I,P,12.93,1,18500
+Young Adult,M,Normal,0,0,3.09,Nagpur,Software Engineer,I,P,24.0,1,5800
+Middle-Aged,F,Obese,1,2,8.08,Patna,Content Writer,I,P,23.73,1,31000
+Middle-Aged,M,Obese,0,1,6.15,Nashik,Lab Technician,I,P,22.06,1,19500
+Adult,M,Normal,0,1,6.76,Rajkot,Teacher,I,S,24.0,0,12200
+Young Adult,M,Overweight,0,0,6.36,Chennai,Data Analyst,I,S,20.75,0,6200
+Young Adult,M,Obese,0,1,7.0,Ludhiana,HR Manager,I,P,24.0,1,6800
+Middle-Aged,F,Overweight,0,0,12.84,Patna,Civil Servant,I,P,25.0,1,22000
+Senior,F,Obese,0,0,4.4,Meerut,Factory Worker,I,P,24.0,1,25200
+Young Adult,M,Normal,1,0,8.0,Agra,Lawyer,I,S,24.99,0,9500
+Young Adult,F,Obese,1,0,5.0,Pune,Accountant,I,P,24.0,1,10800
+Middle-Aged,F,Overweight,0,3,17.5,Amritsar,Businessman,I,P,24.47,1,14800
+Adult,M,Obese,0,1,10.88,Nagpur,Marketing Manager,I,P,23.98,1,8600
+Young Adult,F,Overweight,0,0,3.54,Bangalore,Shop Owner,I,P,23.98,1,6800
+Adult,F,Obese,1,1,2.72,Kanpur,Carpenter,I,S,22.22,0,14500
+Middle-Aged,M,Overweight,1,2,16.64,Ranchi,Consultant,I,S,23.96,0,31500
+Adult,F,Normal,0,1,2.96,Amritsar,Factory Worker,I,S,12.91,0,9100
+Middle-Aged,M,Overweight,1,3,9.65,Rajkot,Accountant,I,S,12.91,0,29800
+Young Adult,M,Overweight,0,3,6.18,Faridabad,Civil Servant,I,P,25.91,1,7600
+Senior,M,Overweight,0,0,8.92,Surat,Chef,I,S,26.0,0,23500
+Adult,M,Obese,0,2,5.44,Nashik,Content Writer,I,S,23.0,0,9100
+Adult,F,Obese,0,1,4.8,Lucknow,Shop Owner,I,S,26.0,0,11500
+Young Adult,M,Obese,0,2,6.9,Hyderabad,Banker,I,S,26.0,0,7400
+Middle-Aged,M,Overweight,1,0,11.76,Nagpur,Data Analyst,I,P,26.0,1,26500
+Middle-Aged,F,Obese,0,1,9.35,Hyderabad,Government Employee,I,P,24.0,1,15200
+Young Adult,F,Obese,0,0,4.0,Pune,Chef,I,S,26.0,0,5500
+Young Adult,M,Overweight,0,2,2.0,Kanpur,Driver,I,P,25.0,1,6600
+Middle-Aged,M,Overweight,1,0,12.3,Lucknow,Retail Manager,I,P,24.0,1,28800
+Middle-Aged,F,Normal,0,0,4.28,Hyderabad,Factory Worker,I,P,24.0,1,18500
+Young Adult,F,Overweight,0,2,3.0,Faridabad,Software Engineer,I,P,25.0,1,7200
+Adult,F,Normal,1,2,9.52,Kolkata,Sales Manager,I,S,24.0,0,14500
+Middle-Aged,F,Overweight,0,1,4.16,Bhopal,Carpenter,I,S,26.0,0,16800
+Middle-Aged,F,Obese,0,0,11.76,Nagpur,Engineer,I,S,23.0,0,18200
+Middle-Aged,F,Obese,0,2,25.68,Visakhapatnam,Doctor,I,S,25.0,0,22500
+Adult,F,Overweight,0,1,12.8,Agra,Lawyer,I,S,25.41,0,10500
+Middle-Aged,F,Normal,0,0,8.75,Amritsar,Accountant,I,S,25.0,0,11200
+Middle-Aged,M,Obese,0,0,3.44,Jaipur,Electrician,I,S,25.0,0,12800
+Young Adult,F,Obese,0,5,8.0,Nagpur,Lawyer,I,S,23.0,0,9800
+Middle-Aged,M,Overweight,0,1,11.94,Allahabad,Civil Servant,I,S,23.16,0,16200
+Middle-Aged,F,Obese,0,2,5.97,Bhopal,Nurse,I,S,10.83,0,16500
+Middle-Aged,M,Obese,0,1,4.16,Rajkot,Driver,I,P,23.62,1,20800
+Senior,M,Overweight,1,1,6.51,Pune,Lab Technician,I,P,24.0,1,28500
+Young Adult,F,Overweight,0,0,4.0,Varanasi,Content Writer,I,P,24.5,1,5500
+Middle-Aged,M,Obese,0,2,10.32,Agra,Engineer,I,P,24.0,1,17200
+Young Adult,M,Normal,0,0,12.4,Ghaziabad,Businessman,I,S,24.0,0,6800
+Middle-Aged,M,Overweight,0,2,6.33,Kanpur,Software Engineer,I,S,24.96,0,18900
+Middle-Aged,F,Normal,0,2,12.12,Agra,Retail Manager,I,S,24.86,0,16200
+Adult,M,Underweight,0,0,2.72,Mumbai,Carpenter,I,S,23.97,0,8200
+Young Adult,M,Normal,0,0,7.42,Jaipur,HR Manager,I,S,19.99,0,5800
+Senior,M,Obese,1,3,17.36,Ludhiana,Lawyer,I,S,23.88,0,32000
+Adult,M,Obese,1,3,11.83,Delhi,Sales Manager,I,P,23.99,1,21500
+Young Adult,F,Obese,1,0,6.0,Indore,Civil Servant,I,P,23.49,1,8900
+Adult,M,Obese,0,0,13.04,Chennai,Lawyer,I,P,25.4,1,12800
+Middle-Aged,F,Obese,0,2,5.7,Allahabad,Lab Technician,I,P,25.4,1,16400
+Middle-Aged,F,Normal,0,1,8.44,Ludhiana,Chef,I,P,25.99,1,17500
+Young Adult,M,Overweight,0,1,12.0,Faridabad,Doctor,I,P,8.42,1,6200
+Senior,M,Overweight,0,3,11.15,Allahabad,Accountant,I,P,4.99,1,22800
+Middle-Aged,F,Overweight,0,2,5.7,Chennai,Shop Owner,I,P,25.33,1,15800
+Adult,F,Obese,1,1,8.88,Ranchi,Civil Servant,I,S,24.69,0,16200
+Young Adult,M,Normal,0,1,7.21,Ranchi,Architect,I,S,23.91,0,5800
+Middle-Aged,F,Obese,0,2,6.88,Bangalore,Real Estate Agent,I,S,24.41,0,15200
+Young Adult,M,Obese,0,0,7.84,Rajkot,Architect,I,S,24.91,0,6800
+Middle-Aged,F,Normal,0,0,9.35,Vadodara,Government Employee,I,S,22.92,0,12800
+Young Adult,M,Obese,1,1,6.0,Vadodara,Banker,I,S,9.39,0,7800
+Young Adult,M,Normal,0,0,3.0,Amritsar,Nurse,I,S,10.39,0,5000
+Young Adult,F,Obese,0,0,8.05,Visakhapatnam,HR Manager,I,P,22.93,1,6800
+Young Adult,M,Obese,0,3,4.72,Faridabad,Pharmacist,I,P,18.0,1,8400
+Young Adult,M,Obese,0,1,4.0,Vadodara,Teacher,I,S,23.91,0,6100
+Middle-Aged,F,Obese,0,0,6.24,Bhopal,Software Engineer,I,P,23.16,1,17800
+Senior,M,Obese,0,0,8.68,Indore,Real Estate Agent,I,S,23.91,0,21500
+Middle-Aged,M,Obese,0,0,3.8,Agra,Plumber,I,S,5.34,0,14200
+Young Adult,F,Obese,1,0,8.26,Surat,HR Manager,I,S,23.91,0,10800
+Young Adult,M,Overweight,0,0,2.0,Bangalore,Driver,I,S,14.91,0,6200
+Young Adult,M,Overweight,0,1,4.0,Agra,Real Estate Agent,I,S,14.91,0,5800
+Young Adult,M,Obese,1,0,4.0,Varanasi,Chef,I,S,11.29,0,8200
+Adult,M,Obese,0,2,13.28,Ranchi,Lawyer,I,S,10.17,0,13800
+Adult,F,Overweight,1,0,3.32,Varanasi,Factory Worker,I,S,9.28,0,14200
+Senior,F,Normal,0,0,8.68,Hyderabad,Real Estate Agent,I,S,23.83,0,19500
+Young Adult,M,Overweight,1,3,4.0,Bangalore,Content Writer,I,S,11.65,0,8500
+Senior,F,Underweight,0,1,26.76,Lucknow,Doctor,I,S,24.91,0,20500
+Middle-Aged,F,Obese,0,1,13.72,Meerut,Sales Manager,I,S,9.05,0,19800
+Adult,F,Obese,1,0,12.08,Delhi,Lawyer,I,S,1.89,0,15500
+Adult,M,Obese,0,1,9.24,Delhi,Retail Manager,I,P,24.0,1,14800
+Adult,M,Overweight,0,1,4.8,Rajkot,Lab Technician,I,P,25.0,1,11500
+Middle-Aged,F,Overweight,0,0,10.5,Kolkata,Civil Servant,I,P,15.39,1,13500
+Adult,M,Normal,1,0,8.34,Hyderabad,Civil Servant,I,P,5.52,1,11800
+Adult,M,Obese,0,2,7.62,Faridabad,Engineer,I,P,4.27,1,8800
+Young Adult,M,Obese,0,1,3.09,Pune,Software Engineer,I,S,23.89,0,6900
+Young Adult,M,Overweight,0,1,8.0,Varanasi,Consultant,I,P,23.39,1,5600
+Senior,M,Overweight,0,0,6.78,Pune,Shop Owner,I,P,23.87,1,23500
+Middle-Aged,M,Obese,0,2,7.6,Patna,Chef,I,S,24.84,0,15200
+Young Adult,M,Overweight,1,0,2.42,Mumbai,Driver,I,S,25.83,0,11500
+Middle-Aged,M,Overweight,0,2,5.16,Agra,Lab Technician,I,S,25.83,0,12400
+Middle-Aged,M,Normal,0,0,6.24,Indore,Shop Owner,I,S,5.55,0,16800
+Young Adult,M,Obese,1,2,7.0,Pune,HR Manager,I,S,24.86,0,10500
+Young Adult,M,Obese,1,0,4.0,Ghaziabad,Pharmacist,I,P,23.85,1,8400
+Adult,F,Obese,0,0,6.52,Rajkot,Teacher,I,P,23.85,1,14800
+Senior,M,Overweight,0,4,4.52,Kanpur,Carpenter,I,P,22.85,1,24500
+Young Adult,M,Normal,0,0,11.8,Visakhapatnam,Businessman,I,S,23.86,0,6500
+Adult,F,Overweight,0,3,10.14,Delhi,Civil Servant,I,S,23.86,0,14800
+Middle-Aged,M,Overweight,0,1,3.86,Chennai,Factory Worker,I,P,23.86,1,16500
+Adult,F,Overweight,0,0,7.98,Kanpur,Data Analyst,I,P,23.86,1,8200
+Middle-Aged,M,Overweight,0,0,14.96,Rajkot,Consultant,I,S,24.0,0,13800
+Middle-Aged,F,Overweight,0,3,3.62,Hyderabad,Plumber,I,S,25.4,0,15200
+Middle-Aged,M,Normal,0,0,5.34,Ranchi,Shop Owner,I,P,23.75,1,12800
+Young Adult,M,Obese,0,2,4.84,Kanpur,Pharmacist,I,P,24.42,1,8200
+Young Adult,M,Overweight,0,3,3.0,Bangalore,Lab Technician,I,P,23.25,1,6800
+Middle-Aged,F,Normal,0,3,3.98,Srinagar,Factory Worker,I,P,23.75,1,17200
+Adult,M,Overweight,0,2,7.98,Ranchi,Banker,I,P,23.33,1,9200
+Adult,F,Overweight,0,0,3.2,Lucknow,Plumber,I,P,23.83,1,11200
+Young Adult,F,Obese,0,1,5.0,Vadodara,Accountant,I,P,24.83,1,7200
+Middle-Aged,M,Obese,0,0,20.5,Bhopal,Businessman,I,P,23.86,1,21000
+Young Adult,M,Obese,0,0,7.44,Patna,Retail Manager,I,P,13.12,1,7400
+Young Adult,M,Obese,0,2,2.0,Mumbai,Electrician,I,P,23.83,1,8600
+Adult,M,Overweight,0,2,6.65,Bangalore,Government Employee,I,S,23.0,0,9500
+Adult,F,Overweight,0,0,10.4,Delhi,Consultant,I,S,25.2,0,9800
+Middle-Aged,M,Obese,0,2,24.24,Lucknow,Doctor,I,S,22.0,0,19200
+Adult,F,Obese,1,1,6.5,Vadodara,Accountant,I,P,23.83,1,12800
+Middle-Aged,F,Overweight,1,0,14.77,Varanasi,HR Manager,I,P,22.84,1,26500
+Adult,M,Obese,0,1,8.7,Kanpur,Data Analyst,I,P,20.82,1,10200
+Adult,F,Normal,1,0,10.16,Nashik,Marketing Manager,I,P,-0.42,1,10500
+Middle-Aged,M,Overweight,0,0,6.88,Hyderabad,Teacher,I,P,24.51,1,13200
+Adult,F,Obese,0,0,5.44,Varanasi,Teacher,I,S,24.0,0,11500
+Middle-Aged,M,Obese,0,0,3.62,Delhi,Driver,I,P,23.25,1,14200
+Adult,M,Obese,0,2,5.44,Delhi,Real Estate Agent,I,P,24.75,1,12800
+Middle-Aged,M,Obese,0,1,5.7,Nashik,Lab Technician,I,P,24.39,1,15800
+Young Adult,F,Obese,0,3,6.36,Agra,Civil Servant,I,P,23.83,1,9800
+Senior,M,Obese,1,2,6.6,Bhopal,Shop Owner,I,P,18.46,1,31500
+Young Adult,M,Overweight,0,1,3.0,Faridabad,Lab Technician,I,S,23.84,0,8500
+Young Adult,M,Obese,0,0,8.0,Rajkot,Lawyer,I,P,17.83,1,7800
+Middle-Aged,M,Obese,0,1,24.96,Hyderabad,Doctor,I,P,22.97,1,31500
+Adult,F,Obese,0,1,3.14,Nagpur,Electrician,I,S,24.75,0,14200
+Adult,M,Overweight,0,0,3.08,Delhi,Carpenter,I,S,24.72,0,11800
+Middle-Aged,F,Normal,0,0,8.56,Bangalore,Chef,I,S,23.75,0,26000
+Adult,M,Obese,0,1,4.35,Indore,Software Engineer,I,S,23.8,0,16500
+Adult,M,Obese,0,1,12.32,Bangalore,Lawyer,I,S,25.82,0,16200
+Middle-Aged,F,Obese,0,0,3.74,Patna,Carpenter,I,S,25.75,0,21500
+Middle-Aged,F,Overweight,0,0,21.72,Amritsar,Doctor,I,P,24.51,1,16800
+Adult,F,Obese,0,1,9.1,Nagpur,Sales Manager,I,S,25.59,0,11200
+Adult,F,Obese,0,0,6.76,Nagpur,Content Writer,I,S,24.75,0,17500
+Middle-Aged,F,Obese,1,0,21.36,Kolkata,Doctor,I,P,22.84,1,24200
+Young Adult,M,Overweight,0,1,8.24,Visakhapatnam,Consultant,I,P,25.75,1,9200
+Young Adult,F,Underweight,0,0,6.18,Srinagar,Engineer,I,P,23.72,1,6200
+Adult,M,Obese,0,0,9.31,Surat,Architect,I,P,23.72,1,11200
+Young Adult,M,Overweight,0,3,5.3,Srinagar,Accountant,I,S,23.75,0,11500
+Young Adult,M,Obese,0,1,4.0,Ghaziabad,Real Estate Agent,I,P,24.56,1,8800
+Middle-Aged,F,Overweight,0,2,12.84,Nagpur,Retail Manager,I,P,22.72,1,29800
+Adult,F,Overweight,0,1,2.54,Patna,Factory Worker,I,S,24.74,0,10200
+Middle-Aged,F,Overweight,1,0,14.56,Amritsar,HR Manager,I,S,25.75,0,32500
+Senior,F,Normal,0,1,6.69,Indore,Lab Technician,I,S,24.75,0,31000
+Middle-Aged,F,Obese,0,2,12.66,Nashik,Civil Servant,I,S,24.73,0,31200
+Adult,M,Obese,0,0,2.54,Nagpur,Driver,I,P,23.75,1,10800
+Adult,M,Normal,0,0,15.96,Indore,Doctor,I,P,23.67,1,9800
+Young Adult,F,Overweight,0,2,3.0,Varanasi,Shop Owner,I,P,22.92,1,9500
+Adult,F,Obese,0,0,4.08,Hyderabad,Insurance Agent,I,P,23.67,1,12500
+Adult,M,Obese,0,0,4.71,Kanpur,Software Engineer,I,P,11.56,1,12800
+Senior,M,Normal,0,0,13.02,Srinagar,Retail Manager,I,P,24.74,1,26500
+Young Adult,F,Overweight,0,0,2.42,Nagpur,Factory Worker,I,P,24.74,1,8500
+Young Adult,M,Obese,0,0,12.0,Allahabad,Doctor,I,P,22.75,1,8200
+Senior,M,Obese,0,3,15.82,Ranchi,Architect,I,S,23.7,0,34200
+Middle-Aged,M,Obese,1,3,7.36,Patna,Teacher,I,P,24.7,1,29500
+Middle-Aged,M,Overweight,0,2,7.24,Nashik,Pharmacist,I,P,22.67,1,18500
+Young Adult,M,Normal,0,0,2.0,Ludhiana,Factory Worker,I,S,23.67,0,6800
+Young Adult,F,Obese,0,0,2.0,Ghaziabad,Carpenter,I,S,24.67,0,7200
+Middle-Aged,M,Normal,0,1,14.56,Delhi,Sales Manager,I,P,24.18,1,24800
+Middle-Aged,M,Obese,1,0,11.94,Agra,Retail Manager,I,S,22.67,0,31000
+Adult,F,Overweight,0,0,12.32,Kanpur,Consultant,I,S,22.0,0,12100
+Adult,M,Obese,0,1,2.72,Patna,Factory Worker,I,S,24.66,0,12200
+Young Adult,F,Normal,1,2,2.18,Surat,Electrician,I,P,22.67,1,15500
+Middle-Aged,M,Obese,0,0,8.75,Nashik,Government Employee,I,P,24.0,1,17800
+Adult,F,Normal,1,1,2.66,Vadodara,Electrician,I,S,23.64,0,16200
+Middle-Aged,M,Obese,0,0,3.98,Agra,Electrician,I,S,23.64,0,23500
+Adult,F,Normal,0,0,11.83,Ludhiana,Sales Manager,I,P,22.75,1,14100
+Middle-Aged,F,Normal,0,2,9.5,Ahmedabad,Government Employee,I,P,20.5,1,21800
+Adult,M,Normal,0,1,3.81,Ludhiana,Insurance Agent,I,P,23.63,1,9800
+Middle-Aged,M,Normal,0,0,12.25,Srinagar,Architect,I,S,22.65,0,14900
+Young Adult,M,Obese,1,1,4.0,Faridabad,Real Estate Agent,I,S,25.3,0,13500
+Young Adult,F,Obese,0,0,2.36,Bangalore,Plumber,I,S,23.65,0,9200
+Senior,F,Overweight,1,0,6.6,Allahabad,Shop Owner,I,S,23.21,0,38500
+Senior,F,Normal,0,1,13.02,Mumbai,Retail Manager,I,S,26.18,0,28200
+Middle-Aged,F,Normal,0,2,8.32,Nagpur,Pharmacist,I,P,19.42,1,26800
+Young Adult,M,Overweight,1,0,3.0,Pune,Shop Owner,I,P,23.86,1,13200
+Young Adult,M,Obese,1,1,3.0,Indore,Nurse,I,S,24.84,0,16500
+Young Adult,M,Overweight,0,2,8.47,Surat,HR Manager,I,P,23.86,1,12500
+Middle-Aged,F,Obese,1,0,3.8,Pune,Factory Worker,I,S,24.0,0,29800
+Adult,F,Overweight,1,2,2.9,Indore,Plumber,I,P,25.46,1,21500
+Adult,F,Obese,0,2,6.64,Allahabad,Real Estate Agent,I,P,9.39,1,18200
+Adult,M,Overweight,0,0,20.28,Indore,Doctor,I,P,6.74,1,13900
+Young Adult,F,Obese,0,2,9.68,Faridabad,Consultant,I,P,4.35,1,11800
+Senior,M,Obese,0,2,13.02,Jaipur,Data Analyst,I,P,4.53,1,31500
+Senior,F,Overweight,0,3,8.92,Ranchi,Real Estate Agent,I,P,22.91,1,32000
+Young Adult,F,Obese,0,2,3.0,Mumbai,Lab Technician,I,P,2.5,1,10500
+Senior,M,Overweight,1,3,13.56,Srinagar,Engineer,I,P,0.76,1,42000
+Adult,M,Obese,0,1,12.8,Agra,Consultant,I,P,24.75,1,14500
+Young Adult,F,Normal,0,1,12.0,Bangalore,Doctor,I,P,24.5,1,7800
+Adult,F,Obese,1,2,9.52,Indore,Architect,I,P,23.74,1,18200
+Young Adult,F,Normal,0,0,12.0,Chennai,Doctor,I,P,25.7,1,7500
+Middle-Aged,M,Overweight,0,0,3.62,Kanpur,Driver,I,S,22.72,0,15800
+Middle-Aged,M,Obese,0,0,7.48,Ranchi,Chef,I,P,23.68,1,18500
+Middle-Aged,F,Obese,0,2,7.36,Rajkot,Real Estate Agent,I,S,24.69,0,21200
+Middle-Aged,F,Obese,0,2,3.5,Allahabad,Carpenter,I,S,22.99,0,21500
+Young Adult,F,Obese,1,1,2.0,Kolkata,Electrician,I,S,22.65,0,14800
+Adult,M,Obese,0,1,2.6,Mumbai,Factory Worker,I,S,22.65,0,13800
+Young Adult,F,Overweight,0,3,2.36,Ludhiana,Driver,I,S,25.4,0,12800
+Young Adult,F,Obese,0,0,3.54,Agra,Software Engineer,I,S,23.65,0,8800
+Young Adult,F,Normal,0,0,3.09,Hyderabad,Lab Technician,I,S,15.91,0,6800
+Young Adult,F,Obese,0,0,3.63,Kolkata,Insurance Agent,I,S,9.65,0,9200
+Young Adult,M,Overweight,0,1,12.0,Patna,Doctor,I,P,23.64,1,8200
+Middle-Aged,M,Normal,0,0,15.92,Ludhiana,Consultant,I,S,24.54,0,21000
+Adult,F,Obese,0,1,3.2,Lucknow,Plumber,I,S,23.5,0,16200
+Middle-Aged,M,Obese,0,2,5.7,Indore,Shop Owner,I,P,24.42,1,22500
+Adult,M,Overweight,0,5,3.99,Ghaziabad,Nurse,I,P,24.31,1,16800
+Adult,M,Normal,0,2,3.02,Delhi,Plumber,I,S,23.32,0,13500
+Middle-Aged,F,Normal,0,2,3.5,Surat,Driver,I,S,26.2,0,15200
+Middle-Aged,F,Obese,0,0,7.96,Srinagar,Chef,I,S,25.2,0,21500
+Adult,F,Obese,0,3,4.17,Nagpur,Shop Owner,I,S,24.21,0,15800
+Young Adult,M,Obese,0,0,5.0,Faridabad,Government Employee,I,P,21.84,1,10500
+Middle-Aged,F,Obese,0,1,5.97,Faridabad,Nurse,I,S,25.0,0,23500
+Middle-Aged,F,Normal,0,3,12.25,Indore,HR Manager,I,P,23.16,1,18200
+Middle-Aged,M,Underweight,0,3,12.88,Indore,HR Manager,I,P,24.95,1,19500
+Adult,F,Normal,0,2,3.02,Delhi,Driver,I,P,19.71,1,14200
+Adult,M,Overweight,0,3,3.2,Bhopal,Driver,I,S,24.21,0,16800
+Middle-Aged,F,Obese,0,5,9.8,Surat,Government Employee,I,S,23.15,0,25800
+Middle-Aged,F,Overweight,1,0,5.34,Nashik,Lab Technician,I,S,23.15,0,24500
+Senior,M,Obese,0,0,6.51,Varanasi,Shop Owner,I,S,23.15,0,32000
+Young Adult,F,Obese,0,1,2.42,Ludhiana,Electrician,I,S,23.15,0,12800
+Middle-Aged,M,Overweight,0,0,12.12,Lucknow,Banker,I,S,23.15,0,23500
+Young Adult,F,Overweight,1,0,6.0,Nashik,Banker,I,S,15.23,0,12200
+Middle-Aged,F,Normal,0,1,11.04,Chennai,Engineer,I,S,25.08,0,14500
+Middle-Aged,F,Obese,0,1,12.3,Kanpur,Banker,I,S,24.1,0,21500
+Adult,M,Obese,1,0,2.72,Srinagar,Carpenter,I,P,23.04,1,16500
+Young Adult,F,Overweight,1,2,3.0,Surat,Software Engineer,I,P,24.97,1,13500
+Young Adult,M,Obese,0,1,3.54,Jaipur,Lab Technician,I,S,24.0,0,11800
+Young Adult,F,Overweight,0,1,6.9,Lucknow,Engineer,I,S,24.0,0,8200
+Adult,F,Normal,1,1,4.53,Chennai,Lab Technician,I,S,24.0,0,15800
+Adult,F,Obese,0,3,6.4,Ranchi,Pharmacist,I,S,6.91,0,16200
+Young Adult,M,Obese,0,0,12.0,Varanasi,Doctor,I,S,26.0,0,8500
+Adult,F,Overweight,0,1,15.96,Kolkata,Doctor,I,S,25.0,0,9800
+Adult,M,Overweight,0,1,6.8,Indore,Accountant,I,S,22.8,0,9500
+Young Adult,F,Overweight,0,0,7.0,Chennai,Sales Manager,I,S,23.0,0,5200
+Young Adult,M,Obese,0,1,6.0,Ahmedabad,Civil Servant,I,S,24.0,0,7800
+Adult,F,Overweight,0,2,4.53,Ludhiana,Insurance Agent,I,S,25.0,0,12500
+Young Adult,F,Obese,0,0,4.72,Amritsar,Real Estate Agent,I,P,24.0,1,10200
+Middle-Aged,F,Normal,0,0,14.98,Chennai,Architect,I,S,24.61,0,21000
+Middle-Aged,M,Overweight,0,2,3.56,Ghaziabad,Factory Worker,I,S,24.0,0,15200
+Young Adult,F,Obese,0,0,8.0,Bhopal,Marketing Manager,I,S,23.16,0,5500
+Young Adult,F,Overweight,0,0,4.24,Agra,Teacher,I,S,24.0,0,6200
+Young Adult,F,Obese,1,0,6.9,Pune,Retail Manager,I,S,24.0,0,13800
+Adult,M,Obese,0,2,4.71,Hyderabad,Insurance Agent,I,S,23.0,0,14100
+Adult,F,Obese,0,2,2.54,Pune,Driver,I,S,24.0,0,13200
+Young Adult,F,Obese,0,0,5.0,Pune,Government Employee,I,S,25.0,0,5800
+Adult,M,Normal,1,0,2.54,Indore,Plumber,I,P,24.0,1,15200
+Adult,F,Normal,0,0,9.73,Nagpur,Sales Manager,I,S,22.0,0,8800
+Adult,M,Normal,0,1,15.6,Kolkata,Doctor,I,P,23.5,1,9200
+Young Adult,F,Normal,0,0,8.72,Surat,Marketing Manager,I,P,25.0,1,6400
+Young Adult,M,Overweight,0,3,5.3,Surat,Accountant,I,S,24.0,0,9800
+Middle-Aged,F,Overweight,0,0,12.88,Lucknow,Architect,I,P,24.0,1,13800
+Adult,M,Normal,0,0,6.16,Kanpur,Pharmacist,I,P,23.0,1,10500
+Young Adult,M,Obese,0,1,8.0,Bangalore,Marketing Manager,I,S,24.0,0,8900
+Adult,M,Obese,0,3,4.08,Nashik,Nurse,I,P,26.0,1,15200
+Adult,F,Obese,0,1,3.14,Delhi,Factory Worker,I,P,26.0,1,12800
+Adult,F,Obese,0,0,8.7,Visakhapatnam,Data Analyst,I,P,26.0,1,10200
+Young Adult,F,Obese,0,2,3.0,Ranchi,Lab Technician,I,P,26.0,1,8400
+Middle-Aged,F,Overweight,0,0,5.34,Ranchi,Lab Technician,I,P,7.52,1,13200
+Middle-Aged,M,Obese,0,4,3.8,Ghaziabad,Factory Worker,I,P,25.0,1,21500
+Young Adult,F,Obese,0,4,7.21,Ahmedabad,Architect,I,P,25.0,1,10500
+Adult,M,Obese,0,0,4.89,Lucknow,Lab Technician,I,P,23.0,1,13500
+Young Adult,F,Overweight,0,0,4.0,Kanpur,Pharmacist,I,P,25.0,1,5100
+Adult,F,Obese,0,0,6.95,Meerut,Accountant,I,P,24.42,1,10500
+Young Adult,F,Normal,0,0,3.72,Agra,Shop Owner,I,S,24.0,0,7200
+Young Adult,F,Overweight,0,1,2.3,Nashik,Factory Worker,I,S,19.29,0,8100
+Young Adult,M,Overweight,0,0,6.0,Kanpur,Retail Manager,I,S,25.84,0,5100
+Adult,F,Obese,0,0,7.8,Ludhiana,Banker,I,S,26.0,0,11200
+Adult,F,Obese,0,0,9.78,Hyderabad,Data Analyst,I,S,25.79,0,12200
+Middle-Aged,M,Obese,0,2,4.28,Allahabad,Carpenter,I,S,25.0,0,24800
+Senior,M,Normal,0,0,15.4,Srinagar,HR Manager,I,S,24.0,0,23500
+Young Adult,F,Overweight,1,2,6.0,Hyderabad,Engineer,I,S,7.09,0,14800
+Adult,M,Overweight,0,1,11.83,Pune,Sales Manager,I,S,6.36,0,13800
+Adult,F,Obese,0,0,9.52,Ranchi,Architect,I,S,3.14,0,9800
+Middle-Aged,F,Overweight,1,0,16.88,Varanasi,Lawyer,I,S,24.09,0,38500
+Young Adult,M,Overweight,1,0,3.0,Jaipur,Insurance Agent,I,S,24.0,0,12500
+Adult,F,Overweight,1,0,5.2,Agra,Real Estate Agent,I,S,23.0,0,14800
+Senior,M,Obese,1,0,22.3,Kanpur,Businessman,I,S,24.0,0,42000
+Young Adult,F,Obese,0,0,10.6,Pune,Businessman,I,S,16.08,0,7200
+Adult,F,Overweight,0,0,7.25,Ghaziabad,Accountant,I,S,15.99,0,11200
+Adult,F,Normal,0,0,13.6,Ranchi,Businessman,I,S,9.1,0,8800
+Middle-Aged,F,Overweight,1,3,7.84,Ghaziabad,Content Writer,I,S,6.59,0,32000
+Young Adult,F,Normal,0,1,8.72,Agra,Marketing Manager,I,S,24.0,0,7500
+Senior,F,Overweight,1,0,4.52,Ahmedabad,Carpenter,I,P,24.0,1,44000
+Middle-Aged,M,Obese,0,1,8.32,Varanasi,Teacher,I,P,23.0,1,22500
+Young Adult,F,Obese,0,0,4.96,Indore,Chef,I,S,24.75,0,8200
+Young Adult,F,Obese,0,1,4.24,Indore,Real Estate Agent,I,S,20.0,0,18500
+Adult,M,Obese,0,0,5.2,Kanpur,Content Writer,I,S,23.0,0,9100
+Young Adult,F,Overweight,0,2,2.48,Varanasi,Electrician,I,S,24.0,0,9800
+Middle-Aged,F,Obese,0,0,7.96,Delhi,Content Writer,I,P,25.0,1,18500
+Adult,M,Normal,0,1,6.64,Nagpur,Chef,I,P,24.0,1,12800
+Adult,F,Obese,0,2,2.72,Chennai,Carpenter,I,P,25.41,1,11200
+Adult,M,Obese,0,1,2.84,Patna,Electrician,I,P,25.0,1,24500
+Senior,M,Overweight,0,0,6.78,Amritsar,Lab Technician,I,S,23.16,0,25800
+Middle-Aged,F,Obese,0,1,7.12,Indore,Real Estate Agent,I,S,14.84,0,15800
+Young Adult,M,Overweight,0,2,3.63,Delhi,Lab Technician,I,P,24.0,1,9800
+Adult,F,Obese,1,2,7.8,Bangalore,Banker,I,P,24.0,1,17500
+Adult,F,Obese,0,0,9.6,Srinagar,Engineer,I,P,21.93,1,11800
+Adult,F,Overweight,0,0,4.08,Delhi,Nurse,I,S,23.92,0,8600
+Adult,M,Obese,1,0,8.88,Faridabad,Civil Servant,I,S,23.24,0,18500
+Middle-Aged,F,Obese,0,0,6.24,Kolkata,Shop Owner,I,S,24.0,0,21500
+Adult,F,Overweight,0,1,4.44,Faridabad,Lab Technician,I,S,24.49,0,11200
+Adult,F,Obese,0,2,11.41,Varanasi,HR Manager,I,S,25.0,0,15800
+Young Adult,F,Obese,0,0,3.36,Srinagar,Lab Technician,I,S,25.0,0,9200
+Young Adult,F,Obese,0,3,3.27,Rajkot,Shop Owner,I,S,25.4,0,10800
+Adult,F,Overweight,0,1,15.7,Lucknow,Businessman,I,S,23.5,0,12500
+Middle-Aged,F,Overweight,0,2,9.8,Chennai,Government Employee,I,S,26.0,0,18200
+Adult,F,Overweight,0,2,6.4,Jaipur,Chef,I,S,26.0,0,15200
+Middle-Aged,F,Overweight,0,2,7.72,Surat,Real Estate Agent,I,S,23.93,0,17800
+Adult,M,Obese,0,0,5.44,Mumbai,Chef,I,P,23.97,1,31500
+Adult,M,Obese,0,0,11.41,Visakhapatnam,Architect,I,P,26.0,1,13200
+Adult,M,Normal,1,0,5.07,Kolkata,Shop Owner,I,S,24.69,0,18800
+Middle-Aged,M,Overweight,0,0,7.0,Pune,Teacher,I,S,26.0,0,14800
+Young Adult,F,Obese,0,3,9.68,Vadodara,Consultant,I,S,24.0,0,12500
+Young Adult,M,Obese,0,1,2.0,Nagpur,Electrician,I,S,23.0,0,7200
+Adult,F,Obese,0,3,3.99,Agra,Lab Technician,I,S,23.91,0,12800
+Adult,M,Normal,0,0,11.83,Kolkata,HR Manager,I,S,24.0,0,12200
+Young Adult,M,Normal,1,1,2.0,Patna,Driver,I,P,23.0,1,12800
+Senior,F,Overweight,1,2,4.46,Jaipur,Factory Worker,I,P,25.61,1,45000
+Adult,F,Obese,0,3,16.0,Kolkata,Businessman,I,P,25.92,1,15200
+Young Adult,M,Obese,1,3,2.0,Hyderabad,Plumber,I,S,23.86,0,16500
+Middle-Aged,M,Obese,0,2,7.48,Ranchi,Teacher,I,S,22.86,0,17800
+Young Adult,F,Normal,0,0,6.9,Delhi,Engineer,I,S,25.86,0,6800
+Adult,F,Obese,1,3,4.17,Meerut,Shop Owner,I,S,23.86,0,21850
+Adult,M,Obese,1,2,9.78,Delhi,Data Analyst,I,S,24.0,0,25300
+Middle-Aged,M,Overweight,0,0,6.88,Hyderabad,Content Writer,I,S,23.93,0,12650
+Young Adult,F,Overweight,0,2,2.0,Lucknow,Carpenter,I,P,25.04,1,11200
+Young Adult,M,Overweight,0,5,3.0,Allahabad,Insurance Agent,I,S,23.75,0,15800
+Middle-Aged,M,Obese,0,1,5.25,Lucknow,Insurance Agent,I,S,24.0,0,16900
+Middle-Aged,M,Obese,1,0,16.16,Agra,Marketing Manager,I,S,24.5,0,31600
+Adult,M,Obese,1,3,3.38,Agra,Factory Worker,I,S,24.0,0,28750
+Adult,M,Obese,0,0,4.89,Visakhapatnam,Nurse,I,P,25.0,1,12880
+Adult,F,Obese,1,2,7.85,Ranchi,Government Employee,I,P,25.0,1,22200
+Adult,M,Obese,0,0,2.78,Patna,Driver,I,S,24.0,0,10120
+Young Adult,F,Obese,0,0,5.0,Delhi,Government Employee,I,S,26.0,0,8050
+Middle-Aged,F,Obese,0,3,3.44,Bhopal,Plumber,I,P,24.83,1,18400
+Young Adult,F,Overweight,0,3,5.9,Meerut,Government Employee,I,S,23.24,0,13800
+Adult,M,Obese,0,0,9.1,Ghaziabad,HR Manager,I,S,24.51,0,9200
+Middle-Aged,F,Obese,0,0,12.04,Chennai,Architect,I,S,25.54,0,14375
+Adult,F,Obese,0,0,9.94,Amritsar,Sales Manager,I,S,25.0,0,10120
+Adult,M,Obese,1,0,11.83,Kanpur,Sales Manager,I,S,23.75,0,21275
+Senior,F,Overweight,0,0,6.69,Delhi,Insurance Agent,I,S,23.75,0,25300
+Middle-Aged,F,Obese,0,2,11.58,Mumbai,Civil Servant,I,P,25.2,1,25875
+Young Adult,F,Obese,0,0,8.72,Ahmedabad,Lawyer,I,S,23.5,0,7475
+Young Adult,F,Overweight,1,1,5.0,Varanasi,Government Employee,I,S,22.0,0,13340
+Young Adult,F,Obese,0,0,4.36,Vadodara,Chef,I,S,23.25,0,7475
+Young Adult,M,Obese,1,1,2.12,Lucknow,Carpenter,I,S,18.83,0,15525
+Middle-Aged,F,Normal,1,3,12.46,Amritsar,HR Manager,I,S,24.0,0,27025
+Middle-Aged,F,Obese,0,3,6.06,Ludhiana,Lab Technician,I,P,17.16,1,28750
+Adult,M,Obese,0,0,5.32,Nagpur,Real Estate Agent,I,S,25.65,0,9775
+Young Adult,F,Obese,0,3,3.54,Lucknow,Lab Technician,I,S,26.25,0,14950
+Adult,M,Obese,0,2,2.54,Agra,Plumber,I,S,25.49,0,12650
+Adult,F,Obese,1,3,4.89,Nagpur,Nurse,I,S,23.25,0,25300
+Adult,F,Normal,0,2,9.96,Indore,Engineer,I,S,5.0,0,16100
+Young Adult,M,Obese,0,0,2.0,Amritsar,Driver,I,S,24.18,0,6325
+Senior,M,Normal,0,2,4.52,Kanpur,Electrician,I,S,6.0,0,26450
+Middle-Aged,F,Obese,1,3,9.95,Agra,Accountant,I,S,6.0,0,31050
+Senior,M,Obese,1,2,15.61,Patna,HR Manager,I,S,21.85,0,37950
+Young Adult,M,Obese,0,2,6.2,Bangalore,Accountant,I,P,26.09,1,14375
+Middle-Aged,F,Obese,0,1,10.86,Ghaziabad,Banker,I,S,24.08,0,19550
+Middle-Aged,F,Normal,1,0,8.32,Faridabad,Content Writer,I,S,23.84,0,28750
+Young Adult,F,Obese,0,2,2.24,Varanasi,Carpenter,I,S,23.57,0,13225
+Young Adult,F,Obese,1,1,11.5,Indore,Businessman,I,S,23.13,0,15525
+Young Adult,M,Obese,0,1,3.09,Bangalore,Shop Owner,I,S,23.13,0,12075
+Middle-Aged,M,Overweight,0,1,7.84,Delhi,Chef,I,S,23.13,0,21850
+Middle-Aged,F,Obese,0,0,11.22,Faridabad,Civil Servant,I,S,25.0,0,21850
+Middle-Aged,F,Normal,0,1,13.93,Agra,Architect,I,S,24.0,0,21850
+Young Adult,F,Obese,0,1,3.18,Allahabad,Shop Owner,I,S,22.76,0,10925
+Young Adult,F,Overweight,1,4,4.6,Faridabad,Chef,I,P,26.0,1,23575
+Young Adult,F,Normal,0,0,2.48,Bangalore,Driver,I,P,24.0,1,9200
+Senior,M,Overweight,0,3,4.4,Hyderabad,Carpenter,I,S,24.75,0,28750
+Adult,F,Obese,0,0,3.38,Nashik,Factory Worker,I,S,25.75,0,15525
+Young Adult,F,Obese,0,5,2.0,Allahabad,Factory Worker,I,S,23.0,0,18112
+Adult,M,Overweight,0,0,4.98,Srinagar,Nurse,I,S,25.2,0,12650
+Adult,F,Obese,0,0,4.26,Kolkata,Shop Owner,I,S,23.0,0,10120
+Young Adult,M,Overweight,0,1,4.48,Ranchi,Content Writer,I,S,24.97,0,9775
+Adult,F,Obese,0,2,6.64,Amritsar,Pharmacist,I,S,25.0,0,18400
+Middle-Aged,F,Overweight,0,0,12.04,Bangalore,Sales Manager,I,S,22.97,0,14375
+Adult,F,Obese,0,2,5.8,Chennai,Content Writer,I,P,24.97,1,17825
+Young Adult,M,Overweight,0,1,6.0,Ghaziabad,Retail Manager,I,P,17.84,1,8625
+Young Adult,F,Normal,0,0,3.0,Rajkot,Insurance Agent,I,P,24.0,1,5750
+Middle-Aged,F,Overweight,0,0,8.2,Patna,Pharmacist,I,S,18.61,0,21850
+Adult,M,Overweight,0,0,5.32,Nashik,Real Estate Agent,I,S,23.95,0,8050
+Senior,F,Normal,0,2,13.38,Kanpur,Banker,I,S,23.44,0,28750
+Adult,M,Obese,0,0,13.28,Allahabad,Marketing Manager,I,P,25.0,1,16100
+Middle-Aged,M,Overweight,0,0,12.48,Vadodara,Data Analyst,I,P,24.0,1,21850
+Middle-Aged,F,Obese,0,1,24.24,Delhi,Doctor,I,S,23.93,0,25300
+Middle-Aged,F,Overweight,0,1,3.62,Faridabad,Driver,I,S,23.93,0,18400
+Middle-Aged,M,Obese,0,3,12.25,Nashik,Architect,I,S,19.95,0,20125
+Middle-Aged,M,Overweight,0,0,7.36,Surat,Teacher,I,S,17.83,0,18400
+Middle-Aged,F,Overweight,0,0,8.44,Hyderabad,Real Estate Agent,I,P,22.97,1,23000
+Adult,F,Obese,0,0,6.52,Nashik,Pharmacist,I,P,22.97,1,15525
+Young Adult,F,Obese,0,3,6.0,Nagpur,Civil Servant,I,P,22.97,1,11200
+Adult,F,Obese,0,3,4.44,Indore,Lab Technician,I,S,24.89,0,18400
+Adult,M,Obese,0,2,4.98,Ghaziabad,Software Engineer,I,S,22.9,0,18400
+Adult,F,Obese,0,2,9.78,Mumbai,Data Analyst,I,P,25.86,1,19550
+Middle-Aged,F,Overweight,1,4,13.76,Visakhapatnam,Consultant,I,P,23.82,1,25300
+Adult,M,Obese,1,1,8.7,Bangalore,Retail Manager,I,P,16.0,1,18975
+Young Adult,M,Obese,0,2,3.0,Rajkot,Nurse,I,S,24.84,0,11200
+Adult,F,Obese,0,0,5.8,Visakhapatnam,Chef,I,S,25.83,0,11500
+Adult,F,Overweight,1,0,6.76,Ludhiana,Teacher,I,S,22.84,0,18400
+Young Adult,M,Obese,0,0,7.0,Delhi,HR Manager,I,S,24.84,0,5750
+Senior,F,Obese,0,3,13.56,Amritsar,Banker,I,S,26.0,0,31050
+Senior,M,Obese,1,2,9.04,Chennai,Chef,I,S,22.8,0,41400
+Young Adult,F,Obese,0,0,2.0,Kolkata,Factory Worker,I,S,23.8,0,6900
+Young Adult,F,Obese,0,1,8.72,Ghaziabad,Consultant,I,S,23.8,0,9200
+Adult,F,Obese,1,1,17.04,Lucknow,Doctor,I,P,23.89,1,17250
+Adult,M,Overweight,0,1,11.12,Amritsar,Marketing Manager,I,P,23.79,1,11500
+Middle-Aged,M,Normal,1,1,7.6,Agra,Teacher,I,P,24.79,1,27600
+Adult,F,Normal,0,3,8.16,Rajkot,Engineer,I,P,22.8,1,16100
+Young Adult,M,Overweight,0,0,6.9,Ghaziabad,Engineer,I,P,23.72,1,8050
+Young Adult,M,Overweight,0,0,4.0,Nashik,Chef,I,P,23.85,1,6900
+Adult,F,Obese,0,2,9.31,Rajkot,Sales Manager,I,P,21.47,1,13800
+Young Adult,M,Obese,0,1,2.0,Bhopal,Plumber,I,P,24.76,1,8625
+Young Adult,F,Overweight,0,3,2.0,Bangalore,Electrician,I,P,24.76,1,12650
+Adult,M,Obese,1,0,7.8,Amritsar,Data Analyst,I,P,22.77,1,13800
+Young Adult,M,Obese,0,4,4.0,Vadodara,Content Writer,I,P,24.76,1,15800
+Middle-Aged,F,Overweight,0,1,4.28,Faridabad,Factory Worker,I,P,24.75,1,25300
+Middle-Aged,F,Overweight,0,3,3.92,Meerut,Carpenter,I,S,24.72,0,26450
+Middle-Aged,M,Normal,0,3,7.24,Meerut,Content Writer,I,S,23.66,0,21850
+Young Adult,F,Obese,0,1,6.0,Lucknow,Retail Manager,I,S,23.65,0,8912
+Adult,F,Obese,0,0,11.2,Delhi,HR Manager,I,P,24.61,1,13800
+Adult,F,Normal,0,1,6.4,Varanasi,Pharmacist,I,S,25.58,0,13800
+Senior,F,Obese,1,3,15.82,Kanpur,HR Manager,I,S,24.84,0,28500
+Middle-Aged,M,Normal,0,0,10.5,Mumbai,Civil Servant,I,P,23.61,1,14200
+Middle-Aged,F,Overweight,0,1,4.04,Kanpur,Driver,I,P,22.61,1,18800
+Middle-Aged,F,Obese,0,2,12.66,Delhi,Civil Servant,I,P,24.61,1,26500
+Young Adult,M,Overweight,0,0,5.0,Kanpur,Accountant,I,P,22.61,1,6200
+Middle-Aged,M,Overweight,0,1,23.88,Allahabad,Doctor,I,S,23.61,0,18200
+Young Adult,F,Overweight,0,0,2.0,Bhopal,Carpenter,I,P,21.0,1,5800
+Young Adult,M,Overweight,0,0,3.09,Ahmedabad,Shop Owner,I,P,23.25,1,6800
+Adult,M,Normal,0,0,10.88,Pune,Consultant,I,S,24.48,0,9500
+Adult,F,Obese,0,0,12.8,Surat,Marketing Manager,I,S,23.45,0,13800
+Adult,M,Normal,0,3,9.42,Kolkata,Civil Servant,I,P,24.16,1,12400
+Young Adult,F,Obese,0,2,2.0,Ranchi,Electrician,I,P,24.16,1,6400
+Middle-Aged,M,Normal,0,3,12.67,Meerut,Architect,I,P,23.66,1,15600
+Young Adult,F,Overweight,0,3,2.18,Kolkata,Driver,I,P,26.16,1,7800
+Young Adult,F,Overweight,1,0,3.0,Surat,Lab Technician,I,P,23.17,1,9200
+Adult,M,Normal,0,1,13.9,Bangalore,Businessman,I,P,23.09,1,10200
+Young Adult,F,Obese,0,0,7.44,Kolkata,Retail Manager,I,P,24.08,1,9100
+Adult,M,Normal,0,1,11.12,Agra,Marketing Manager,I,P,24.08,1,9200
+Senior,F,Obese,1,2,6.69,Delhi,Lab Technician,I,P,15.93,1,34500
+Adult,M,Obese,0,0,8.52,Bangalore,Banker,I,P,17.2,1,11800
+Middle-Aged,M,Obese,0,0,19.0,Ludhiana,Businessman,I,P,18.75,1,20500
+Young Adult,F,Overweight,0,2,5.6,Jaipur,Government Employee,I,P,16.0,1,7600
+Middle-Aged,F,Normal,1,3,8.44,Rajkot,Real Estate Agent,I,P,16.0,1,28200
+Young Adult,M,Overweight,1,0,4.0,Rajkot,Teacher,I,P,24.51,1,8200
+Young Adult,F,Overweight,0,2,3.0,Rajkot,Lab Technician,I,P,4.45,1,6800
+Young Adult,M,Obese,0,1,3.27,Lucknow,Insurance Agent,I,P,24.1,1,7400
+Middle-Aged,F,Obese,0,2,21.1,Nashik,Businessman,I,P,24.1,1,22400
+Adult,F,Overweight,0,2,4.35,Rajkot,Insurance Agent,I,P,16.44,1,10800
+Middle-Aged,M,Obese,0,1,10.68,Vadodara,Engineer,I,P,23.39,1,17500
+Middle-Aged,F,Overweight,0,0,10.32,Hyderabad,Banker,I,P,23.0,1,13800
+Young Adult,M,Overweight,0,0,11.2,Ahmedabad,Businessman,I,P,24.05,1,7500
+Middle-Aged,F,Obese,1,0,6.33,Agra,Insurance Agent,I,S,23.06,0,31000
+Middle-Aged,M,Obese,0,3,5.34,Nagpur,Nurse,I,P,25.0,1,16800
+Middle-Aged,F,Overweight,0,2,12.88,Ghaziabad,HR Manager,I,P,23.0,1,15200
+Middle-Aged,M,Obese,0,2,11.4,Kolkata,Engineer,I,S,23.0,0,17800
+Senior,F,Normal,1,0,8.68,Bangalore,Teacher,I,P,25.0,1,31500
+Middle-Aged,F,Obese,1,0,7.72,Patna,Real Estate Agent,I,P,23.0,1,27800
+Young Adult,F,Overweight,0,1,8.0,Allahabad,Marketing Manager,I,P,25.0,1,6100
+Adult,M,Overweight,0,2,3.38,Agra,Factory Worker,I,S,23.21,0,13200
+Young Adult,M,Normal,0,3,5.0,Mumbai,Accountant,I,S,23.3,0,6500
+Middle-Aged,F,Obese,0,0,5.16,Agra,Insurance Agent,I,S,24.53,0,14500
+Middle-Aged,F,Overweight,0,0,16.16,Visakhapatnam,Marketing Manager,I,P,25.0,1,19200
+Middle-Aged,F,Overweight,0,1,10.55,Vadodara,Accountant,I,P,12.91,1,21800
+Young Adult,F,Obese,0,1,6.0,Pune,Retail Manager,I,P,23.91,1,7100
+Young Adult,F,Obese,0,0,6.9,Bhopal,Retail Manager,I,P,25.37,1,7900
+Adult,F,Obese,0,1,12.8,Delhi,Marketing Manager,I,P,25.65,1,14200
+Adult,F,Overweight,0,2,5.92,Mumbai,Pharmacist,I,S,24.0,0,12500
+Young Adult,F,Obese,0,2,2.0,Mumbai,Factory Worker,I,S,23.0,0,7400
+Middle-Aged,M,Obese,0,1,4.28,Srinagar,Driver,I,S,19.31,0,25800
+Adult,M,Normal,0,3,3.38,Agra,Plumber,I,S,22.93,0,15500
+Young Adult,F,Obese,0,2,4.0,Kanpur,Chef,I,S,22.93,0,6800
+Young Adult,M,Obese,0,0,3.0,Delhi,Lab Technician,I,S,24.9,0,6600
+Middle-Aged,F,Obese,0,0,11.94,Delhi,Retail Manager,I,P,25.73,1,21500
+Young Adult,F,Obese,0,2,3.54,Kanpur,Lab Technician,I,P,19.16,1,9200
+Middle-Aged,M,Obese,0,0,10.32,Surat,Engineer,I,P,23.91,1,15200
+Young Adult,F,Overweight,0,1,12.0,Ranchi,Doctor,I,P,25.91,1,6800
+Middle-Aged,M,Normal,0,0,12.88,Srinagar,HR Manager,I,P,25.91,1,15000
+Adult,F,Normal,0,3,11.36,Agra,Lawyer,I,P,23.91,1,10600
+Middle-Aged,M,Obese,0,1,10.32,Delhi,Engineer,I,P,23.91,1,15400
+Adult,F,Overweight,0,0,6.95,Pune,Government Employee,I,P,24.41,1,9800
+Senior,F,Overweight,0,1,26.4,Delhi,Doctor,I,P,22.92,1,25200
+Young Adult,M,Obese,1,2,5.45,Hyderabad,Accountant,I,P,24.37,1,10800
+Middle-Aged,F,Obese,0,3,15.68,Allahabad,Marketing Manager,I,S,22.84,0,18800
+Young Adult,M,Obese,1,1,6.0,Ranchi,Civil Servant,I,P,24.86,1,8900
+Middle-Aged,F,Obese,0,3,5.34,Agra,Shop Owner,I,P,24.86,1,16200
+Middle-Aged,F,Overweight,0,2,11.4,Meerut,Civil Servant,I,P,23.86,1,16400
+Young Adult,F,Obese,0,1,7.0,Ghaziabad,HR Manager,I,P,25.86,1,7100
+Young Adult,M,Obese,0,0,4.48,Indore,Real Estate Agent,I,P,12.24,1,7900
+Young Adult,M,Obese,1,3,4.72,Delhi,Real Estate Agent,I,P,10.24,1,12200
+Adult,F,Normal,0,0,4.53,Patna,Shop Owner,I,P,7.87,1,11200
+Young Adult,F,Obese,0,1,7.26,Kolkata,Data Analyst,I,S,25.83,0,8800
+Young Adult,M,Obese,1,0,4.48,Lucknow,Teacher,I,S,25.39,0,11400
+Middle-Aged,F,Overweight,0,2,6.42,Jaipur,Shop Owner,I,S,23.89,0,23200
+Adult,M,Obese,0,2,13.52,Srinagar,Marketing Manager,I,S,23.89,0,15500
+Young Adult,M,Obese,0,2,4.0,Allahabad,Teacher,I,S,23.89,0,7200
+Adult,M,Obese,0,0,4.8,Agra,Lab Technician,I,S,24.84,0,14800
+Adult,F,Normal,1,2,3.81,Nagpur,Lab Technician,I,S,22.84,0,12800
+Young Adult,M,Overweight,0,0,3.63,Meerut,Shop Owner,I,S,25.0,0,8200
+Young Adult,F,Obese,0,1,4.6,Jaipur,Pharmacist,I,P,23.25,1,7800
+Middle-Aged,F,Overweight,0,2,3.74,Kolkata,Plumber,I,P,24.0,1,15800
+Adult,F,Overweight,0,2,17.04,Surat,Doctor,I,P,23.75,1,10200
+Adult,F,Obese,0,2,3.02,Ranchi,Carpenter,I,S,23.78,0,12800
+Young Adult,F,Normal,0,1,3.0,Hyderabad,Software Engineer,I,S,19.17,0,6100
+Adult,F,Obese,0,3,10.4,Kanpur,Consultant,I,S,14.94,0,9500
+Middle-Aged,M,Normal,0,1,10.32,Ahmedabad,Banker,I,S,15.94,0,13800
+Young Adult,M,Obese,1,5,2.48,Srinagar,Driver,I,S,12.75,0,14800
+Middle-Aged,F,Obese,0,0,6.88,Hyderabad,Real Estate Agent,I,P,23.75,1,14900
+Middle-Aged,F,Obese,0,3,8.2,Patna,Real Estate Agent,I,P,20.0,1,20800
+Young Adult,M,Overweight,0,2,2.0,Agra,Carpenter,I,P,24.72,1,6200
+Adult,F,Obese,1,2,2.78,Delhi,Factory Worker,I,P,5.03,1,15800
+Middle-Aged,F,Normal,0,1,5.7,Kolkata,Software Engineer,I,P,2.76,1,15900
+Adult,F,Overweight,0,2,10.16,Patna,Marketing Manager,I,P,1.35,1,8900
+Young Adult,F,Overweight,0,2,3.45,Mumbai,Shop Owner,I,P,24.72,1,8200
+Middle-Aged,M,Overweight,0,0,11.22,Indore,Retail Manager,I,P,24.72,1,15800
+Young Adult,F,Obese,0,2,9.92,Chennai,Consultant,I,P,16.8,1,9800
+Young Adult,M,Obese,0,2,10.0,Ludhiana,Businessman,I,P,9.8,1,6800
+Young Adult,F,Underweight,0,0,5.0,Rajkot,Government Employee,I,P,8.49,1,5600
+Young Adult,F,Overweight,0,2,8.72,Mumbai,Lawyer,I,P,6.29,1,8100
+Middle-Aged,F,Obese,0,1,20.5,Jaipur,Businessman,I,P,24.57,1,20200
+Adult,M,Obese,0,0,2.72,Jaipur,Plumber,I,S,22.69,0,9500
+Middle-Aged,M,Obese,0,2,7.36,Faridabad,Content Writer,I,S,23.66,0,18500
+Middle-Aged,F,Overweight,0,0,3.74,Ludhiana,Plumber,I,S,25.5,0,14200
+Adult,M,Obese,0,2,4.17,Surat,Lab Technician,I,S,24.66,0,13800
+Adult,F,Overweight,1,0,4.71,Visakhapatnam,Lab Technician,I,P,2.05,1,15500
+Young Adult,F,Normal,0,1,6.0,Faridabad,Data Analyst,I,P,24.14,1,7200
+Young Adult,F,Normal,0,1,9.92,Kolkata,Marketing Manager,I,P,24.14,1,8800
+Senior,F,Overweight,0,0,18.08,Srinagar,Lawyer,I,P,24.14,1,24500
+Young Adult,F,Overweight,0,1,3.09,Kolkata,Software Engineer,I,P,19.79,1,7800
+Young Adult,M,Overweight,0,0,3.0,Bangalore,Shop Owner,I,S,23.72,0,6800
+Middle-Aged,F,Obese,0,1,12.84,Rajkot,Engineer,I,S,23.72,0,23500
+Young Adult,M,Obese,0,0,3.0,Patna,Shop Owner,C,P,23.62,1,7500
+Young Adult,F,Normal,0,0,3.0,Visakhapatnam,Nurse,C,P,20.6,1,6200
+Adult,F,Obese,1,1,7.55,Meerut,Accountant,C,P,13.77,1,16200
+Middle-Aged,F,Obese,0,0,22.44,Ludhiana,Doctor,C,P,11.31,1,16500
+Adult,M,Normal,0,1,3.38,Hyderabad,Plumber,C,P,10.01,1,12500
+Middle-Aged,F,Obese,0,5,7.72,Chennai,Real Estate Agent,C,P,24.63,1,21000
+Middle-Aged,M,Obese,0,3,5.7,Rajkot,Lab Technician,C,P,23.35,1,18900
+Middle-Aged,F,Obese,1,0,16.4,Mumbai,Lawyer,C,P,16.56,1,26800
+Young Adult,M,Normal,0,1,2.0,Allahabad,Plumber,C,P,8.69,1,7000
+Middle-Aged,F,Overweight,0,3,14.0,Ranchi,Marketing Manager,C,P,24.38,1,15800
+Senior,F,Obese,0,0,13.2,Surat,Civil Servant,C,P,17.6,1,21500
+Middle-Aged,F,Normal,0,3,3.86,Amritsar,Electrician,C,P,14.75,1,17500
+Middle-Aged,F,Obese,0,1,15.44,Kanpur,Marketing Manager,C,P,12.23,1,18100
+Young Adult,F,Overweight,0,3,3.0,Mumbai,Nurse,C,P,12.23,1,8200
+Adult,M,Obese,0,0,5.56,Chennai,Chef,C,P,24.63,1,9800
+Young Adult,F,Obese,0,0,2.18,Varanasi,Electrician,I,P,22.62,1,10500
+Young Adult,M,Obese,0,1,4.96,Faridabad,Content Writer,I,P,24.08,1,9500
+Middle-Aged,F,Obese,0,1,16.64,Bhopal,Consultant,I,P,25.17,1,21800
+Middle-Aged,F,Obese,0,0,5.43,Ranchi,Shop Owner,I,P,3.76,1,13800
+Adult,F,Obese,0,1,6.95,Lucknow,Accountant,C,P,13.77,1,10800
+Middle-Aged,F,Overweight,0,1,6.06,Ranchi,Shop Owner,I,P,4.6,1,18200
+Adult,F,Obese,0,1,6.16,Delhi,Content Writer,I,S,25.0,0,14800
+Young Adult,F,Obese,0,3,3.45,Bhopal,Lab Technician,I,S,26.0,0,11200
+Young Adult,F,Overweight,0,1,7.26,Bangalore,Data Analyst,I,P,25.84,1,8600
+Middle-Aged,F,Obese,0,1,14.48,Rajkot,Marketing Manager,I,P,24.31,1,14900
+Adult,F,Obese,0,1,11.12,Ghaziabad,Lawyer,I,S,23.66,0,11900
+Middle-Aged,F,Obese,0,0,14.35,Chennai,Sales Manager,I,S,24.0,0,19200
+Young Adult,M,Normal,0,1,4.0,Faridabad,Content Writer,I,P,24.08,1,6900
+Middle-Aged,M,Normal,0,3,7.84,Faridabad,Content Writer,I,P,24.08,1,18200
+Senior,F,Obese,0,0,13.38,Bangalore,Data Analyst,I,P,24.49,1,23800
+Middle-Aged,F,Overweight,0,4,14.35,Hyderabad,HR Manager,I,S,24.33,0,21500
+Adult,F,Obese,1,2,4.89,Vadodara,Lab Technician,I,P,24.0,1,21200
+Adult,F,Obese,1,1,12.56,Bhopal,Consultant,I,P,23.75,1,17800
+Young Adult,F,Normal,0,1,8.0,Bhopal,Consultant,I,P,24.17,1,7400
+Middle-Aged,F,Overweight,1,1,14.0,Bhopal,Consultant,I,P,23.75,1,18500
+Young Adult,M,Normal,0,3,6.54,Amritsar,Retail Manager,I,S,23.72,0,10200
+Middle-Aged,M,Obese,1,3,11.22,Amritsar,Retail Manager,I,S,23.72,0,25800
+Middle-Aged,F,Underweight,0,0,11.4,Bangalore,Data Analyst,I,P,25.0,1,14100
+Middle-Aged,F,Obese,0,1,7.48,Delhi,Content Writer,I,S,23.0,0,15200
+Middle-Aged,M,Overweight,0,0,12.48,Bangalore,Banker,I,P,24.18,1,19800
+Adult,M,Normal,0,0,5.08,Faridabad,Chef,I,S,4.0,0,8200
+Adult,M,Overweight,1,1,4.71,Bhopal,Lab Technician,I,S,22.32,0,15900
+Young Adult,F,Normal,0,0,6.0,Lucknow,Engineer,I,S,24.0,0,6100
+Middle-Aged,M,Obese,1,2,12.48,Lucknow,Retail Manager,I,P,26.0,1,31200
+Middle-Aged,F,Overweight,0,0,7.24,Ahmedabad,Teacher,I,S,24.53,0,13500
+Adult,F,Obese,0,2,6.64,Jaipur,Real Estate Agent,I,S,24.54,0,16200
+Young Adult,M,Obese,1,0,7.0,Srinagar,Sales Manager,I,S,23.7,0,11200
+Adult,F,Obese,1,3,8.52,Lucknow,Engineer,I,S,24.0,0,17800
+Young Adult,M,Obese,0,0,8.0,Pune,Marketing Manager,I,S,23.65,0,6700
+Young Adult,F,Obese,1,0,2.0,Lucknow,Driver,I,P,25.0,1,9800
+Young Adult,M,Overweight,0,3,4.36,Agra,Chef,I,S,23.86,0,10500
+Middle-Aged,M,Normal,1,3,11.58,Lucknow,Retail Manager,I,P,24.0,1,24200
+Middle-Aged,F,Overweight,1,0,7.6,Ahmedabad,Teacher,I,S,24.53,0,21000
+Middle-Aged,M,Obese,1,0,23.88,Ranchi,Doctor,I,P,3.53,1,23500
+Young Adult,M,Obese,0,3,5.3,Kolkata,Government Employee,I,P,22.67,1,10100
+Senior,M,Overweight,0,2,9.04,Faridabad,Teacher,I,S,24.5,0,22500
+Young Adult,F,Normal,0,5,2.18,Lucknow,Carpenter,I,P,23.66,1,11800
+Young Adult,M,Obese,0,0,7.63,Srinagar,Sales Manager,I,S,23.0,0,9200
+Young Adult,M,Obese,0,2,6.0,Visakhapatnam,Retail Manager,I,P,20.84,1,8500
+Senior,M,Obese,0,0,9.04,Agra,Chef,I,S,23.36,0,26500
+Middle-Aged,M,Normal,0,1,14.35,Ludhiana,HR Manager,I,P,24.42,1,18900
+Young Adult,F,Obese,0,1,6.9,Lucknow,Engineer,I,S,24.0,0,8900
+Young Adult,M,Obese,0,2,6.18,Lucknow,Retail Manager,I,P,23.16,1,9800
+Middle-Aged,F,Normal,0,1,8.56,Ahmedabad,Teacher,I,S,24.53,0,21000
+Young Adult,M,Overweight,1,0,4.6,Agra,Chef,I,S,24.86,0,11800
+Young Adult,M,Obese,0,2,6.0,Visakhapatnam,Retail Manager,I,P,18.3,1,9200
+Adult,M,Obese,0,0,6.04,Agra,Chef,I,S,25.86,0,12800
+Adult,M,Obese,0,1,6.16,Jaipur,Real Estate Agent,I,P,9.08,1,13200
+Adult,F,Overweight,0,2,3.08,Lucknow,Carpenter,I,P,26.16,1,12900
+Young Adult,F,Obese,0,0,6.0,Lucknow,Engineer,I,S,24.0,0,6800
+Adult,F,Obese,0,2,2.6,Lucknow,Driver,I,P,25.0,1,11200
+Young Adult,F,Normal,1,3,4.6,Jaipur,Real Estate Agent,I,S,25.55,0,14500
+Young Adult,M,Obese,1,0,4.24,Jaipur,Real Estate Agent,I,P,9.08,1,10500
+Middle-Aged,M,Obese,1,0,21.72,Ranchi,Doctor,I,P,5.53,1,21500
+Senior,F,Obese,0,3,4.46,Delhi,Factory Worker,I,P,24.0,1,25500
+Young Adult,M,Obese,1,0,8.0,Pune,Marketing Manager,I,S,23.65,0,9900
+Middle-Aged,M,Obese,0,3,13.3,Srinagar,Sales Manager,I,S,24.0,0,19500
+Adult,M,Overweight,0,0,9.73,Ludhiana,HR Manager,I,P,23.42,1,9500
+Adult,M,Obese,0,2,9.1,Srinagar,Sales Manager,I,S,22.7,0,11800
+Middle-Aged,M,Obese,0,0,14.56,Srinagar,Sales Manager,I,S,26.0,0,19200
+Middle-Aged,F,Overweight,0,3,3.44,Lucknow,Carpenter,I,P,23.16,1,14200
+Middle-Aged,F,Obese,0,2,5.79,Faridabad,Shop Owner,I,P,24.33,1,18900
+Adult,M,Overweight,0,3,8.0,Mumbai,Government Employee,I,P,25.16,1,14200
+Adult,M,Overweight,0,0,15.7,Hyderabad,Businessman,I,S,24.05,0,11500
+Middle-Aged,F,Obese,1,2,7.6,Indore,Content Writer,I,P,24.0,1,21500
+Middle-Aged,M,Overweight,0,0,12.66,Vadodara,Data Analyst,I,S,25.83,0,20100
+Adult,F,Overweight,0,0,3.99,Bangalore,Lab Technician,I,P,24.75,1,9400
+Senior,M,Overweight,0,0,26.76,Indore,Doctor,I,P,26.0,1,22800
+Young Adult,F,Obese,0,0,6.0,Meerut,Banker,I,P,23.84,1,8900
+Young Adult,F,Obese,0,1,3.0,Vadodara,Insurance Agent,I,P,23.0,1,7300
+Senior,M,Obese,0,0,9.04,Nashik,Pharmacist,I,P,26.34,1,28400
+Middle-Aged,F,Obese,0,0,5.52,Rajkot,Software Engineer,I,S,23.0,0,14200
+Middle-Aged,M,Obese,0,0,10.25,Ahmedabad,Government Employee,I,S,24.25,0,24500
+Middle-Aged,M,Obese,0,0,7.6,Meerut,Teacher,I,S,4.0,0,16800
+Adult,F,Obese,1,0,10.64,Visakhapatnam,Marketing Manager,I,P,9.0,1,18500
+Young Adult,F,Obese,0,0,8.24,Visakhapatnam,Marketing Manager,I,P,9.0,1,7800
+Adult,F,Overweight,0,1,4.44,Bhopal,Nurse,I,S,22.75,0,8900
+Adult,F,Obese,0,0,5.2,Meerut,Teacher,I,S,21.69,0,15400
+Adult,M,Overweight,0,0,5.2,Nashik,Pharmacist,I,P,23.98,1,7200
+Middle-Aged,M,Obese,0,1,8.9,Ahmedabad,Government Employee,I,S,23.25,0,15200
+Young Adult,M,Obese,1,3,4.96,Nashik,Pharmacist,I,P,23.61,1,21500
+Middle-Aged,F,Overweight,0,0,5.52,Vadodara,Nurse,I,P,24.41,1,14800
+Adult,M,Obese,0,2,6.04,Meerut,Teacher,I,S,3.0,0,9800
+Middle-Aged,F,Overweight,0,0,6.06,Rajkot,Software Engineer,I,S,23.0,0,15100
+Middle-Aged,M,Obese,0,0,25.32,Indore,Doctor,I,P,24.0,1,19200
+Senior,F,Obese,0,0,17.6,Visakhapatnam,Marketing Manager,I,P,9.0,1,26800
+Young Adult,M,Normal,0,1,8.72,Ghaziabad,Consultant,I,P,25.41,1,5800
+Young Adult,F,Overweight,0,4,2.42,Allahabad,Driver,I,P,23.11,1,7500
+Young Adult,F,Overweight,1,0,8.48,Delhi,Marketing Manager,I,P,7.52,1,13400
+Young Adult,F,Overweight,0,0,3.27,Pune,Nurse,I,S,24.22,0,6400
+Adult,F,Obese,0,2,2.72,Agra,Electrician,I,P,22.72,1,10800
+Young Adult,F,Overweight,0,1,7.0,Pune,HR Manager,I,S,24.56,0,5200
+Senior,M,Obese,0,0,13.38,Hyderabad,Data Analyst,I,P,23.0,1,29500
+Young Adult,M,Underweight,0,0,4.0,Ranchi,Chef,I,P,25.83,1,4800
+Young Adult,M,Normal,0,3,3.0,Rajkot,Nurse,I,S,25.0,0,5100
+Young Adult,F,Obese,0,0,5.0,Varanasi,Accountant,I,P,24.11,1,6200
+Adult,M,Overweight,1,2,5.56,Faridabad,Content Writer,C,P,24.62,1,13900
+Middle-Aged,F,Obese,0,0,9.65,Varanasi,Accountant,I,P,24.11,1,14600
+Middle-Aged,F,Overweight,0,3,3.98,Agra,Electrician,I,P,22.72,1,13800
+Middle-Aged,M,Obese,0,1,15.92,Mumbai,Marketing Manager,I,S,23.15,0,18200
+Adult,M,Obese,0,2,12.56,Mumbai,Marketing Manager,I,S,23.15,0,12400
+Young Adult,M,Obese,1,0,9.2,Nagpur,Consultant,I,P,22.61,1,14100
+Adult,M,Obese,0,1,7.8,Hyderabad,Data Analyst,I,P,23.24,1,9900
+Young Adult,M,Obese,0,0,4.0,Srinagar,Real Estate Agent,I,P,3.35,1,6100
+Middle-Aged,F,Obese,0,0,17.12,Ranchi,Consultant,I,S,24.0,0,21000
+Adult,M,Overweight,1,1,9.6,Hyderabad,Data Analyst,I,P,23.0,1,15800
+Young Adult,M,Obese,1,0,8.0,Hyderabad,Marketing Manager,I,P,25.52,1,11200
+Young Adult,F,Obese,0,3,7.21,Meerut,Sales Manager,I,P,24.36,1,7600
+Young Adult,F,Normal,1,3,8.68,Meerut,Sales Manager,I,P,25.36,1,12100
+Adult,M,Overweight,1,0,2.66,Kanpur,Electrician,I,P,18.96,1,12800
+Adult,M,Obese,0,3,10.64,Hyderabad,Marketing Manager,I,P,24.07,1,9400
+Adult,F,Obese,0,0,11.83,Pune,HR Manager,I,S,25.49,0,11500
+Middle-Aged,F,Obese,0,1,13.72,Meerut,Sales Manager,I,P,23.86,1,15200
+Middle-Aged,F,Obese,0,1,5.97,Pune,Nurse,I,S,26.22,0,16900
+Adult,M,Obese,0,2,10.16,Ranchi,Lawyer,I,S,23.86,0,7900
+Adult,F,Obese,0,0,10.99,Meerut,Sales Manager,I,P,24.36,1,10900
+Adult,M,Obese,0,0,3.2,Vadodara,Carpenter,I,P,23.0,1,10600
+Young Adult,M,Overweight,0,2,8.24,Lucknow,Consultant,I,P,25.16,1,5600
+Middle-Aged,M,Obese,1,3,12.48,Vadodara,Engineer,I,P,24.0,1,34200
+Adult,M,Obese,0,2,5.8,Chennai,Chef,I,P,24.0,1,11200
+Adult,M,Obese,0,1,5.92,Delhi,Chef,I,S,23.0,0,12600
+Adult,F,Obese,1,1,5.68,Patna,Chef,I,S,23.16,0,17800
+Young Adult,F,Obese,0,2,8.0,Meerut,Lawyer,I,S,24.12,0,6900
+Senior,M,Obese,1,3,8.68,Bangalore,Real Estate Agent,I,S,23.43,0,36500
+Middle-Aged,F,Overweight,0,0,12.12,Ghaziabad,Banker,I,S,24.0,0,15800
+Senior,F,Overweight,0,1,8.8,Delhi,Chef,I,P,25.21,1,22400
+Young Adult,M,Obese,0,0,4.0,Mumbai,Pharmacist,I,P,24.56,1,7800
+Young Adult,M,Obese,0,2,4.0,Bangalore,Real Estate Agent,I,S,24.44,0,7400
+Middle-Aged,M,Overweight,0,0,10.1,Agra,Accountant,I,S,26.0,0,14900
+Young Adult,M,Obese,0,0,4.48,Bangalore,Real Estate Agent,I,S,26.44,0,10200
+Young Adult,M,Normal,0,0,8.48,Kolkata,Consultant,I,S,24.0,0,5900
+Middle-Aged,F,Obese,0,1,7.0,Patna,Chef,I,S,23.16,0,12900
+Middle-Aged,F,Overweight,0,2,13.51,Kanpur,Sales Manager,I,P,23.0,1,13100
+Middle-Aged,F,Obese,0,0,12.48,Ghaziabad,Banker,I,S,25.41,0,17200
+Young Adult,F,Normal,0,0,9.2,Meerut,Lawyer,I,S,24.12,0,5700
+Senior,M,Overweight,0,0,8.68,Delhi,Chef,I,S,23.0,0,22800
+Middle-Aged,F,Obese,1,1,7.84,Patna,Chef,I,S,23.16,0,23900
+Young Adult,F,Overweight,0,2,9.44,Amritsar,Consultant,I,P,22.84,1,6300
+Adult,M,Overweight,0,1,5.2,Chennai,Chef,I,P,25.0,1,8600
+Young Adult,F,Normal,0,3,4.96,Kanpur,Chef,I,S,25.31,0,5900
+Adult,M,Obese,0,0,5.2,Bangalore,Real Estate Agent,I,S,25.44,0,10800
+Senior,F,Normal,0,1,15.61,Nagpur,Sales Manager,I,P,25.0,1,21200
+Young Adult,F,Obese,1,1,4.0,Vadodara,Teacher,I,S,23.5,0,12400
+Young Adult,M,Normal,0,0,3.0,Delhi,Nurse,I,S,22.0,0,5800
+Senior,F,Overweight,1,0,17.6,Allahabad,Consultant,I,P,20.54,1,31500
+Middle-Aged,F,Obese,1,0,8.2,Surat,Teacher,C,P,18.6,1,28900
+Adult,M,Normal,1,0,7.4,Indore,Accountant,I,S,24.0,0,14800
+Young Adult,M,Overweight,0,1,9.44,Jaipur,Lawyer,I,P,24.0,1,6800
+Middle-Aged,M,Overweight,0,0,12.66,Bhopal,Retail Manager,I,P,24.72,1,18100
+Young Adult,M,Overweight,1,0,8.0,Srinagar,Marketing Manager,I,S,24.93,0,10900
+Middle-Aged,M,Obese,1,0,16.16,Srinagar,Marketing Manager,I,S,24.43,0,29800
+Adult,F,Obese,1,2,3.38,Kolkata,Electrician,I,S,6.0,0,22100
+Middle-Aged,M,Overweight,0,0,4.28,Visakhapatnam,Electrician,I,S,23.0,0,19800
+Young Adult,M,Obese,0,0,6.0,Hyderabad,Data Analyst,I,P,24.79,1,7200
+Adult,M,Overweight,0,1,2.96,Visakhapatnam,Electrician,I,S,23.0,0,7900
+Adult,F,Overweight,0,4,10.57,Surat,Architect,I,S,25.31,0,9100
+Adult,F,Overweight,0,1,7.98,Rajkot,Engineer,I,S,24.89,0,6700
+Adult,M,Overweight,0,1,9.06,Chennai,Data Analyst,I,S,24.8,0,9400
+Adult,M,Obese,0,2,13.04,Srinagar,Marketing Manager,I,S,22.93,0,11100
+Middle-Aged,M,Normal,0,0,4.16,Visakhapatnam,Electrician,I,S,25.0,0,16400
+Adult,M,Obese,0,3,7.98,Chennai,Data Analyst,I,S,23.8,0,11400
+Young Adult,F,Normal,0,2,2.36,Ludhiana,Driver,I,S,23.61,0,5600
+Adult,F,Overweight,1,1,8.52,Rajkot,Engineer,I,S,24.9,0,14200
+Adult,M,Normal,0,2,11.12,Jaipur,Lawyer,I,P,24.0,1,7400
+Middle-Aged,F,Overweight,0,0,7.48,Patna,Content Writer,I,S,23.91,0,12800
+Young Adult,M,Obese,0,2,4.84,Faridabad,Chef,I,S,25.25,0,7100
+Adult,M,Normal,0,3,7.1,Indore,Accountant,I,S,24.0,0,7200
+Young Adult,M,Obese,0,0,5.15,Indore,Accountant,I,S,26.0,0,6800
+Middle-Aged,M,Obese,0,3,15.92,Jaipur,Lawyer,I,P,24.0,1,18900
+Adult,F,Normal,0,0,9.1,Surat,Architect,I,S,23.32,0,6400
+Young Adult,F,Overweight,0,1,6.0,Rajkot,Engineer,I,S,22.9,0,7500
+Adult,F,Obese,0,2,4.53,Srinagar,Lab Technician,I,S,26.0,0,16200
+Middle-Aged,F,Obese,0,0,5.7,Varanasi,Software Engineer,I,P,25.0,1,18500
+Middle-Aged,F,Obese,0,2,5.25,Ranchi,Lab Technician,I,S,23.16,0,17800
+Middle-Aged,F,Overweight,0,0,4.28,Vadodara,Electrician,I,S,24.27,0,21000
+Middle-Aged,M,Obese,0,0,5.97,Chennai,Software Engineer,I,P,24.22,1,21500
+Adult,F,Overweight,0,3,3.26,Vadodara,Electrician,I,S,24.27,0,16500
+Senior,F,Obese,0,2,13.02,Ghaziabad,Civil Servant,I,S,16.0,0,27500
+Young Adult,F,Normal,1,3,7.08,Srinagar,Retail Manager,I,P,25.16,1,17500
+Adult,M,Overweight,0,1,3.81,Indore,Insurance Agent,I,P,12.78,1,9800
+Young Adult,M,Overweight,0,2,3.63,Chennai,Software Engineer,I,P,26.02,1,11800
+Middle-Aged,M,Obese,0,1,23.16,Vadodara,Doctor,I,S,23.91,0,20200
+Adult,M,Overweight,0,0,11.62,Pune,HR Manager,I,P,26.0,1,12500
+Middle-Aged,F,Overweight,0,2,10.5,Ghaziabad,Civil Servant,I,P,7.39,1,15200
+Middle-Aged,F,Obese,0,2,12.3,Ghaziabad,Civil Servant,I,P,9.39,1,22400
+Young Adult,M,Obese,0,2,7.26,Varanasi,Civil Servant,I,P,23.76,1,12500
+Middle-Aged,M,Obese,0,3,10.1,Kanpur,Accountant,I,S,24.0,0,23800
+Senior,F,Obese,0,3,4.52,Vadodara,Electrician,I,S,24.27,0,31500
+Adult,F,Normal,0,0,7.62,Ghaziabad,Civil Servant,I,P,7.39,1,8200
+Middle-Aged,M,Obese,0,3,5.34,Vadodara,Nurse,I,P,23.63,1,18900
+Adult,M,Normal,0,2,6.64,Mumbai,Pharmacist,I,S,23.0,0,14800
+Young Adult,F,Obese,0,1,2.0,Vadodara,Electrician,I,S,24.27,0,8100
+Middle-Aged,F,Obese,0,5,14.48,Jaipur,Consultant,I,P,20.0,1,21200
+Young Adult,M,Overweight,0,0,3.63,Indore,Insurance Agent,I,P,11.78,1,7800
+Adult,F,Obese,0,2,10.14,Ranchi,Engineer,I,S,23.91,0,16200
+Middle-Aged,F,Obese,0,0,14.14,Kanpur,Sales Manager,I,S,23.86,0,19800
+Young Adult,M,Obese,0,0,6.0,Amritsar,Banker,I,S,24.28,0,8200
+Middle-Aged,F,Normal,0,1,12.67,Kanpur,Sales Manager,I,S,23.11,0,14800
+Middle-Aged,F,Obese,0,0,12.48,Ranchi,Engineer,I,S,25.07,0,21200
+Adult,M,Obese,0,3,9.73,Pune,HR Manager,I,P,26.0,1,15200
+Young Adult,M,Overweight,1,0,3.45,Indore,Insurance Agent,I,P,13.78,1,12200
+Young Adult,M,Overweight,0,1,4.36,Mumbai,Pharmacist,I,S,23.0,0,8900
+Adult,F,Obese,0,1,11.41,Kanpur,Sales Manager,I,S,23.86,0,13800
+Adult,M,Normal,0,5,9.06,Amritsar,Banker,I,S,24.28,0,18500
+Middle-Aged,F,Obese,0,1,16.16,Jaipur,Consultant,I,P,20.0,1,21500
+Adult,M,Obese,0,1,15.24,Vadodara,Doctor,I,S,24.91,0,11800
+Young Adult,F,Overweight,0,2,8.0,Jaipur,Consultant,I,P,20.0,1,9200
+Middle-Aged,M,Overweight,0,3,12.88,Hyderabad,HR Manager,I,P,22.83,1,19500
+Young Adult,F,Obese,0,0,12.0,Jaipur,Doctor,I,S,24.0,0,7900
+Young Adult,M,Obese,0,0,12.72,Vadodara,Doctor,I,S,23.91,0,8800
+Young Adult,F,Overweight,0,0,6.0,Srinagar,Retail Manager,I,P,25.17,1,6800
+Young Adult,F,Obese,0,0,13.08,Jaipur,Doctor,I,S,25.0,0,7500
+Adult,F,Normal,0,1,9.42,Srinagar,Retail Manager,I,P,23.17,1,11800
+Adult,F,Obese,0,2,7.55,Rajkot,Government Employee,I,S,23.16,0,15200
+Adult,F,Overweight,0,2,5.07,Nashik,Lab Technician,I,S,14.0,0,14500
+Young Adult,M,Overweight,1,0,3.0,Chennai,Software Engineer,I,P,25.64,1,9800
+Young Adult,F,Obese,1,2,7.0,Kanpur,Sales Manager,I,S,23.86,0,13500
+Young Adult,F,Obese,0,3,4.96,Bhopal,Content Writer,I,P,18.66,1,12800
+Young Adult,F,Obese,0,0,6.0,Kolkata,Civil Servant,I,P,23.17,1,7400
+Young Adult,M,Overweight,0,4,3.0,Chennai,Shop Owner,I,P,25.0,1,10500
+Young Adult,F,Obese,1,2,4.0,Visakhapatnam,Content Writer,I,P,25.91,1,12200
+Middle-Aged,F,Underweight,0,0,9.65,Bhopal,Accountant,I,P,24.0,1,16800
+Middle-Aged,M,Obese,0,0,8.56,Jaipur,Pharmacist,I,S,23.86,0,23500
+Young Adult,M,Overweight,0,1,7.0,Bhopal,Sales Manager,I,P,23.01,1,8100
+Young Adult,M,Obese,0,0,8.24,Mumbai,Marketing Manager,I,S,25.13,0,8600
+Middle-Aged,M,Obese,0,0,10.7,Ghaziabad,Government Employee,I,S,23.66,0,24200
+Middle-Aged,M,Obese,0,2,7.96,Bhopal,Content Writer,I,S,25.75,0,21800
+Senior,F,Obese,0,3,17.6,Bhopal,Marketing Manager,I,S,24.67,0,28500
+Young Adult,M,Overweight,0,0,9.68,Rajkot,Lawyer,I,S,26.35,0,8200
+Adult,F,Underweight,1,2,10.4,Agra,Marketing Manager,I,S,25.5,0,15500
+Adult,M,Normal,0,1,5.56,Bhopal,Content Writer,I,P,23.06,1,10500
+Young Adult,M,Normal,0,0,3.45,Varanasi,Lab Technician,I,P,23.01,1,7200
+Middle-Aged,M,Overweight,0,1,10.55,Bangalore,Government Employee,I,P,13.92,1,21800
+Young Adult,F,Obese,1,2,8.24,Faridabad,Lawyer,I,P,24.1,1,14800
+Middle-Aged,F,Overweight,0,0,14.72,Agra,Marketing Manager,I,S,25.5,0,16500
+Middle-Aged,F,Obese,0,3,14.48,Bhopal,Marketing Manager,I,S,25.25,0,18800
+Adult,F,Normal,0,3,4.44,Patna,Software Engineer,I,S,23.0,0,14800
+Young Adult,F,Obese,0,0,8.0,Agra,Marketing Manager,I,S,25.5,0,8500
+Middle-Aged,F,Overweight,0,0,20.2,Ranchi,Businessman,I,S,24.84,0,19500
+Young Adult,M,Obese,0,0,2.3,Nashik,Electrician,I,P,12.93,1,8200
+Young Adult,F,Obese,0,0,10.0,Ranchi,Businessman,I,S,24.84,0,7600
+Middle-Aged,M,Obese,0,0,6.24,Bhopal,Insurance Agent,I,S,25.25,0,22500
+Adult,F,Obese,0,0,7.4,Srinagar,Government Employee,I,P,25.42,1,14200
+Adult,M,Obese,0,0,13.28,Mumbai,Marketing Manager,I,S,25.12,0,15800
+Young Adult,M,Normal,0,0,5.0,Ghaziabad,Government Employee,I,S,24.66,0,6800
+Adult,M,Overweight,1,1,10.4,Jaipur,Consultant,I,P,26.08,1,14200
+Middle-Aged,M,Obese,0,1,9.2,Ghaziabad,Government Employee,I,S,23.66,0,21500
+Middle-Aged,F,Overweight,0,0,14.24,Agra,Marketing Manager,I,S,25.5,0,15800
+Middle-Aged,F,Overweight,1,3,14.0,Agra,Marketing Manager,I,S,24.5,0,21800
+Young Adult,M,Overweight,0,2,3.27,Varanasi,Lab Technician,I,P,23.57,1,9600
+Middle-Aged,M,Normal,0,0,5.34,Bhopal,Insurance Agent,I,S,25.25,0,15200
+Adult,M,Overweight,1,0,11.12,Rajkot,Lawyer,I,S,24.36,0,14800
+Middle-Aged,F,Overweight,1,3,14.0,Bhopal,Marketing Manager,I,S,24.74,0,21500
+Adult,M,Obese,0,1,10.4,Mumbai,Marketing Manager,I,S,23.13,0,11200
+Middle-Aged,F,Normal,0,1,9.95,Srinagar,Government Employee,I,P,25.42,1,19200
+Adult,M,Obese,0,3,11.84,Mumbai,Marketing Manager,I,S,24.12,0,16500
+Young Adult,M,Overweight,0,1,4.0,Bhopal,Content Writer,I,S,24.0,0,7600
+Middle-Aged,M,Obese,0,1,7.48,Bhopal,Content Writer,I,P,22.5,1,18200
+Middle-Aged,M,Obese,0,3,9.5,Ghaziabad,Government Employee,I,S,23.66,0,23500
+Adult,M,Overweight,0,2,2.54,Bangalore,Carpenter,I,P,24.31,1,12500
+Young Adult,M,Overweight,0,3,7.08,Kanpur,Engineer,I,P,23.25,1,12800
+Middle-Aged,F,Overweight,0,3,8.44,Mumbai,Teacher,I,S,15.23,0,24500
+Middle-Aged,F,Normal,0,1,10.5,Indore,Civil Servant,I,P,23.72,1,14800
+Young Adult,F,Normal,0,0,3.18,Chennai,Lab Technician,I,S,25.0,0,7200
+Young Adult,F,Overweight,0,0,3.0,Chennai,Lab Technician,I,S,25.0,0,6900
+Senior,M,Overweight,0,0,4.34,Indore,Carpenter,I,P,26.0,1,22000
+Adult,F,Overweight,0,0,4.89,Allahabad,Nurse,I,S,20.34,0,12500
+Adult,F,Obese,0,0,4.35,Chennai,Insurance Agent,I,S,20.25,0,13500
+Adult,F,Overweight,0,0,3.81,Allahabad,Nurse,I,S,21.34,0,8500
+Adult,F,Obese,1,1,5.08,Mumbai,Teacher,I,S,15.23,0,14500
+Young Adult,M,Overweight,0,0,3.45,Allahabad,Nurse,I,S,24.27,0,6700
+Young Adult,F,Underweight,0,1,5.0,Ranchi,Accountant,I,P,23.0,1,7700
+Adult,F,Obese,0,0,4.62,Chennai,Insurance Agent,I,S,20.25,0,20300
+Middle-Aged,F,Overweight,0,1,8.75,Ranchi,Accountant,I,P,23.0,1,20000
+Middle-Aged,M,Obese,0,3,19.3,Vadodara,Businessman,I,P,12.3,1,37950
+Young Adult,M,Obese,1,0,2.0,Indore,Carpenter,I,P,26.0,1,10100
+Young Adult,F,Normal,0,0,3.0,Chennai,Lab Technician,I,S,25.0,0,5480
+Adult,F,Overweight,1,3,8.89,Ranchi,Sales Manager,I,P,12.91,1,21500
+Young Adult,F,Normal,0,1,4.0,Kolkata,Real Estate Agent,I,S,24.75,0,7300
+Middle-Aged,F,Obese,0,1,5.7,Chennai,Insurance Agent,I,S,20.25,0,32900
+Adult,F,Obese,0,0,11.2,Indore,HR Manager,I,P,23.83,1,16600
+Young Adult,F,Obese,0,0,6.0,Indore,Civil Servant,I,P,25.51,1,6250
+Young Adult,M,Obese,1,2,4.0,Delhi,Teacher,I,S,9.81,0,15250
+Middle-Aged,F,Overweight,1,1,15.92,Agra,Lawyer,I,S,24.27,0,38100
+Adult,F,Obese,1,0,14.2,Nagpur,Businessman,I,S,26.0,0,21200
+Young Adult,M,Obese,0,0,6.0,Bangalore,Civil Servant,I,S,23.0,0,6720
+Young Adult,M,Overweight,0,0,6.0,Amritsar,Engineer,I,S,24.1,0,5400
+Middle-Aged,F,Overweight,0,0,4.22,Ranchi,Carpenter,I,S,24.5,0,27200
+Young Adult,M,Normal,0,3,6.9,Amritsar,Engineer,I,S,16.25,0,13700
+Young Adult,F,Overweight,1,1,8.0,Bhopal,Marketing Manager,I,S,25.09,0,11200
+Young Adult,F,Obese,1,0,2.0,Jaipur,Plumber,I,P,24.0,1,10250
+Adult,M,Normal,1,1,9.24,Amritsar,Engineer,I,S,26.1,0,20800
+Middle-Aged,F,Obese,0,0,15.2,Bhopal,Marketing Manager,I,S,25.09,0,23750
+Young Adult,M,Overweight,0,0,2.42,Ghaziabad,Driver,I,S,11.29,0,7100
+Middle-Aged,F,Obese,1,1,14.72,Jaipur,Lawyer,I,S,25.0,0,35800
+Middle-Aged,F,Overweight,0,0,5.16,Kanpur,Lab Technician,I,P,23.75,1,16200
+Adult,F,Overweight,0,1,2.54,Ranchi,Carpenter,I,S,25.0,0,11200
+Young Adult,M,Obese,0,0,6.0,Amritsar,Engineer,I,S,24.1,0,5200
+Young Adult,F,Obese,0,0,3.0,Mumbai,Shop Owner,I,S,24.42,0,8380
+Adult,F,Overweight,0,2,16.9,Allahabad,Businessman,I,S,19.84,0,20400
+Adult,F,Overweight,0,1,2.96,Ranchi,Carpenter,I,P,18.3,1,14300
+Adult,F,Obese,0,3,7.98,Patna,Banker,I,P,23.04,1,20300
+Middle-Aged,M,Obese,0,0,7.72,Kolkata,Chef,I,P,24.16,1,24350
+Middle-Aged,F,Obese,0,0,15.68,Bhopal,Marketing Manager,I,S,25.09,0,25250
+Senior,M,Obese,0,1,8.8,Ghaziabad,Chef,I,P,23.64,1,41900
+Adult,F,Obese,0,2,3.02,Ranchi,Carpenter,I,S,24.49,0,21900
+Young Adult,F,Normal,0,3,2.0,Ludhiana,Factory Worker,I,S,25.92,0,12300
+Young Adult,M,Obese,0,0,6.0,Amritsar,Engineer,I,S,16.25,0,6000
+Young Adult,M,Normal,0,0,6.36,Amritsar,Engineer,I,S,24.1,0,5600
+Middle-Aged,F,Overweight,0,3,5.43,Kanpur,Lab Technician,I,P,25.75,1,26800
+Young Adult,F,Obese,0,3,10.6,Allahabad,Businessman,I,S,19.84,0,15900
+Young Adult,M,Obese,1,2,7.26,Amritsar,Engineer,I,S,16.17,0,20200
+Senior,F,Normal,0,0,4.34,Ranchi,Carpenter,I,S,24.0,0,28500
+Young Adult,F,Overweight,0,2,8.96,Jaipur,Lawyer,I,S,25.0,0,12100
+Adult,F,Overweight,0,1,4.17,Kanpur,Lab Technician,I,P,24.75,1,13300
+Adult,M,Overweight,0,1,9.96,Bangalore,Civil Servant,I,S,23.49,0,20800
+Adult,F,Obese,0,5,12.08,Bhopal,Marketing Manager,I,S,25.09,0,29800
+Adult,M,Obese,0,0,5.68,Kolkata,Chef,I,P,24.16,1,11300
+Young Adult,F,Obese,0,2,6.0,Patna,Banker,I,P,23.04,1,11250
+Middle-Aged,F,Obese,0,1,3.5,Jaipur,Plumber,I,P,24.0,1,22200
+Young Adult,F,Obese,0,0,2.0,Jaipur,Plumber,I,P,24.0,1,6800
+Young Adult,F,Underweight,0,0,4.0,Visakhapatnam,Real Estate Agent,I,S,25.37,0,4900
+Young Adult,F,Obese,1,0,2.0,Ranchi,Carpenter,I,S,25.0,0,10800
+Adult,F,Overweight,1,1,3.26,Visakhapatnam,Plumber,I,P,25.79,1,22100
+Adult,F,Obese,1,0,3.38,Ludhiana,Factory Worker,I,S,25.92,0,25200
+Middle-Aged,F,Obese,0,3,16.4,Meerut,Lawyer,I,S,22.0,0,41200
+Adult,F,Obese,0,2,6.52,Vadodara,Real Estate Agent,I,S,24.03,0,22200
+Young Adult,F,Obese,0,0,3.0,Rajkot,Shop Owner,I,S,24.19,0,7000
+Adult,M,Overweight,0,2,2.54,Amritsar,Plumber,I,S,24.05,0,13500
+Young Adult,F,Overweight,0,0,7.0,Chennai,HR Manager,I,S,25.0,0,5250
+Young Adult,M,Overweight,0,2,6.72,Varanasi,Retail Manager,I,P,23.68,1,11800
+Young Adult,F,Normal,0,0,5.0,Surat,Accountant,I,S,23.08,0,4800
+Middle-Aged,F,Overweight,1,1,8.75,Surat,Accountant,I,S,24.84,0,25400
+Young Adult,M,Overweight,0,4,6.72,Mumbai,Civil Servant,I,P,23.0,1,18500
+Senior,F,Obese,1,1,6.78,Chennai,Insurance Agent,I,S,23.75,0,49500
+Middle-Aged,M,Overweight,0,1,10.32,Varanasi,Retail Manager,I,P,25.68,1,18700
+Middle-Aged,F,Obese,0,3,6.88,Rajkot,Pharmacist,I,P,24.99,1,30500
+Senior,F,Obese,1,0,9.04,Rajkot,Pharmacist,I,P,23.49,1,44200
+Adult,M,Obese,1,1,9.24,Mumbai,Civil Servant,I,P,23.0,1,23500
+Senior,F,Obese,0,0,11.0,Surat,Accountant,I,S,22.84,0,39500
+Adult,F,Obese,1,0,8.3,Surat,Accountant,I,S,23.84,0,27800
+Middle-Aged,F,Obese,0,3,6.06,Visakhapatnam,Lab Technician,I,S,25.41,0,41800
+Middle-Aged,F,Obese,0,1,6.15,Visakhapatnam,Lab Technician,I,S,25.21,0,39800
+Adult,M,Overweight,0,0,4.35,Visakhapatnam,Lab Technician,I,S,15.43,0,11800
+Adult,F,Overweight,0,0,5.44,Rajkot,Pharmacist,I,P,25.99,1,10200
+Middle-Aged,M,Normal,0,0,10.5,Mumbai,Civil Servant,I,P,23.0,1,18800
+Adult,M,Overweight,0,1,8.52,Varanasi,Retail Manager,I,P,23.78,1,13800
+Adult,F,Obese,0,4,11.12,Faridabad,Consultant,I,P,24.5,1,25900
+Middle-Aged,F,Overweight,0,0,12.3,Jaipur,Banker,I,S,24.08,0,24800
+Adult,M,Obese,0,1,8.88,Indore,Retail Manager,I,S,24.0,0,18200
+Young Adult,F,Normal,0,1,7.0,Faridabad,Sales Manager,I,P,26.25,1,7400
+Senior,M,Obese,1,2,6.78,Bhopal,Nurse,I,S,24.0,0,45800
+Adult,F,Obese,0,0,5.8,Lucknow,Content Writer,I,S,25.24,0,13100
+Adult,F,Obese,1,1,8.3,Patna,Accountant,I,P,23.86,1,25800
+Middle-Aged,F,Overweight,0,1,5.88,Kolkata,Insurance Agent,I,S,23.93,0,25600
+Young Adult,F,Obese,0,0,4.72,Lucknow,Content Writer,I,S,24.0,0,8900
+Senior,M,Obese,0,0,18.08,Rajkot,Lawyer,I,P,23.86,1,35200
+Adult,M,Obese,0,2,4.98,Ranchi,Insurance Agent,I,P,24.85,1,21800
+Adult,M,Normal,1,2,4.26,Rajkot,Insurance Agent,I,P,23.97,1,18400
+Adult,M,Obese,0,1,4.17,Rajkot,Insurance Agent,I,P,23.97,1,14200
+Young Adult,F,Obese,0,2,7.0,Faridabad,Sales Manager,I,P,25.25,1,11200
+Young Adult,M,Obese,0,0,3.0,Ranchi,Insurance Agent,I,P,25.85,1,6800
+Middle-Aged,F,Obese,0,2,8.2,Lucknow,Content Writer,I,S,24.0,0,32100
+Middle-Aged,F,Normal,0,1,8.75,Patna,Accountant,I,P,23.36,1,17500
+Middle-Aged,F,Normal,1,0,13.51,Faridabad,Sales Manager,I,P,24.25,1,30500
+Adult,F,Overweight,0,1,8.3,Patna,Accountant,I,P,22.86,1,18200
+Adult,F,Obese,0,0,6.76,Lucknow,Content Writer,I,S,24.0,0,18800
+Adult,M,Overweight,0,1,20.28,Vadodara,Doctor,I,P,24.0,1,18500
+Middle-Aged,F,Obese,0,2,7.12,Faridabad,Pharmacist,I,S,24.25,0,27200
+Adult,M,Overweight,0,2,17.76,Vadodara,Doctor,I,P,24.67,1,18200
+Young Adult,F,Normal,0,0,3.0,Vadodara,Software Engineer,I,S,20.0,0,5800
+Young Adult,M,Obese,0,0,2.18,Ahmedabad,Carpenter,I,P,18.41,1,8200
+Young Adult,M,Underweight,0,0,3.54,Ranchi,Insurance Agent,I,P,22.85,1,6800
+Young Adult,F,Obese,0,1,7.0,Nagpur,Architect,I,S,23.98,0,9800
+Young Adult,F,Obese,0,4,8.05,Indore,Architect,I,P,23.0,1,18500
+Young Adult,F,Obese,0,1,7.0,Kolkata,Sales Manager,I,P,26.0,1,9200
+Middle-Aged,M,Overweight,1,1,14.24,Meerut,Lawyer,I,P,25.99,1,26500
+Young Adult,F,Obese,0,0,7.0,Kolkata,Sales Manager,I,P,26.0,1,8400
+Adult,F,Overweight,0,2,5.92,Jaipur,Chef,I,S,25.0,0,14200
+Middle-Aged,F,Overweight,0,1,12.67,Bhopal,HR Manager,I,S,22.76,0,16500
+Middle-Aged,M,Obese,0,0,7.24,Kolkata,Chef,I,S,24.0,0,17800
+Middle-Aged,F,Normal,0,0,14.96,Lucknow,Lawyer,I,P,24.0,1,15200
+Middle-Aged,F,Obese,1,0,11.76,Vadodara,Banker,I,P,22.92,1,38500
+Young Adult,M,Obese,0,0,2.36,Jaipur,Carpenter,I,S,23.75,0,9100
+Young Adult,M,Obese,0,0,8.0,Visakhapatnam,Lawyer,I,S,22.69,0,8900
+Adult,M,Normal,0,3,10.78,Kolkata,Sales Manager,I,S,25.42,0,18900
+Young Adult,M,Obese,0,0,4.0,Kolkata,Chef,I,S,24.0,0,9100
+Adult,F,Overweight,0,0,5.68,Jaipur,Chef,I,S,25.0,0,8900
+Young Adult,M,Obese,0,0,7.0,Kolkata,Sales Manager,I,S,25.42,0,8500
+Middle-Aged,F,Normal,0,0,13.72,Bhopal,HR Manager,I,S,22.76,0,16800
+Senior,F,Overweight,0,0,8.8,Faridabad,Pharmacist,I,P,24.14,1,21500
+Adult,F,Overweight,0,2,11.62,Kolkata,Sales Manager,I,P,26.0,1,17800
+Young Adult,F,Obese,0,0,8.26,Kolkata,Sales Manager,I,P,26.0,1,8100
+Young Adult,F,Normal,1,0,6.0,Agra,Engineer,I,S,23.49,0,12500
+Adult,M,Overweight,0,3,13.52,Visakhapatnam,Lawyer,I,S,22.69,0,19200
+Adult,F,Overweight,0,2,12.08,Lucknow,Lawyer,I,P,24.0,1,14800
+Young Adult,M,Obese,0,0,2.0,Jaipur,Carpenter,I,S,23.75,0,8500
+Adult,F,Obese,0,0,8.16,Ghaziabad,Retail Manager,I,S,25.22,0,11200
+Middle-Aged,F,Obese,0,2,6.06,Hyderabad,Lab Technician,I,S,24.06,0,25400
+Young Adult,M,Overweight,0,0,12.72,Hyderabad,Doctor,I,P,25.05,1,6200
+Adult,F,Normal,1,1,4.98,Hyderabad,Lab Technician,I,S,26.06,0,21500
+Middle-Aged,F,Obese,0,3,4.28,Pune,Plumber,I,P,26.0,1,27200
+Young Adult,F,Normal,0,1,3.72,Surat,Insurance Agent,I,S,23.5,0,9400
+Middle-Aged,M,Obese,0,1,3.74,Nagpur,Driver,I,S,24.84,0,21800
+Young Adult,F,Overweight,0,0,3.0,Hyderabad,Lab Technician,I,S,25.46,0,5400
+Adult,M,Obese,0,0,3.14,Hyderabad,Carpenter,I,S,24.0,0,11200
+Middle-Aged,F,Normal,0,0,3.86,Pune,Plumber,I,P,26.0,1,15800
+Adult,M,Obese,0,2,4.71,Allahabad,Software Engineer,I,P,23.97,1,16200
+Middle-Aged,M,Overweight,1,1,7.36,Meerut,Content Writer,I,S,25.09,0,25800
+Young Adult,F,Overweight,0,0,8.24,Bhopal,Consultant,I,S,24.25,0,6100
+Young Adult,F,Normal,0,2,4.72,Nashik,Real Estate Agent,I,S,23.62,0,11800
+Adult,M,Normal,0,3,3.32,Nagpur,Driver,I,S,25.59,0,19800
+Adult,M,Overweight,0,2,4.35,Visakhapatnam,Software Engineer,I,S,24.3,0,15600
+Young Adult,F,Obese,0,3,3.0,Hyderabad,Lab Technician,I,S,25.56,0,21500
+Adult,F,Obese,0,0,4.26,Delhi,Software Engineer,I,S,24.0,0,10400
+Young Adult,M,Normal,0,0,2.0,Nagpur,Driver,I,S,24.84,0,32500
+Middle-Aged,M,Obese,0,1,3.56,Srinagar,Factory Worker,I,P,22.77,1,6400
+Middle-Aged,F,Overweight,0,1,7.48,Visakhapatnam,Real Estate Agent,I,P,24.5,1,13500
+Young Adult,M,Obese,1,1,3.0,Visakhapatnam,Software Engineer,I,S,25.7,0,15200
+Adult,M,Overweight,0,1,2.6,Meerut,Driver,I,S,24.67,0,16500
+Middle-Aged,F,Obese,1,0,8.56,Nashik,Real Estate Agent,I,S,25.12,0,23500
+Young Adult,M,Overweight,0,0,3.18,Allahabad,Software Engineer,I,P,22.98,1,14800
+Adult,F,Obese,0,1,4.08,Hyderabad,Lab Technician,I,S,24.06,0,14500
+Adult,M,Obese,0,3,5.08,Meerut,Content Writer,I,S,26.33,0,13800
+Adult,F,Overweight,0,3,4.26,Indore,Nurse,I,P,25.12,1,10800
+Middle-Aged,F,Overweight,0,2,8.32,Kanpur,Teacher,I,P,24.07,1,13500
+Adult,M,Normal,0,3,3.81,Varanasi,Nurse,I,P,23.57,1,21500
+Middle-Aged,M,Overweight,0,0,5.43,Nagpur,Lab Technician,I,P,24.68,1,22400
+Adult,M,Obese,0,2,15.24,Rajkot,Doctor,I,S,23.64,0,19500
+Young Adult,M,Obese,0,2,7.0,Bangalore,Sales Manager,I,P,25.0,1,15200
+Young Adult,M,Obese,1,2,3.0,Ranchi,Lab Technician,I,P,25.07,1,18900
+Adult,F,Normal,1,2,3.38,Mumbai,Plumber,I,S,24.0,0,21000
+Middle-Aged,M,Obese,0,3,23.52,Rajkot,Doctor,I,S,23.14,0,18200
+Adult,M,Obese,0,3,6.28,Kanpur,Pharmacist,I,P,23.25,1,15200
+Adult,M,Obese,0,1,6.28,Kanpur,Pharmacist,I,P,23.25,1,29800
+Middle-Aged,F,Obese,0,0,11.76,Srinagar,Retail Manager,I,P,25.0,1,21500
+Middle-Aged,F,Overweight,0,0,12.84,Patna,Civil Servant,I,P,16.17,1,12200
+Middle-Aged,F,Obese,0,0,3.98,Mumbai,Plumber,I,S,24.0,0,22800
+Middle-Aged,M,Obese,0,0,5.25,Amritsar,Shop Owner,I,S,6.0,0,8200
+Middle-Aged,M,Overweight,1,3,5.88,Surat,Lab Technician,I,S,24.27,0,17800
+Middle-Aged,F,Overweight,0,0,4.28,Mumbai,Plumber,I,S,24.0,0,17200
+Adult,F,Overweight,0,1,10.16,Kolkata,Marketing Manager,I,P,23.73,1,14800
+Middle-Aged,F,Obese,1,0,12.04,Bangalore,Sales Manager,I,S,24.16,0,13200
+Young Adult,M,Overweight,0,1,5.0,Varanasi,Accountant,I,P,25.75,1,19200
+Middle-Aged,M,Obese,0,0,21.72,Rajkot,Doctor,I,S,23.64,0,16800
+Middle-Aged,F,Obese,0,1,14.24,Kolkata,Marketing Manager,I,P,23.98,1,23200
+Adult,F,Obese,0,2,4.08,Vadodara,Nurse,I,S,23.13,0,15200
+Adult,F,Obese,0,1,4.35,Vadodara,Nurse,I,S,23.13,0,6200
+Adult,M,Overweight,0,3,6.64,Bangalore,Teacher,I,S,24.62,0,22500
+Adult,M,Normal,0,2,12.56,Mumbai,Lawyer,I,S,26.25,0,15800
+Senior,F,Obese,0,1,8.8,Bhopal,Pharmacist,I,P,23.24,1,14200
+Adult,F,Normal,0,1,3.38,Jaipur,Electrician,I,S,25.83,0,21800
+Young Adult,F,Overweight,0,0,3.0,Patna,Insurance Agent,I,S,25.08,0,15400
+Middle-Aged,F,Obese,0,0,16.16,Visakhapatnam,Marketing Manager,I,S,22.89,0,24200
+Young Adult,M,Obese,1,0,2.3,Meerut,Plumber,I,S,24.48,0,11200
+Young Adult,M,Obese,1,1,6.0,Ahmedabad,Retail Manager,I,P,13.0,1,16200
+Middle-Aged,M,Overweight,0,2,3.98,Ranchi,Carpenter,I,S,24.0,0,14800
+Adult,M,Obese,0,3,7.8,Ahmedabad,Retail Manager,I,P,1.25,1,15800
+Middle-Aged,M,Obese,0,3,5.97,Hyderabad,Shop Owner,I,S,23.46,0,24500
+Adult,M,Obese,0,1,2.6,Meerut,Plumber,I,S,24.33,0,7200
+Middle-Aged,F,Obese,0,1,13.76,Lucknow,Marketing Manager,I,S,25.0,0,21200
+Adult,M,Obese,0,2,2.78,Meerut,Plumber,I,S,25.75,0,8500
+Adult,F,Overweight,0,2,12.8,Mumbai,Lawyer,I,S,25.66,0,21500
+Senior,M,Obese,0,0,8.8,Ahmedabad,Chef,I,P,23.25,1,20800
+Young Adult,M,Obese,0,0,4.24,Srinagar,Pharmacist,I,P,25.91,1,11800
+Adult,M,Obese,1,2,6.64,Ahmedabad,Chef,I,P,23.25,1,17892
+Young Adult,M,Obese,0,0,2.24,Meerut,Plumber,I,S,24.33,0,17933
+Middle-Aged,M,Overweight,0,3,11.58,Ahmedabad,Retail Manager,I,P,15.5,1,17974
+Middle-Aged,F,Overweight,0,3,9.2,Srinagar,Government Employee,I,P,22.24,1,18015
+Young Adult,M,Overweight,0,3,6.0,Ahmedabad,Retail Manager,I,P,0.76,1,11200
+Adult,M,Normal,0,2,2.9,Ranchi,Carpenter,I,S,24.0,0,12500
+Adult,F,Normal,0,3,7.25,Srinagar,Government Employee,I,P,22.99,1,7500
+Young Adult,F,Overweight,0,1,2.0,Allahabad,Electrician,I,S,24.0,0,10500
+Young Adult,F,Obese,1,0,6.0,Lucknow,Engineer,I,P,24.74,1,11800
+Young Adult,M,Obese,0,3,4.72,Indore,Chef,I,S,24.0,0,18500
+Middle-Aged,F,Overweight,0,0,7.96,Meerut,Real Estate Agent,I,S,6.0,0,23500
+Middle-Aged,F,Obese,0,3,7.84,Bhopal,Pharmacist,C,P,16.6,1,7000
+Young Adult,F,Obese,0,0,4.0,Surat,Pharmacist,I,P,23.25,1,8800
+Adult,M,Obese,0,0,7.98,Hyderabad,Banker,I,S,25.84,0,7200
+Young Adult,M,Obese,0,0,2.06,Delhi,Carpenter,I,S,23.86,0,15200
+Middle-Aged,M,Obese,0,2,8.6,Ranchi,Government Employee,I,P,23.25,1,25800
+Middle-Aged,M,Overweight,1,2,9.05,Ranchi,Government Employee,I,P,23.25,1,6200
+Young Adult,F,Normal,0,0,6.0,Hyderabad,Banker,I,P,23.67,1,17500
+Middle-Aged,F,Obese,0,2,7.24,Bhopal,Pharmacist,C,P,16.22,1,16200
+Middle-Aged,F,Obese,0,0,7.48,Nashik,Content Writer,I,S,24.18,0,17000
+Middle-Aged,M,Obese,0,1,9.2,Ludhiana,Government Employee,I,S,24.0,0,7500
+Young Adult,M,Obese,0,0,3.0,Bangalore,Software Engineer,I,S,24.18,0,16500
+Adult,M,Obese,1,0,7.98,Hyderabad,Banker,I,S,26.0,0,14800
+Adult,M,Overweight,0,2,6.64,Indore,Chef,I,S,24.0,0,11800
+Adult,M,Normal,0,0,3.26,Delhi,Carpenter,I,S,23.86,0,21500
+Adult,M,Obese,1,1,3.26,Delhi,Carpenter,I,S,23.86,0,8200
+Young Adult,F,Normal,0,1,2.0,Mumbai,Plumber,I,S,24.0,0,21200
+Middle-Aged,M,Overweight,0,2,5.88,Bangalore,Software Engineer,I,S,24.18,0,17000
+Middle-Aged,M,Obese,0,1,7.36,Patna,Real Estate Agent,I,P,9.19,1,14800
+Adult,F,Normal,0,2,6.76,Bhopal,Pharmacist,C,P,17.6,1,10500
+Adult,M,Overweight,0,2,5.08,Indore,Chef,I,S,24.0,0,5800
+Young Adult,M,Normal,0,0,4.0,Patna,Real Estate Agent,I,P,9.19,1,5800
+Young Adult,F,Overweight,0,0,7.0,Patna,Sales Manager,I,P,25.54,1,12500
+Young Adult,F,Normal,1,1,2.0,Ranchi,Electrician,I,S,24.58,0,7200
+Young Adult,M,Obese,0,1,6.0,Visakhapatnam,Retail Manager,I,S,25.0,0,26500
+Senior,F,Normal,0,2,4.52,Varanasi,Factory Worker,I,S,24.0,0,6200
+Young Adult,F,Obese,0,0,3.0,Hyderabad,Software Engineer,I,S,25.0,0,11500
+Adult,F,Normal,0,2,4.35,Ahmedabad,Insurance Agent,I,P,25.0,1,9500
+Adult,F,Overweight,0,0,8.7,Nagpur,Retail Manager,I,S,15.94,0,13200
+Adult,F,Obese,0,3,6.5,Nashik,Accountant,I,S,25.64,0,13800
+Middle-Aged,M,Normal,0,0,10.32,Amritsar,Data Analyst,I,P,24.0,1,25200
+Middle-Aged,F,Obese,0,5,5.7,Ahmedabad,Insurance Agent,I,P,24.0,1,23800
+Adult,M,Overweight,1,3,9.6,Amritsar,Data Analyst,I,P,23.0,1,5500
+Young Adult,F,Obese,0,0,6.0,Nagpur,Retail Manager,I,S,16.91,0,15200
+Adult,M,Normal,1,0,9.1,Kanpur,Architect,I,S,24.08,0,18500
+Middle-Aged,F,Normal,0,3,5.16,Ahmedabad,Insurance Agent,I,P,24.0,1,23500
+Middle-Aged,F,Obese,1,1,8.75,Nagpur,Accountant,C,P,23.62,1,13500
+Adult,M,Overweight,0,1,9.42,Amritsar,Data Analyst,I,P,24.0,1,33500
+Senior,F,Obese,1,3,6.6,Nashik,Shop Owner,I,S,23.5,0,15500
+Middle-Aged,M,Normal,0,0,14.24,Bangalore,Lawyer,I,P,23.0,1,29000
+Senior,F,Overweight,1,0,6.51,Indore,Software Engineer,I,P,25.75,1,12500
+Adult,F,Obese,0,0,3.26,Mumbai,Carpenter,I,S,25.66,0,18500
+Adult,F,Obese,1,1,9.73,Ludhiana,HR Manager,I,P,25.0,1,12000
+Young Adult,F,Normal,1,0,8.0,Vadodara,Lawyer,I,S,23.0,0,6200
+Young Adult,M,Overweight,0,0,2.0,Hyderabad,Driver,I,P,16.84,1,18200
+Middle-Aged,F,Normal,0,1,15.44,Vadodara,Lawyer,I,S,25.16,0,10800
+Adult,F,Overweight,0,1,4.08,Lucknow,Nurse,I,S,24.22,0,6000
+Young Adult,F,Overweight,0,0,7.0,Ludhiana,HR Manager,I,P,25.0,1,5800
+Young Adult,F,Obese,0,0,4.0,Kanpur,Real Estate Agent,I,P,24.0,1,21500
+Middle-Aged,F,Obese,0,0,16.64,Vadodara,Lawyer,I,S,24.16,0,24500
+Senior,F,Obese,0,0,4.34,Indore,Factory Worker,I,P,25.0,1,14200
+Adult,F,Overweight,0,2,11.2,Ludhiana,HR Manager,I,P,23.5,1,18000
+Middle-Aged,M,Overweight,0,2,11.04,Meerut,Civil Servant,I,S,23.3,0,11500
+Adult,F,Obese,0,2,7.8,Hyderabad,Data Analyst,I,P,23.72,1,25000
+Middle-Aged,M,Overweight,0,1,4.28,Srinagar,Electrician,I,P,24.77,1,19200
+Middle-Aged,F,Obese,0,1,15.44,Nagpur,Marketing Manager,I,P,23.75,1,13500
+Adult,F,Obese,0,3,5.8,Pune,Real Estate Agent,I,P,23.75,1,23500
+Middle-Aged,F,Overweight,0,2,8.44,Pune,Real Estate Agent,I,P,24.75,1,7200
+Young Adult,F,Obese,0,0,7.63,Ludhiana,HR Manager,I,P,25.0,1,6000
+Young Adult,F,Obese,0,0,3.0,Ranchi,Software Engineer,I,P,1.08,1,14800
+Young Adult,M,Normal,1,1,6.05,Allahabad,Government Employee,I,S,24.3,0,14800
+Adult,F,Normal,0,2,5.07,Ranchi,Software Engineer,I,P,1.73,1,11200
+Adult,F,Overweight,0,2,8.89,Ludhiana,HR Manager,I,P,25.0,1,21500
+Middle-Aged,F,Overweight,1,0,17.5,Indore,Businessman,I,S,23.56,0,21200
+Middle-Aged,F,Obese,0,3,7.48,Pune,Real Estate Agent,I,S,23.15,0,14200
+Adult,F,Obese,0,2,6.4,Kanpur,Real Estate Agent,I,S,15.34,0,13500
+Young Adult,M,Obese,1,2,5.15,Allahabad,Government Employee,I,S,23.8,0,8800
+Young Adult,F,Overweight,0,1,4.48,Pune,Real Estate Agent,I,P,24.75,1,11200
+Young Adult,M,Overweight,0,3,2.24,Srinagar,Electrician,I,P,24.03,1,10800
+Adult,F,Obese,0,1,13.9,Indore,Businessman,I,S,23.56,0,7800
+Young Adult,F,Overweight,0,2,10.0,Indore,Businessman,I,S,23.56,0,14200
+Adult,M,Obese,0,2,3.2,Srinagar,Electrician,I,P,25.86,1,17500
+Adult,F,Obese,0,3,11.83,Ludhiana,HR Manager,I,P,25.0,1,8800
+Adult,F,Obese,0,0,5.44,Kanpur,Real Estate Agent,I,P,23.0,1,11500
+Adult,F,Overweight,0,0,3.26,Indore,Factory Worker,I,P,25.0,1,21000
+Adult,M,Underweight,1,5,3.02,Agra,Electrician,I,S,23.91,0,21500
+Middle-Aged,M,Obese,1,0,3.5,Agra,Electrician,I,S,25.75,0,16800
+Middle-Aged,F,Obese,0,0,11.4,Hyderabad,Data Analyst,I,P,23.72,1,21500
+Middle-Aged,F,Obese,0,0,8.32,Pune,Real Estate Agent,I,P,25.75,1,6000
+Young Adult,F,Obese,0,0,2.0,Indore,Factory Worker,I,P,25.0,1,12800
+Adult,F,Overweight,0,2,6.16,Kanpur,Real Estate Agent,I,P,24.0,1,5500
+Young Adult,F,Overweight,0,0,4.0,Kanpur,Real Estate Agent,I,P,24.56,1,19500
+Middle-Aged,F,Obese,0,2,15.2,Vadodara,Lawyer,I,S,24.49,0,9200
+Adult,F,Overweight,0,1,5.08,Pune,Content Writer,I,P,24.42,1,13500
+Adult,M,Obese,0,1,16.0,Delhi,Businessman,I,S,2.43,0,11200
+Adult,M,Obese,0,2,8.89,Hyderabad,Sales Manager,I,S,24.0,0,14800
+Adult,M,Obese,0,2,16.3,Delhi,Businessman,I,S,4.43,0,16200
+Middle-Aged,M,Obese,0,2,5.34,Visakhapatnam,Lab Technician,I,S,24.0,0,21000
+Middle-Aged,F,Overweight,0,0,14.56,Hyderabad,Architect,I,P,26.0,1,14800
+Middle-Aged,M,Normal,0,1,5.25,Visakhapatnam,Lab Technician,I,S,24.0,0,26500
+Senior,F,Obese,0,0,15.82,Hyderabad,Architect,I,P,26.0,1,28500
+Middle-Aged,F,Obese,1,0,4.28,Bhopal,Factory Worker,I,S,23.88,0,21800
+Middle-Aged,F,Overweight,0,0,4.22,Kanpur,Driver,I,S,25.94,0,18000
+Middle-Aged,F,Obese,0,0,5.88,Patna,Software Engineer,I,P,23.67,1,6500
+Young Adult,F,Obese,0,0,4.0,Mumbai,Teacher,I,P,24.51,1,7850
+Young Adult,M,Obese,0,1,13.8,Nashik,Doctor,I,S,24.5,0,8200
+Adult,M,Overweight,0,0,2.9,Jaipur,Driver,I,P,23.0,1,28500
+Senior,M,Obese,0,0,22.6,Visakhapatnam,Businessman,I,P,23.85,1,6800
+Adult,M,Overweight,0,0,8.89,Patna,Sales Manager,I,S,2.8,0,13500
+Adult,M,Overweight,0,3,2.9,Faridabad,Factory Worker,I,S,25.5,0,24000
+Senior,M,Normal,0,0,13.38,Agra,Banker,I,P,23.33,1,14800
+Young Adult,F,Overweight,1,1,4.84,Bhopal,Teacher,I,P,25.0,1,18200
+Adult,M,Obese,0,4,4.62,Ludhiana,Shop Owner,I,P,23.96,1,27500
+Middle-Aged,M,Obese,0,0,4.16,Faridabad,Factory Worker,I,S,24.5,0,15600
+Middle-Aged,F,Overweight,0,1,5.52,Patna,Shop Owner,I,P,23.49,1,16200
+Adult,F,Overweight,1,1,4.62,Patna,Shop Owner,I,P,23.0,1,16800
+Middle-Aged,M,Obese,0,0,5.7,Varanasi,Insurance Agent,I,S,23.15,0,15200
+Young Adult,F,Underweight,1,2,4.6,Bhopal,Teacher,I,P,23.0,1,9800
+Adult,F,Overweight,0,0,12.32,Rajkot,Lawyer,I,P,24.34,1,13900
+Young Adult,F,Overweight,1,1,12.4,Vadodara,Businessman,I,S,24.8,0,21500
+Middle-Aged,M,Obese,0,2,22.8,Ludhiana,Doctor,I,P,25.42,1,38500
+Senior,F,Obese,0,3,27.12,Delhi,Doctor,I,S,16.75,0,7200
+Young Adult,F,Overweight,0,0,12.0,Delhi,Doctor,I,S,16.75,0,12800
+Adult,M,Obese,0,3,7.62,Agra,Banker,I,P,23.09,1,8900
+Young Adult,F,Obese,0,1,12.0,Delhi,Doctor,I,S,17.75,0,5800
+Young Adult,M,Normal,0,0,6.36,Agra,Banker,I,P,25.08,1,28200
+Middle-Aged,M,Overweight,1,0,14.35,Patna,Sales Manager,I,S,25.0,0,10500
+Adult,M,Obese,0,0,13.6,Vadodara,Businessman,I,P,24.0,1,19800
+Middle-Aged,F,Obese,0,2,18.4,Vadodara,Businessman,I,S,23.8,0,18500
+Middle-Aged,F,Underweight,0,0,8.2,Ahmedabad,Teacher,I,S,23.72,0,5400
+Young Adult,M,Normal,0,0,2.0,Faridabad,Factory Worker,I,S,23.5,0,16200
+Young Adult,F,Normal,1,2,14.88,Amritsar,Doctor,I,P,23.5,1,9500
+Young Adult,M,Overweight,0,2,2.0,Faridabad,Factory Worker,I,S,25.5,0,39500
+Middle-Aged,M,Obese,1,1,21.1,Vadodara,Businessman,I,P,25.84,1,13200
+Adult,M,Overweight,0,3,4.26,Ludhiana,Shop Owner,I,P,23.96,1,13800
+Adult,F,Obese,0,0,3.02,Rajkot,Electrician,I,S,23.15,0,15200
+Middle-Aged,F,Normal,0,0,9.5,Lucknow,Accountant,I,S,24.85,0,15400
+Adult,F,Obese,1,1,12.08,Rajkot,Lawyer,I,P,23.51,1,28800
+Middle-Aged,F,Obese,0,3,10.55,Indore,Accountant,I,S,24.92,0,8200
+Adult,M,Obese,0,0,10.64,Kolkata,Lawyer,I,P,24.08,1,21000
+Middle-Aged,F,Obese,0,0,14.14,Mumbai,Sales Manager,I,S,24.05,0,24500
+Senior,M,Overweight,0,1,6.51,Meerut,Software Engineer,I,S,24.0,0,29500
+Senior,F,Obese,0,0,27.12,Chennai,Doctor,I,P,25.0,1,9800
+Young Adult,M,Obese,0,1,6.05,Varanasi,Accountant,I,P,23.66,1,22400
+Middle-Aged,F,Obese,0,2,7.84,Indore,Content Writer,I,S,23.91,0,19800
+Middle-Aged,F,Underweight,0,1,6.15,Bangalore,Insurance Agent,I,S,25.89,0,22800
+Middle-Aged,M,Obese,0,3,19.0,Ludhiana,Businessman,I,P,18.64,1,14500
+Adult,M,Obese,0,3,2.6,Bhopal,Carpenter,I,P,23.76,1,9200
+Young Adult,M,Overweight,1,0,6.0,Srinagar,Engineer,I,S,24.66,0,6200
+Young Adult,F,Normal,0,0,6.0,Mumbai,Civil Servant,I,P,17.0,1,6200
+Young Adult,F,Overweight,0,0,6.0,Mumbai,Civil Servant,I,P,17.21,1,5900
+Young Adult,F,Normal,0,0,7.63,Nagpur,HR Manager,I,P,25.0,1,14200
+Adult,M,Obese,0,0,3.14,Amritsar,Carpenter,I,S,24.0,0,26800
+Adult,F,Obese,1,2,11.62,Nagpur,HR Manager,I,P,24.0,1,16200
+Middle-Aged,M,Normal,0,2,10.86,Meerut,Data Analyst,I,S,25.0,0,8100
+Young Adult,F,Obese,0,1,2.0,Allahabad,Driver,I,P,25.95,1,31000
+Middle-Aged,M,Obese,0,3,12.66,Bangalore,Retail Manager,I,S,25.25,0,28500
+Middle-Aged,M,Obese,1,0,7.72,Mumbai,Content Writer,I,S,25.0,0,8900
+Young Adult,F,Obese,0,1,6.54,Mumbai,Civil Servant,I,P,16.0,1,14800
+Young Adult,M,Overweight,0,4,2.18,Bhopal,Carpenter,I,P,25.31,1,27200
+Senior,M,Obese,0,0,4.4,Amritsar,Carpenter,I,S,26.0,0,6100
+Young Adult,M,Normal,0,0,6.0,Bangalore,Retail Manager,I,S,24.48,0,24800
+Middle-Aged,F,Obese,0,2,11.4,Mumbai,Civil Servant,I,P,17.0,1,22900
+Middle-Aged,M,Obese,0,1,19.9,Ludhiana,Businessman,I,P,18.64,1,22500
+Middle-Aged,M,Overweight,0,1,8.2,Mumbai,Content Writer,I,S,24.0,0,8200
+Young Adult,F,Obese,0,0,10.0,Bhopal,Businessman,I,P,23.42,1,11200
+Adult,M,Overweight,0,2,7.98,Srinagar,Engineer,I,S,24.66,0,18500
+Young Adult,F,Obese,0,5,6.9,Ahmedabad,Civil Servant,I,S,26.35,0,12800
+Young Adult,F,Underweight,1,2,3.0,Kolkata,Nurse,I,P,26.25,1,17200
+Middle-Aged,F,Obese,0,0,11.58,Lucknow,Engineer,I,S,24.25,0,16500
+Adult,F,Overweight,1,0,10.14,Pune,Retail Manager,I,P,23.75,1,14200
+Adult,F,Overweight,0,2,8.3,Nashik,Accountant,I,P,24.18,1,28800
+Middle-Aged,F,Obese,0,3,21.1,Vadodara,Businessman,I,S,7.84,0,7400
+Young Adult,F,Underweight,0,1,4.0,Bangalore,Content Writer,I,S,25.06,0,10200
+Young Adult,F,Normal,0,2,6.05,Nashik,Accountant,I,P,24.18,1,7200
+Young Adult,F,Obese,0,0,5.75,Nashik,Accountant,I,P,24.18,1,26500
+Senior,F,Obese,0,0,17.6,Bangalore,Consultant,I,P,22.84,1,14800
+Middle-Aged,F,Overweight,0,1,6.88,Bangalore,Content Writer,I,S,25.07,0,11500
+Adult,F,Obese,0,1,8.88,Pune,Engineer,I,S,24.05,0,16800
+Middle-Aged,F,Obese,0,0,11.22,Pune,Banker,I,S,25.25,0,28500
+Middle-Aged,F,Obese,0,3,11.94,Pune,Banker,I,S,25.25,0,8400
+Young Adult,F,Obese,0,0,5.0,Nashik,Government Employee,I,P,24.75,1,5500
+Young Adult,F,Overweight,0,0,5.0,Nashik,Government Employee,I,P,24.75,1,16500
+Middle-Aged,M,Overweight,0,0,13.51,Bhopal,Sales Manager,I,P,7.99,1,17200
+Adult,F,Obese,0,3,9.78,Pune,Banker,I,S,25.25,0,26400
+Middle-Aged,F,Obese,0,3,7.84,Bangalore,Content Writer,I,S,25.06,0,8500
+Young Adult,F,Normal,1,0,6.0,Surat,Engineer,I,S,23.42,0,14200
+Young Adult,M,Obese,1,1,7.21,Bhopal,Sales Manager,I,P,6.74,1,13800
+Adult,M,Overweight,1,1,4.35,Kanpur,Shop Owner,I,P,24.0,1,34500
+Senior,F,Normal,1,0,6.78,Hyderabad,Shop Owner,I,S,24.0,0,6800
+Young Adult,F,Overweight,0,0,2.3,Kolkata,Driver,I,S,23.53,0,14100
+Adult,M,Obese,1,0,4.26,Nashik,Lab Technician,I,P,22.75,1,24200
+Middle-Aged,M,Obese,0,2,14.56,Surat,Architect,I,P,23.63,1,8200
+Young Adult,M,Obese,0,0,6.0,Lucknow,Retail Manager,I,S,22.93,0,9900
+Young Adult,M,Obese,0,1,2.36,Amritsar,Factory Worker,I,S,24.0,0,11500
+Young Adult,F,Overweight,1,1,3.0,Indore,Shop Owner,I,P,1.35,1,14800
+Middle-Aged,M,Obese,0,1,3.44,Vadodara,Driver,I,P,24.0,1,17800
+Middle-Aged,F,Normal,0,0,6.15,Indore,Shop Owner,I,P,1.35,1,24500
+Middle-Aged,M,Obese,0,1,10.55,Ranchi,Government Employee,I,S,23.99,0,32500
+Senior,M,Obese,0,3,11.15,Ranchi,Government Employee,I,S,22.0,0,17500
+Middle-Aged,M,Obese,0,1,3.8,Amritsar,Factory Worker,I,S,24.0,0,22100
+Middle-Aged,M,Overweight,1,2,3.62,Vadodara,Driver,I,P,24.09,1,5300
+Young Adult,M,Overweight,0,0,2.0,Amritsar,Factory Worker,I,S,24.0,0,24800
+Middle-Aged,M,Overweight,1,2,9.5,Ranchi,Government Employee,I,S,22.49,0,11800
+Adult,F,Overweight,0,1,4.62,Ahmedabad,Lab Technician,I,S,23.93,0,14200
+Senior,M,Obese,0,0,22.6,Bhopal,Businessman,I,P,25.95,1,37760
+Young Adult,M,Obese,0,0,4.0,Meerut,Real Estate Agent,I,P,25.42,1,5800
+Middle-Aged,M,Obese,0,1,5.61,Nashik,Lab Technician,I,P,24.75,1,22800
+Middle-Aged,F,Obese,0,2,5.97,Ahmedabad,Lab Technician,I,S,23.93,0,26450
+Young Adult,M,Overweight,0,0,6.05,Ranchi,Government Employee,I,S,22.0,0,7200
+Middle-Aged,M,Obese,0,0,7.12,Meerut,Real Estate Agent,I,P,23.92,1,20800
+Young Adult,M,Obese,0,1,4.6,Meerut,Real Estate Agent,I,P,24.34,1,8900
+Young Adult,M,Overweight,0,0,3.72,Ahmedabad,Lab Technician,I,P,18.75,1,7500
+Senior,M,Obese,0,0,15.19,Surat,Architect,I,P,23.08,1,35000
+Adult,M,Normal,1,2,3.99,Nashik,Lab Technician,I,P,24.17,1,13200
+Middle-Aged,M,Obese,0,0,14.48,Varanasi,Marketing Manager,I,S,20.31,0,17200
+Young Adult,M,Obese,0,2,8.05,Agra,HR Manager,I,P,7.61,1,12800
+Middle-Aged,F,Obese,0,2,14.77,Indore,Architect,I,S,23.84,0,32000
+Young Adult,F,Obese,0,2,8.47,Indore,Architect,I,S,25.33,0,11800
+Middle-Aged,F,Obese,0,1,5.88,Agra,Lab Technician,I,S,25.43,0,26200
+Young Adult,F,Obese,0,0,3.0,Nashik,Lab Technician,I,S,24.58,0,5400
+Middle-Aged,F,Obese,1,2,6.88,Nashik,Content Writer,I,P,25.75,1,28500
+Young Adult,F,Obese,1,0,6.0,Amritsar,Banker,I,P,21.0,1,9000
+Adult,F,Obese,0,1,10.99,Nagpur,Architect,I,S,23.5,0,15200
+Adult,F,Obese,0,1,2.72,Agra,Plumber,I,S,9.28,0,11600
+Senior,M,Obese,1,2,15.61,Kolkata,HR Manager,I,S,23.92,0,48500
+Middle-Aged,M,Overweight,0,1,5.34,Ranchi,Software Engineer,I,S,25.83,0,18500
+Young Adult,F,Underweight,1,2,2.24,Faridabad,Plumber,I,S,24.54,0,11200
+Young Adult,M,Normal,0,2,3.0,Ranchi,Software Engineer,I,S,25.83,0,8200
+Adult,F,Obese,0,0,8.89,Srinagar,HR Manager,I,S,26.15,0,8800
+Middle-Aged,F,Obese,0,2,15.68,Ahmedabad,Marketing Manager,I,P,24.74,1,31700
+Adult,F,Overweight,0,2,11.2,Nagpur,Architect,I,S,23.97,0,15000
+Middle-Aged,M,Overweight,0,0,14.77,Kolkata,HR Manager,I,S,26.0,0,25000
+Young Adult,M,Obese,0,0,4.72,Hyderabad,Pharmacist,I,P,25.07,1,8000
+Adult,M,Normal,0,2,5.92,Patna,Pharmacist,I,S,19.95,0,13000
+Young Adult,F,Obese,0,3,2.06,Agra,Plumber,I,S,9.28,0,11700
+Middle-Aged,F,Normal,0,1,14.35,Nagpur,Architect,I,S,24.0,0,25000
+Adult,M,Normal,0,0,5.44,Delhi,Pharmacist,I,P,23.5,1,8500
+Middle-Aged,F,Obese,0,2,3.68,Faridabad,Plumber,I,S,23.55,0,22600
+Young Adult,F,Obese,1,0,2.0,Agra,Plumber,I,S,9.28,0,7300
+Adult,M,Normal,0,5,4.53,Mumbai,Nurse,I,P,24.0,1,18000
+Young Adult,F,Obese,0,0,6.0,Nagpur,Engineer,I,P,24.67,1,5600
+Adult,F,Obese,0,1,2.84,Agra,Plumber,I,S,9.28,0,12200
+Middle-Aged,M,Obese,0,2,5.7,Ranchi,Software Engineer,I,S,25.83,0,25000
+Adult,F,Overweight,0,0,10.64,Ahmedabad,Marketing Manager,I,P,24.74,1,8200
+Adult,M,Overweight,0,1,8.89,Bhopal,Architect,I,P,22.67,1,9800
+Adult,M,Obese,0,0,15.1,Visakhapatnam,Businessman,I,S,24.67,0,11800
+Adult,F,Obese,0,1,10.14,Delhi,Civil Servant,I,P,23.33,1,17900
+Middle-Aged,F,Overweight,1,1,3.56,Nagpur,Plumber,I,P,23.87,1,23600
+Young Adult,F,Normal,0,0,8.0,Patna,Consultant,I,P,23.85,1,5000
+Young Adult,F,Obese,0,2,4.0,Visakhapatnam,Teacher,I,S,25.0,0,8500
+Young Adult,F,Obese,0,0,11.8,Rajkot,Businessman,I,P,4.5,1,8400
+Middle-Aged,F,Obese,0,1,9.8,Patna,Accountant,I,S,23.69,0,26800
+Young Adult,M,Overweight,0,1,7.44,Jaipur,Civil Servant,I,S,17.83,0,9500
+Young Adult,F,Overweight,0,1,5.0,Patna,Accountant,I,S,24.69,0,7200
+Senior,M,Obese,0,1,4.4,Agra,Carpenter,I,S,24.0,0,35200
+Young Adult,F,Normal,0,2,7.08,Jaipur,Civil Servant,I,P,23.75,1,10000
+Middle-Aged,F,Obese,0,1,5.25,Bangalore,Lab Technician,I,S,25.4,0,20200
+Middle-Aged,F,Overweight,0,1,7.12,Varanasi,Teacher,I,S,14.99,0,18000
+Middle-Aged,F,Obese,0,1,7.0,Varanasi,Teacher,I,S,13.0,0,20200
+Middle-Aged,F,Overweight,0,5,6.88,Varanasi,Teacher,I,S,13.99,0,22500
+Adult,F,Overweight,0,0,4.26,Bangalore,Lab Technician,I,S,25.4,0,9000
+Adult,F,Overweight,0,1,8.0,Patna,Accountant,I,S,23.19,0,14000
+Adult,F,Obese,1,1,8.7,Jaipur,Civil Servant,I,P,22.92,1,17800
+Young Adult,F,Normal,0,2,10.0,Indore,Businessman,I,P,23.0,1,7500
+Adult,F,Obese,0,1,10.64,Allahabad,Consultant,I,P,19.71,1,12000
+Middle-Aged,F,Obese,1,3,15.2,Allahabad,Consultant,I,P,19.71,1,34000
+Young Adult,M,Overweight,0,2,10.0,Visakhapatnam,Businessman,I,S,24.13,0,7500
+Senior,F,Obese,0,1,8.92,Delhi,Chef,I,P,24.08,1,36500
+Adult,F,Obese,0,0,8.7,Bhopal,Retail Manager,I,S,23.0,0,11875
+Adult,F,Obese,0,1,11.83,Allahabad,HR Manager,I,S,23.41,0,19750
+Young Adult,F,Normal,1,3,8.68,Meerut,Architect,I,S,25.0,0,14600
+Young Adult,F,Obese,0,0,3.0,Meerut,Lab Technician,I,S,24.61,0,5400
+Middle-Aged,M,Overweight,0,3,4.22,Nagpur,Factory Worker,I,S,22.82,0,29500
+Adult,F,Obese,0,0,9.24,Faridabad,Civil Servant,I,P,23.32,1,13200
+Young Adult,M,Overweight,0,1,3.0,Jaipur,Lab Technician,I,P,22.85,1,6800
+Adult,F,Obese,0,2,4.71,Jaipur,Lab Technician,I,P,24.82,1,17375
+Adult,F,Obese,0,3,6.16,Meerut,Content Writer,I,S,8.55,0,17700
+Young Adult,F,Normal,0,2,7.0,Mumbai,HR Manager,I,P,18.88,1,7800
+Adult,M,Obese,0,1,11.2,Mumbai,HR Manager,I,S,23.0,0,15800
+Middle-Aged,M,Obese,0,2,4.04,Nagpur,Factory Worker,I,S,23.06,0,29400
+Young Adult,M,Overweight,0,0,2.12,Nagpur,Factory Worker,I,S,23.82,0,6000
+Middle-Aged,F,Overweight,0,0,6.15,Meerut,Lab Technician,I,S,23.0,0,23000
+Middle-Aged,M,Obese,0,0,5.61,Jaipur,Lab Technician,I,P,24.85,1,21275
+Senior,F,Normal,1,0,6.78,Meerut,Lab Technician,I,S,24.0,0,43400
+Middle-Aged,F,Obese,0,0,8.32,Meerut,Content Writer,I,S,7.06,0,28800
+Adult,F,Obese,0,2,8.52,Faridabad,Civil Servant,I,P,24.86,1,13800
+Adult,M,Overweight,0,3,4.44,Jaipur,Lab Technician,I,P,23.3,1,14500
+Adult,F,Overweight,0,0,4.44,Meerut,Lab Technician,I,S,24.0,0,10000
+Young Adult,M,Obese,0,1,4.48,Srinagar,Teacher,I,P,25.0,1,9200
+Middle-Aged,M,Obese,0,3,5.61,Rajkot,Software Engineer,I,S,25.06,0,27625
+Young Adult,M,Underweight,0,1,3.09,Surat,Shop Owner,I,S,24.0,0,7800
+Young Adult,M,Obese,1,1,3.54,Varanasi,Nurse,I,P,24.04,1,13200
+Middle-Aged,M,Normal,0,0,6.42,Jaipur,Nurse,I,P,25.16,1,27000
+Middle-Aged,M,Obese,0,0,6.15,Jaipur,Nurse,I,P,25.16,1,27600
+Adult,F,Obese,0,0,4.53,Lucknow,Software Engineer,I,S,25.36,0,12075
+Young Adult,F,Obese,1,0,4.0,Allahabad,Teacher,I,P,24.15,1,7100
+Adult,F,Obese,1,3,3.81,Kanpur,Insurance Agent,I,P,24.84,1,16500
+Young Adult,M,Normal,0,0,3.36,Ranchi,Software Engineer,I,P,25.0,1,6500
+Adult,F,Obese,0,1,5.08,Ranchi,Content Writer,I,P,23.33,1,10800
+Young Adult,M,Obese,0,2,2.0,Srinagar,Carpenter,I,P,23.86,1,8500
+Adult,F,Obese,0,1,5.44,Srinagar,Pharmacist,I,S,26.0,0,11600
+Middle-Aged,M,Obese,0,0,6.24,Jaipur,Nurse,I,P,25.16,1,30000
+Adult,F,Overweight,0,0,2.84,Patna,Plumber,I,S,23.0,0,9000
+Middle-Aged,M,Normal,0,2,5.52,Jaipur,Nurse,I,P,25.16,1,20500
+Young Adult,F,Obese,0,0,4.0,Allahabad,Teacher,I,P,24.64,1,7500
+Adult,M,Obese,0,5,3.99,Ghaziabad,Software Engineer,I,S,14.91,0,16500
+Young Adult,M,Overweight,0,1,3.18,Kolkata,Software Engineer,I,P,21.94,1,8200
+Senior,F,Obese,0,2,4.4,Patna,Plumber,I,S,24.0,0,28500
+Young Adult,M,Obese,0,1,3.36,Ranchi,Software Engineer,I,P,25.0,1,9000
+Middle-Aged,F,Overweight,0,3,10.86,Allahabad,Retail Manager,I,P,18.88,1,18000
+Middle-Aged,F,Obese,0,2,8.56,Ludhiana,Chef,I,P,25.0,1,26000
+Young Adult,F,Obese,0,1,7.0,Surat,Architect,I,S,23.89,0,7200
+Adult,M,Overweight,0,5,8.89,Patna,Sales Manager,I,S,24.58,0,15500
+Adult,M,Normal,1,0,11.2,Patna,Sales Manager,I,S,25.09,0,17500
+Adult,M,Normal,0,2,8.3,Srinagar,Accountant,I,S,25.0,0,14000
+Young Adult,F,Overweight,0,0,5.0,Bangalore,Government Employee,I,S,13.0,0,6000
+Young Adult,F,Obese,1,1,13.8,Kolkata,Doctor,I,P,24.0,1,15000
+Young Adult,F,Normal,0,0,4.0,Hyderabad,Chef,I,P,6.72,1,6200
+Young Adult,F,Obese,0,4,4.0,Hyderabad,Chef,I,P,6.72,1,11500
+Middle-Aged,M,Obese,0,2,3.68,Patna,Carpenter,I,S,23.84,0,18500
+Senior,M,Obese,0,0,11.0,Srinagar,Accountant,I,S,24.0,0,27000
+Adult,M,Obese,1,2,3.2,Patna,Carpenter,I,S,23.84,0,26500
+Young Adult,M,Obese,0,3,4.0,Ghaziabad,Teacher,I,P,26.31,1,11000
+Adult,M,Obese,1,2,11.36,Ahmedabad,Lawyer,I,P,23.25,1,21000
+Middle-Aged,M,Normal,0,1,3.86,Pune,Driver,I,P,24.77,1,16000
+Adult,M,Obese,0,0,6.28,Bhopal,Real Estate Agent,I,P,24.18,1,12500
+Young Adult,F,Obese,1,0,3.72,Srinagar,Nurse,I,S,23.75,0,14500
+Middle-Aged,F,Normal,0,4,3.74,Pune,Plumber,I,P,24.0,1,22000
+Middle-Aged,M,Normal,0,1,3.74,Meerut,Plumber,I,P,24.74,1,17000
+Middle-Aged,M,Obese,0,2,7.12,Bhopal,Teacher,I,S,24.21,0,17500
+Young Adult,F,Obese,0,0,2.18,Pune,Plumber,I,P,24.77,1,7500
+Middle-Aged,F,Obese,0,3,3.62,Pune,Plumber,I,P,24.0,1,21000
+Young Adult,M,Obese,1,0,9.68,Agra,Marketing Manager,I,S,24.86,0,14000
+Senior,M,Obese,0,0,8.68,Bhopal,Teacher,I,S,23.21,0,26000
+Young Adult,F,Obese,0,3,3.72,Bhopal,Insurance Agent,I,S,25.42,0,14000
+Young Adult,M,Overweight,1,0,3.0,Kanpur,Shop Owner,I,P,19.0,1,11000
+Middle-Aged,M,Normal,1,2,7.48,Delhi,Pharmacist,I,S,24.0,0,24000
+Young Adult,M,Obese,1,2,6.0,Nashik,Engineer,I,S,23.25,0,16500
+Middle-Aged,F,Obese,0,2,3.44,Pune,Plumber,I,P,25.0,1,18500
+Adult,F,Obese,0,2,3.2,Pune,Plumber,I,S,24.05,0,16500
+Adult,F,Overweight,0,3,3.38,Pune,Plumber,I,P,24.0,1,18000
+Young Adult,M,Normal,0,1,2.18,Meerut,Plumber,I,P,24.25,1,8500
+Young Adult,M,Normal,1,0,2.42,Meerut,Plumber,I,P,25.0,1,13500
+Middle-Aged,M,Normal,0,1,4.22,Patna,Plumber,I,S,25.0,0,23000
+Young Adult,M,Overweight,1,3,2.0,Agra,Electrician,I,S,23.86,0,17500
+Adult,F,Obese,1,2,12.7,Varanasi,Businessman,I,P,19.16,1,19500
+Middle-Aged,F,Obese,1,0,6.42,Nashik,Shop Owner,I,P,25.0,1,33000
+Adult,F,Obese,0,2,5.8,Allahabad,Pharmacist,I,S,24.19,0,13500
+Senior,F,Obese,1,0,15.61,Faridabad,Architect,I,P,24.62,1,36000
+Adult,F,Obese,0,0,6.64,Hyderabad,Pharmacist,I,S,23.57,0,14500
+Middle-Aged,F,Obese,0,1,11.76,Patna,Data Analyst,I,P,26.0,1,21500
+Adult,F,Obese,0,2,6.76,Allahabad,Pharmacist,I,S,25.41,0,16500
+Young Adult,M,Normal,0,0,2.12,Faridabad,Driver,I,P,25.75,1,6500
+Young Adult,M,Overweight,0,0,6.0,Nashik,Retail Manager,I,P,24.5,1,6200
+Young Adult,M,Normal,0,0,6.0,Nashik,Retail Manager,I,P,24.5,1,5800
+Young Adult,F,Overweight,0,0,2.0,Surat,Electrician,I,P,24.0,1,5800
+Middle-Aged,M,Normal,0,0,4.1,Faridabad,Driver,I,P,22.75,1,21000
+Young Adult,F,Obese,1,2,7.84,Visakhapatnam,HR Manager,I,P,26.16,1,17000
+Adult,F,Normal,1,3,9.06,Patna,Data Analyst,I,P,26.0,1,21500
+Young Adult,F,Obese,1,0,2.0,Surat,Electrician,I,P,23.99,1,10500
+Middle-Aged,F,Obese,0,1,6.88,Allahabad,Pharmacist,I,S,25.6,0,17500
+Young Adult,F,Obese,0,1,8.68,Faridabad,Architect,I,P,23.86,1,10500
+Adult,F,Obese,0,5,9.31,Faridabad,Architect,I,P,23.86,1,21000
+Middle-Aged,F,Obese,1,3,17.12,Jaipur,Marketing Manager,I,P,24.0,1,35000
+Adult,M,Normal,0,3,4.53,Agra,Lab Technician,I,P,24.74,1,15500
+Young Adult,M,Overweight,0,0,4.6,Kanpur,Content Writer,I,S,24.0,0,7200
+Middle-Aged,F,Obese,0,0,6.15,Nashik,Shop Owner,I,P,24.0,1,21500
+Young Adult,F,Underweight,0,0,4.48,Hyderabad,Teacher,I,P,25.0,1,6800
+Adult,M,Overweight,0,4,8.52,Surat,Data Analyst,I,P,24.75,1,18000
+Senior,M,Obese,0,0,4.4,Faridabad,Driver,I,P,23.75,1,27000
+Young Adult,M,Obese,0,0,8.0,Rajkot,Lawyer,I,S,26.0,0,6200
+Middle-Aged,M,Obese,0,1,11.76,Nashik,Retail Manager,I,P,24.5,1,19000
+Adult,M,Obese,1,1,9.31,Faridabad,Architect,I,P,24.8,1,16000
+Middle-Aged,F,Obese,0,0,14.35,Faridabad,Architect,I,P,23.12,1,23000
+Middle-Aged,F,Overweight,0,0,20.8,Varanasi,Businessman,I,P,18.17,1,22000
+Adult,M,Obese,0,0,6.4,Patna,Chef,I,S,24.0,0,13500
+Adult,M,Overweight,1,0,9.52,Jaipur,HR Manager,I,P,24.18,1,14500
+Young Adult,F,Normal,0,1,3.36,Visakhapatnam,Lab Technician,I,S,23.0,0,8000
+Adult,F,Overweight,0,0,2.72,Hyderabad,Plumber,I,S,26.0,0,9000
+Young Adult,M,Overweight,0,0,2.0,Srinagar,Driver,I,P,2.35,1,5800
+Middle-Aged,M,Overweight,1,3,16.88,Jaipur,Marketing Manager,I,S,26.0,0,31000
+Adult,F,Obese,0,0,9.42,Lucknow,Data Analyst,I,S,26.0,0,12500
+Adult,M,Normal,0,2,12.08,Jaipur,Marketing Manager,I,S,24.0,0,14500
+Adult,F,Normal,0,1,7.98,Lucknow,Data Analyst,I,S,26.0,0,10500
+Middle-Aged,F,Overweight,0,3,5.7,Patna,Nurse,I,S,24.08,0,20000
+Young Adult,M,Obese,0,0,2.36,Srinagar,Factory Worker,I,P,23.09,1,8500
+Middle-Aged,F,Obese,0,0,21.36,Amritsar,Doctor,I,P,25.0,1,16500
+Adult,F,Obese,0,1,7.8,Lucknow,Data Analyst,I,S,26.0,0,10500
+Adult,M,Normal,0,0,20.28,Chennai,Doctor,I,P,23.16,1,14000
+Young Adult,F,Obese,1,3,3.09,Patna,Nurse,I,S,25.08,0,16500
+Young Adult,F,Overweight,0,0,10.0,Faridabad,Businessman,I,P,18.77,1,6200
+Young Adult,M,Obese,0,0,6.0,Chennai,Engineer,I,P,17.75,1,7200
+Young Adult,M,Overweight,1,1,8.0,Jaipur,Marketing Manager,I,S,25.0,0,10000
+Middle-Aged,F,Normal,0,3,11.76,Srinagar,Civil Servant,I,S,23.75,0,21000
+Adult,F,Obese,1,1,16.9,Faridabad,Businessman,I,P,17.17,1,21000
+Young Adult,M,Normal,0,2,7.26,Bangalore,Data Analyst,I,S,23.55,0,12500
+Adult,F,Normal,0,2,8.88,Srinagar,Civil Servant,I,S,23.75,0,14500
+Middle-Aged,F,Obese,0,2,7.72,Allahabad,Chef,I,S,25.25,0,22500
+Middle-Aged,M,Normal,1,0,4.16,Indore,Plumber,I,P,26.0,1,29000
+Middle-Aged,F,Normal,0,1,5.25,Bhopal,Nurse,I,S,23.75,0,16000
+Adult,F,Overweight,0,2,7.25,Rajkot,Government Employee,I,S,25.03,0,14000
+Young Adult,M,Obese,0,2,3.36,Amritsar,Insurance Agent,I,S,24.05,0,11500
+Young Adult,F,Overweight,0,0,4.48,Kolkata,Pharmacist,I,P,24.07,1,7200
+Middle-Aged,F,Normal,0,0,17.12,Rajkot,Lawyer,I,S,24.26,0,25000
+Senior,F,Obese,0,0,11.15,Rajkot,Government Employee,I,S,25.03,0,21800
+Young Adult,F,Obese,1,0,3.18,Ahmedabad,Shop Owner,I,S,24.75,0,11200
+Middle-Aged,M,Obese,0,2,5.43,Kanpur,Insurance Agent,I,P,24.0,1,18900
+Senior,F,Obese,0,0,4.46,Patna,Carpenter,I,P,24.0,1,21500
+Middle-Aged,F,Overweight,0,1,8.44,Bangalore,Pharmacist,I,S,25.83,0,16200
+Middle-Aged,F,Overweight,0,1,5.25,Surat,Lab Technician,I,P,6.95,1,13100
+Young Adult,F,Obese,0,0,8.47,Nashik,Architect,I,S,26.17,0,7400
+Adult,F,Normal,1,0,5.07,Ahmedabad,Shop Owner,I,S,25.16,0,14800
+Senior,F,Obese,0,1,4.46,Meerut,Plumber,I,P,26.16,1,22400
+Young Adult,M,Obese,1,0,8.24,Rajkot,Consultant,I,P,24.33,1,9800
+Young Adult,F,Normal,0,2,6.18,Ahmedabad,Engineer,I,S,24.58,0,8600
+Middle-Aged,F,Normal,1,1,13.3,Nashik,Architect,I,S,26.17,0,21500
+Adult,F,Overweight,0,1,4.62,Amritsar,Software Engineer,I,S,23.0,0,11200
+Young Adult,F,Obese,0,0,2.0,Delhi,Carpenter,I,S,25.75,0,6200
+Adult,F,Overweight,1,0,4.89,Ahmedabad,Shop Owner,I,S,23.75,0,15200
+Young Adult,M,Overweight,0,2,4.72,Pune,Pharmacist,I,P,22.46,1,8900
+Adult,F,Overweight,0,3,12.32,Pune,Lawyer,I,S,23.0,0,12800
+Middle-Aged,F,Overweight,0,3,15.44,Pune,Lawyer,I,S,24.0,0,17400
+Middle-Aged,F,Overweight,0,0,6.42,Kolkata,Lab Technician,I,P,23.43,1,19800
+Adult,F,Obese,0,2,8.88,Varanasi,Retail Manager,I,S,25.65,0,11800
+Young Adult,M,Overweight,1,0,2.0,Ludhiana,Factory Worker,I,S,24.05,0,7900
+Middle-Aged,F,Overweight,0,2,10.32,Varanasi,Retail Manager,I,S,24.65,0,13600
+Young Adult,F,Obese,0,0,5.0,Visakhapatnam,Accountant,I,P,24.77,1,6100
+Adult,M,Obese,0,2,9.96,Rajkot,Engineer,I,S,24.0,0,13200
+Adult,F,Normal,1,0,4.8,Meerut,Shop Owner,I,P,24.0,1,14100
+Middle-Aged,M,Overweight,0,1,13.93,Surat,Architect,I,P,26.0,1,16200
+Young Adult,F,Normal,0,1,6.0,Jaipur,Banker,I,P,23.0,1,5900
+Young Adult,M,Overweight,0,1,2.0,Jaipur,Electrician,I,P,4.92,1,5800
+Middle-Aged,M,Overweight,0,0,3.68,Ludhiana,Factory Worker,I,S,24.05,0,14100
+Senior,M,Normal,0,0,13.02,Bhopal,Banker,I,P,26.12,1,19500
+Senior,F,Obese,1,0,6.51,Visakhapatnam,Insurance Agent,I,P,24.0,1,28500
+Middle-Aged,F,Overweight,0,0,12.12,Varanasi,Retail Manager,I,S,25.09,0,15800
+Middle-Aged,M,Obese,0,0,11.22,Meerut,Retail Manager,I,S,26.08,0,15200
+Adult,F,Obese,0,0,4.08,Indore,Shop Owner,I,P,23.61,1,9100
+Middle-Aged,F,Obese,0,1,3.68,Chennai,Carpenter,I,P,22.59,1,17100
+Adult,M,Obese,0,1,8.88,Meerut,Retail Manager,I,S,23.09,0,12600
+Adult,M,Normal,0,2,6.16,Lucknow,Content Writer,I,P,23.72,1,11800
+Middle-Aged,M,Obese,0,2,3.74,Jaipur,Electrician,I,P,4.92,1,17800
+Adult,M,Overweight,0,0,2.54,Ludhiana,Factory Worker,I,P,25.22,1,7300
+Young Adult,M,Obese,0,1,6.18,Meerut,Engineer,I,P,24.87,1,7600
+Middle-Aged,F,Normal,0,0,16.88,Pune,Lawyer,I,P,25.46,1,18500
+Middle-Aged,M,Obese,1,2,3.74,Ludhiana,Factory Worker,I,P,25.22,1,23500
+Adult,F,Overweight,0,1,4.98,Meerut,Shop Owner,I,P,26.0,1,12100
+Senior,M,Overweight,0,0,9.04,Kolkata,Chef,I,P,24.18,1,22100
+Middle-Aged,M,Obese,1,2,11.22,Meerut,Retail Manager,I,S,23.09,0,22800
+Young Adult,M,Obese,0,1,4.84,Lucknow,Content Writer,I,P,23.72,1,8400
+Adult,M,Obese,1,3,2.96,Jaipur,Electrician,I,P,4.92,1,17500
+Middle-Aged,F,Overweight,0,4,14.24,Pune,Lawyer,I,P,25.46,1,16400
+Adult,M,Overweight,0,1,3.14,Ludhiana,Factory Worker,I,S,24.05,0,11400
+Adult,F,Underweight,0,2,4.44,Kolkata,Lab Technician,I,P,22.93,1,10900
+Middle-Aged,M,Obese,0,0,12.12,Meerut,Engineer,I,P,23.37,1,18100
+Young Adult,F,Normal,0,1,2.0,Chennai,Carpenter,I,P,23.59,1,6800
+Young Adult,F,Obese,0,0,2.0,Chennai,Carpenter,I,S,25.83,0,8500
+Adult,F,Overweight,0,3,12.08,Faridabad,Marketing Manager,I,P,25.8,1,13500
+Middle-Aged,F,Obese,1,0,7.0,Srinagar,Chef,I,P,25.0,1,18100
+Adult,F,Overweight,0,2,7.7,Hyderabad,Government Employee,I,P,24.82,1,12200
+Adult,M,Obese,0,0,3.08,Ludhiana,Electrician,I,P,24.0,1,10500
+Adult,F,Obese,0,0,9.78,Hyderabad,Banker,I,S,23.97,0,13800
+Adult,F,Normal,1,0,16.9,Indore,Businessman,I,S,23.91,0,15900
+Adult,M,Normal,0,2,6.35,Allahabad,Accountant,I,P,24.38,1,9200
+Adult,F,Obese,1,2,8.7,Mumbai,Civil Servant,I,P,23.6,1,15800
+Middle-Aged,F,Obese,0,1,5.61,Delhi,Software Engineer,I,S,25.5,0,15600
+Middle-Aged,M,Normal,1,3,11.4,Agra,Engineer,I,P,24.51,1,21900
+Young Adult,M,Normal,0,1,6.9,Agra,Engineer,I,P,24.88,1,7500
+Senior,F,Obese,0,0,17.6,Nagpur,Marketing Manager,I,S,23.16,0,21200
+Middle-Aged,F,Obese,0,1,8.75,Kanpur,Government Employee,I,S,21.5,0,15900
+Senior,M,Obese,0,0,6.51,Delhi,Software Engineer,I,S,23.91,0,21500
+Young Adult,F,Obese,0,0,3.0,Delhi,Software Engineer,I,S,24.5,0,6200
+Middle-Aged,F,Normal,0,2,6.88,Rajkot,Chef,I,P,23.0,1,12500
+Adult,M,Obese,0,2,8.88,Rajkot,Civil Servant,I,S,11.38,0,11200
+Adult,F,Overweight,0,3,7.1,Nashik,Government Employee,I,P,23.33,1,11800
+Adult,M,Obese,0,2,9.24,Rajkot,Civil Servant,I,S,9.14,0,11900
+Young Adult,M,Normal,0,1,7.44,Agra,Engineer,I,P,24.51,1,7800
+Young Adult,F,Obese,0,3,5.75,Rajkot,Accountant,I,S,25.52,0,9400
+Young Adult,M,Normal,0,2,6.0,Agra,Engineer,I,P,25.11,1,6900
+Young Adult,F,Overweight,1,3,4.36,Rajkot,Chef,I,P,25.4,1,12500
+Young Adult,F,Obese,0,5,4.0,Rajkot,Chef,I,P,23.0,1,9900
+Adult,F,Obese,0,3,7.55,Nashik,Government Employee,I,P,4.45,1,13200
+Adult,F,Obese,0,1,3.9,Delhi,Software Engineer,I,S,26.5,0,8900
+Middle-Aged,F,Overweight,0,1,7.12,Rajkot,Chef,I,P,25.75,1,13100
+Young Adult,F,Normal,0,0,3.0,Delhi,Software Engineer,I,S,25.5,0,5500
+Young Adult,F,Normal,0,1,4.96,Rajkot,Chef,I,P,24.0,1,7200
+Middle-Aged,F,Overweight,0,2,12.3,Mumbai,Civil Servant,I,P,25.1,1,16900
+Adult,M,Underweight,0,2,10.14,Visakhapatnam,Banker,I,S,24.2,0,12100
+Adult,F,Overweight,0,0,9.24,Delhi,Engineer,I,S,26.19,0,11600
+Young Adult,F,Overweight,0,3,2.42,Srinagar,Driver,I,P,25.0,1,10200
+Middle-Aged,M,Obese,0,0,6.06,Delhi,Lab Technician,I,P,23.75,1,18900
+Young Adult,M,Obese,0,0,4.0,Srinagar,Real Estate Agent,I,S,24.51,0,6800
+Young Adult,F,Overweight,0,0,8.0,Chennai,Marketing Manager,I,S,25.91,0,5800
+Middle-Aged,M,Obese,0,0,6.42,Delhi,Lab Technician,I,P,25.25,1,20800
+Young Adult,F,Overweight,0,0,3.27,Nashik,Lab Technician,C,P,13.23,1,6400
+Middle-Aged,M,Overweight,0,1,10.32,Indore,Data Analyst,I,S,5.34,0,12900
+Young Adult,M,Obese,0,0,4.0,Srinagar,Real Estate Agent,I,S,24.51,0,6200
+Middle-Aged,F,Obese,0,1,10.1,Nashik,Government Employee,I,P,24.45,1,16900
+Middle-Aged,F,Overweight,0,1,11.22,Chennai,Engineer,I,P,24.28,1,14200
+Adult,F,Overweight,0,1,8.0,Nashik,Government Employee,I,P,24.96,1,11800
+Middle-Aged,M,Obese,0,1,12.25,Ahmedabad,Architect,C,P,23.62,1,15200
+Young Adult,M,Normal,0,0,4.0,Srinagar,Real Estate Agent,I,S,24.51,0,5500
+Young Adult,F,Obese,1,0,4.72,Chennai,Chef,I,P,24.61,1,11200
+Middle-Aged,F,Normal,0,0,24.24,Allahabad,Doctor,I,P,24.91,1,15200
+Young Adult,F,Obese,1,2,5.45,Nashik,Government Employee,I,P,23.96,1,14200
+Young Adult,M,Obese,0,0,6.0,Indore,Data Analyst,I,S,25.95,0,5720
+Middle-Aged,F,Obese,1,1,20.64,Allahabad,Doctor,I,P,23.91,1,28220
+Middle-Aged,M,Overweight,1,2,21.4,Kolkata,Businessman,I,S,25.49,0,53760
+Young Adult,F,Overweight,0,0,4.24,Pune,Real Estate Agent,I,P,24.0,1,6300
+Middle-Aged,M,Normal,1,1,13.51,Lucknow,Sales Manager,I,S,10.17,0,32890
+Middle-Aged,M,Normal,1,0,4.04,Pune,Electrician,I,S,23.0,0,33750
+Young Adult,F,Obese,0,1,2.24,Mumbai,Carpenter,I,S,24.5,0,9100
+Middle-Aged,M,Overweight,0,4,10.5,Chennai,Civil Servant,I,P,24.7,1,27225
+Young Adult,F,Obese,0,2,2.42,Allahabad,Factory Worker,I,P,23.97,1,11230
+Young Adult,M,Obese,0,2,2.36,Pune,Electrician,I,S,25.0,0,10920
+Adult,F,Obese,1,0,2.72,Mumbai,Carpenter,I,S,24.51,0,14250
+Adult,F,Obese,0,2,15.96,Amritsar,Doctor,I,S,25.25,0,15120
+Middle-Aged,M,Overweight,0,3,10.5,Nagpur,Banker,I,S,24.0,0,25570
+Adult,F,Obese,0,0,3.38,Allahabad,Factory Worker,I,P,23.45,1,17250
+Adult,F,Obese,1,1,8.16,Patna,Banker,I,P,25.08,1,15675
+Young Adult,F,Overweight,0,0,6.36,Patna,Banker,I,P,23.09,1,6300
+Senior,M,Obese,0,0,6.78,Varanasi,Lab Technician,I,P,25.54,1,49400
+Middle-Aged,F,Obese,0,1,11.58,Patna,Banker,I,P,23.09,1,32560
+Young Adult,F,Obese,0,0,5.0,Kanpur,Government Employee,I,P,25.29,1,6875
+Middle-Aged,F,Overweight,0,1,9.2,Kanpur,Government Employee,I,P,24.62,1,22990
+Adult,M,Overweight,0,3,2.78,Nashik,Plumber,I,S,25.11,0,14700
+Senior,M,Obese,0,0,6.69,Varanasi,Lab Technician,I,P,25.54,1,41400
+Adult,M,Obese,0,0,4.8,Varanasi,Lab Technician,I,P,25.54,1,14850
+Senior,F,Obese,0,0,4.46,Mumbai,Carpenter,I,S,24.42,0,45000
+Young Adult,F,Overweight,0,0,7.08,Agra,Retail Manager,I,S,22.79,0,7000
+Adult,F,Obese,1,3,3.26,Allahabad,Factory Worker,I,P,24.0,1,26600
+Young Adult,M,Obese,0,0,6.0,Nagpur,Banker,I,S,25.84,0,6380
+Senior,M,Obese,1,1,4.34,Pune,Electrician,I,S,24.0,0,59400
+Adult,M,Overweight,1,4,7.8,Allahabad,Retail Manager,I,P,24.1,1,16575
+Young Adult,M,Normal,1,3,7.44,Chennai,Civil Servant,I,P,24.7,1,13125
+Young Adult,M,Normal,0,2,7.21,Lucknow,Sales Manager,I,S,23.58,0,8100
+Middle-Aged,M,Overweight,0,1,10.5,Ahmedabad,Data Analyst,I,P,26.22,1,18975
+Adult,F,Obese,0,3,6.8,Bangalore,Accountant,I,S,26.0,0,15200
+Young Adult,F,Overweight,0,0,10.6,Meerut,Businessman,I,P,17.5,1,6200
+Middle-Aged,F,Obese,0,1,22.8,Srinagar,Doctor,I,P,18.5,1,26460
+Young Adult,F,Obese,1,0,7.44,Rajkot,Civil Servant,I,S,23.0,0,12000
+Adult,M,Normal,0,1,6.28,Jaipur,Chef,I,P,24.16,1,14950
+Middle-Aged,M,Obese,0,0,4.16,Rajkot,Plumber,I,S,24.0,0,42000
+Senior,M,Normal,0,0,17.36,Meerut,Consultant,I,P,10.23,1,33000
+Young Adult,M,Obese,0,0,6.36,Ghaziabad,Banker,I,P,24.0,1,6900
+Adult,F,Overweight,0,0,5.68,Vadodara,Content Writer,I,S,4.14,0,10800
+Middle-Aged,M,Obese,0,3,15.44,Meerut,Consultant,I,S,23.0,0,36300
+Middle-Aged,M,Obese,1,1,14.77,Ludhiana,Sales Manager,I,S,20.91,0,54000
+Young Adult,F,Obese,0,0,6.0,Rajkot,Civil Servant,I,S,23.0,0,6325
+Middle-Aged,M,Overweight,0,0,8.56,Agra,Real Estate Agent,I,S,24.94,0,35200
+Senior,F,Overweight,1,1,26.04,Srinagar,Doctor,I,P,17.25,1,54450
+Adult,M,Obese,1,3,11.12,Meerut,Consultant,I,S,24.0,0,19000
+Young Adult,F,Obese,0,0,7.0,Ranchi,Architect,I,P,23.78,1,6050
+Adult,F,Obese,0,2,9.42,Rajkot,Civil Servant,I,S,24.0,0,18850
+Adult,F,Normal,0,3,2.72,Srinagar,Plumber,I,P,22.97,1,13300
+Young Adult,F,Obese,0,1,4.48,Chennai,Real Estate Agent,I,S,22.22,0,10075
+Adult,F,Obese,1,2,3.08,Vadodara,Driver,I,P,24.0,1,23125
+Middle-Aged,F,Obese,0,2,3.86,Hyderabad,Carpenter,I,S,25.49,0,33000
+Middle-Aged,M,Obese,0,1,14.48,Meerut,Consultant,I,P,8.73,1,24300
+Young Adult,M,Obese,0,4,12.72,Nagpur,Doctor,I,P,24.86,1,9900
+Adult,M,Normal,0,0,11.36,Meerut,Consultant,I,S,24.0,0,10500
+Young Adult,M,Obese,0,0,2.0,Rajkot,Plumber,I,S,23.5,0,7540
+Middle-Aged,F,Obese,1,2,3.5,Hyderabad,Carpenter,I,S,25.49,0,33825
+Adult,F,Normal,0,0,16.32,Srinagar,Doctor,I,P,17.5,1,9500
+Middle-Aged,M,Normal,0,1,10.5,Ghaziabad,Banker,I,P,24.0,1,18975
+Middle-Aged,M,Overweight,0,0,12.46,Ludhiana,Sales Manager,I,S,20.91,0,18920
+Young Adult,M,Normal,0,0,7.21,Ludhiana,Sales Manager,I,S,20.91,0,6000
+Senior,F,Obese,1,2,4.52,Hyderabad,Carpenter,I,S,25.49,0,76000
+Young Adult,M,Obese,0,0,9.44,Meerut,Consultant,I,S,23.0,0,8050
+Young Adult,M,Normal,0,5,4.72,Agra,Real Estate Agent,I,S,24.43,0,11200
+Middle-Aged,F,Obese,0,0,3.98,Chennai,Plumber,I,S,24.49,0,26400
+Adult,M,Obese,0,1,19.92,Nagpur,Doctor,I,P,24.86,1,18850
+Young Adult,F,Obese,0,0,6.18,Ghaziabad,Banker,I,S,26.0,0,6900
+Adult,F,Obese,0,3,8.88,Allahabad,Retail Manager,I,S,23.58,0,17250
+Middle-Aged,F,Normal,0,2,9.5,Ghaziabad,Accountant,I,P,26.0,1,28350
+Young Adult,F,Overweight,0,0,13.8,Delhi,Doctor,I,S,24.0,0,6800
+Adult,F,Overweight,0,0,9.96,Jaipur,Engineer,I,P,23.68,1,15950
+Young Adult,M,Normal,0,0,2.06,Faridabad,Driver,I,P,24.31,1,6000
+Young Adult,M,Obese,0,0,3.0,Varanasi,Shop Owner,I,P,24.0,1,7540
+Adult,M,Obese,0,2,13.9,Indore,Businessman,I,P,23.91,1,15000
+Young Adult,F,Obese,0,0,10.0,Indore,Businessman,I,P,23.75,1,6240
+Young Adult,F,Underweight,0,0,10.0,Meerut,Businessman,I,S,26.0,0,5500
+Adult,M,Overweight,0,3,14.2,Indore,Businessman,I,P,24.91,1,15225
+Adult,F,Obese,1,3,6.52,Indore,Real Estate Agent,I,S,24.19,0,28000
+Senior,F,Overweight,1,0,22.3,Meerut,Businessman,I,S,23.0,0,50400
+Adult,F,Normal,0,5,3.38,Ranchi,Electrician,I,S,25.0,0,24000
+Young Adult,F,Overweight,0,0,2.0,Delhi,Carpenter,I,P,13.89,1,5800
+Young Adult,F,Obese,1,2,2.48,Ranchi,Electrician,I,S,24.42,0,14625
+Middle-Aged,F,Obese,0,0,3.98,Kanpur,Plumber,I,S,25.2,0,30000
+Middle-Aged,F,Obese,0,0,8.32,Hyderabad,Teacher,I,S,24.0,0,32200
+Senior,F,Obese,0,2,22.6,Indore,Businessman,I,P,25.75,1,55100
+Senior,F,Obese,0,2,4.34,Delhi,Carpenter,I,P,13.39,1,49500
+Young Adult,M,Overweight,0,1,2.24,Faridabad,Driver,I,P,23.35,1,7475
+Young Adult,M,Overweight,0,0,4.24,Vadodara,Teacher,I,P,24.42,1,6000
+Adult,F,Obese,0,1,16.6,Meerut,Businessman,I,S,24.65,0,20300
+Middle-Aged,F,Overweight,0,0,3.98,Delhi,Carpenter,I,P,15.89,1,24000
+Young Adult,M,Obese,0,1,10.9,Indore,Businessman,I,P,23.91,1,8060
+Middle-Aged,F,Obese,0,0,4.1,Faridabad,Driver,I,P,23.25,1,35775
+Young Adult,M,Normal,0,0,3.36,Varanasi,Shop Owner,I,P,25.41,1,6500
+Young Adult,F,Overweight,1,1,2.0,Kanpur,Plumber,I,S,26.0,0,7800
+Middle-Aged,F,Normal,0,1,7.12,Lucknow,Chef,I,P,24.0,1,19780
+Middle-Aged,F,Obese,0,3,12.25,Nagpur,HR Manager,I,S,25.08,0,25575
+Middle-Aged,F,Obese,0,2,11.58,Chennai,Retail Manager,I,S,18.09,0,35200
+Young Adult,F,Obese,1,0,8.05,Nagpur,HR Manager,I,S,24.08,0,10880
+Middle-Aged,F,Normal,0,0,10.32,Chennai,Retail Manager,I,S,18.09,0,11200
+Middle-Aged,M,Overweight,0,0,3.86,Ahmedabad,Driver,I,S,24.0,0,14800
+Adult,F,Obese,0,3,11.41,Hyderabad,Architect,I,S,24.0,0,18500
+Young Adult,F,Underweight,0,0,4.0,Delhi,Chef,I,P,24.42,1,6500
+Middle-Aged,F,Obese,0,0,14.14,Nagpur,HR Manager,I,S,24.08,0,18900
+Middle-Aged,F,Normal,1,0,14.77,Hyderabad,Architect,I,S,25.0,0,26100
+Senior,F,Obese,0,0,6.6,Patna,Insurance Agent,I,P,23.99,1,21500
+Young Adult,F,Obese,0,0,4.0,Jaipur,Teacher,I,S,22.0,0,7400
+Adult,M,Normal,0,1,6.04,Bhopal,Teacher,I,P,22.46,1,10800
+Middle-Aged,M,Obese,0,0,3.86,Nashik,Electrician,I,P,24.74,1,16200
+Middle-Aged,F,Normal,0,0,5.43,Faridabad,Software Engineer,I,P,23.86,1,12600
+Adult,M,Overweight,1,2,3.26,Nashik,Electrician,I,P,24.74,1,18400
+Middle-Aged,M,Obese,0,2,10.86,Mumbai,Engineer,I,S,25.2,0,18200
+Adult,M,Overweight,0,1,3.2,Nagpur,Electrician,I,S,23.41,0,10900
+Middle-Aged,F,Overweight,0,2,3.5,Faridabad,Electrician,I,S,25.91,0,15200
+Young Adult,F,Obese,0,3,3.0,Bhopal,Software Engineer,I,S,25.83,0,11800
+Adult,F,Obese,0,3,5.92,Agra,Teacher,I,P,24.0,1,16100
+Young Adult,M,Overweight,0,0,6.0,Vadodara,Banker,I,P,24.0,1,6200
+Adult,F,Obese,0,1,6.64,Hyderabad,Content Writer,I,P,24.14,1,14600
+Middle-Aged,F,Overweight,0,0,8.32,Kolkata,Content Writer,I,S,24.61,0,18100
+Adult,F,Overweight,0,1,10.88,Allahabad,Marketing Manager,I,S,24.0,0,9100
+Middle-Aged,M,Obese,0,4,14.48,Surat,Lawyer,I,P,24.0,1,22300
+Adult,F,Obese,0,1,5.56,Ahmedabad,Content Writer,I,S,25.2,0,9800
+Middle-Aged,F,Normal,0,0,11.22,Ahmedabad,Engineer,I,S,26.18,0,13700
+Young Adult,F,Overweight,0,0,8.96,Allahabad,Marketing Manager,I,S,25.41,0,6800
+Adult,M,Obese,0,3,4.62,Varanasi,Insurance Agent,I,S,25.0,0,15600
+Young Adult,F,Overweight,1,0,4.24,Ahmedabad,Content Writer,I,S,25.2,0,8900
+Young Adult,F,Overweight,0,0,8.0,Nagpur,Consultant,I,S,24.14,0,5900
+Middle-Aged,M,Obese,1,1,6.15,Varanasi,Insurance Agent,I,S,24.09,0,32100
+Middle-Aged,F,Normal,0,1,7.24,Ahmedabad,Content Writer,I,S,25.2,0,13900
+Adult,M,Overweight,1,0,9.06,Kolkata,Engineer,I,S,24.45,0,14600
+Middle-Aged,F,Obese,0,0,16.88,Nagpur,Consultant,I,S,24.4,0,20800
+Adult,F,Overweight,0,0,5.68,Ahmedabad,Content Writer,I,S,25.2,0,8900
+Young Adult,M,Normal,0,2,6.72,Ahmedabad,Engineer,I,S,24.84,0,10100
+Young Adult,M,Obese,0,3,3.72,Varanasi,Insurance Agent,I,S,24.0,0,14300
+Adult,F,Overweight,0,2,13.52,Surat,Lawyer,I,S,26.0,0,13800
+Young Adult,F,Obese,0,1,4.12,Ahmedabad,Content Writer,I,S,25.2,0,10400
+Senior,M,Obese,0,0,10.85,Bangalore,Government Employee,I,P,18.5,1,25800
+Young Adult,M,Overweight,0,1,5.0,Bangalore,Government Employee,I,P,18.5,1,7800
+Adult,M,Overweight,1,0,9.78,Vadodara,Banker,I,P,24.0,1,15100
+Senior,F,Obese,0,4,8.68,Kolkata,Content Writer,I,S,25.0,0,26800
+Middle-Aged,F,Obese,0,0,11.22,Ludhiana,Banker,I,S,26.25,0,15600
+Young Adult,M,Normal,0,0,8.24,Surat,Lawyer,I,P,24.0,1,6100
+Adult,F,Underweight,0,2,5.8,Kolkata,Content Writer,I,S,23.16,0,11800
+Middle-Aged,M,Obese,1,0,7.96,Srinagar,Pharmacist,I,S,23.89,0,25300
+Middle-Aged,F,Obese,0,0,7.96,Hyderabad,Content Writer,I,P,24.14,1,16200
+Adult,F,Obese,0,2,6.95,Bangalore,Government Employee,I,S,24.4,0,12300
+Adult,F,Normal,1,2,12.8,Allahabad,Marketing Manager,I,S,23.0,0,16400
+Senior,M,Obese,1,0,4.46,Agra,Carpenter,I,P,26.21,1,31200
+Middle-Aged,M,Normal,0,0,3.74,Ludhiana,Carpenter,I,P,25.08,1,13500
+Young Adult,M,Normal,0,0,7.0,Visakhapatnam,Sales Manager,I,P,21.47,1,5800
+Adult,M,Overweight,0,4,5.2,Chennai,Content Writer,I,S,23.0,0,13900
+Senior,F,Normal,0,1,4.52,Ludhiana,Carpenter,I,S,24.0,0,22800
+Middle-Aged,F,Obese,0,4,21.36,Agra,Doctor,I,P,24.08,1,21400
+Middle-Aged,M,Overweight,0,0,10.1,Patna,Accountant,I,P,22.42,1,16800
+Adult,M,Overweight,0,1,2.72,Varanasi,Factory Worker,I,P,25.0,1,9200
+Senior,M,Overweight,1,0,11.15,Patna,Accountant,I,P,22.0,1,32000
+Young Adult,F,Normal,0,2,2.0,Srinagar,Factory Worker,I,P,24.97,1,8300
+Middle-Aged,M,Obese,0,1,3.62,Chennai,Carpenter,I,S,25.94,0,14800
+Young Adult,F,Obese,0,0,2.0,Srinagar,Factory Worker,I,P,23.97,1,6400
+Middle-Aged,F,Normal,1,1,3.74,Nagpur,Electrician,I,P,25.12,1,19800
+Adult,M,Overweight,1,1,18.12,Lucknow,Doctor,I,S,24.0,0,15600
+Adult,F,Obese,0,2,19.56,Surat,Doctor,I,S,23.64,0,15300
+Middle-Aged,F,Obese,0,1,5.61,Lucknow,Lab Technician,I,S,22.0,0,15900
+Middle-Aged,M,Overweight,1,0,10.25,Patna,Accountant,I,P,21.75,1,26800
+Middle-Aged,M,Obese,0,0,10.7,Pune,Accountant,I,S,14.91,0,21300
+Middle-Aged,M,Overweight,1,3,21.36,Lucknow,Doctor,I,S,24.0,0,22600
+Adult,M,Obese,0,0,6.65,Patna,Accountant,I,P,22.0,1,8700
+Middle-Aged,M,Normal,0,0,9.5,Patna,Accountant,I,P,23.0,1,14100
+Young Adult,F,Overweight,1,3,2.0,Nagpur,Electrician,I,P,24.12,1,12400
+Adult,F,Underweight,0,1,2.78,Nagpur,Electrician,I,P,24.12,1,8900
+Middle-Aged,F,Obese,0,0,5.34,Lucknow,Lab Technician,I,S,22.0,0,13800
+Middle-Aged,M,Overweight,1,2,21.0,Lucknow,Doctor,I,S,24.0,0,21100
+Young Adult,M,Overweight,0,2,2.36,Nagpur,Electrician,I,S,25.36,0,10200
+Senior,F,Overweight,1,0,6.6,Lucknow,Lab Technician,I,S,22.0,0,30500
+Middle-Aged,F,Overweight,1,0,10.1,Kanpur,Government Employee,I,S,25.33,0,23800
+Senior,F,Obese,0,0,6.6,Srinagar,Lab Technician,I,P,23.04,1,23200
+Middle-Aged,F,Obese,0,0,20.64,Lucknow,Doctor,I,S,25.0,0,14900
+Young Adult,M,Obese,1,0,3.0,Visakhapatnam,Software Engineer,I,P,23.04,1,8800
+Young Adult,M,Obese,0,0,7.0,Agra,Architect,I,S,25.75,0,7100
+Middle-Aged,F,Obese,0,2,3.44,Rajkot,Factory Worker,I,S,26.26,0,17200
+Young Adult,F,Obese,0,0,3.0,Lucknow,Shop Owner,I,P,24.76,1,6100
+Young Adult,F,Obese,1,0,4.0,Kolkata,Content Writer,I,S,24.05,0,8200
+Adult,F,Obese,1,4,5.8,Kolkata,Content Writer,I,S,24.55,0,18400
+Middle-Aged,F,Obese,0,1,7.72,Kolkata,Content Writer,I,S,26.05,0,17600
+Adult,M,Obese,0,1,9.42,Kanpur,Retail Manager,I,P,24.75,1,12400
+Adult,M,Obese,1,1,4.35,Vadodara,Insurance Agent,I,P,23.91,1,15200
+Adult,F,Normal,0,3,13.52,Amritsar,Marketing Manager,I,S,25.83,0,14400
+Young Adult,M,Obese,0,1,5.75,Delhi,Government Employee,I,S,26.0,0,8800
+Young Adult,F,Overweight,0,0,3.0,Lucknow,Shop Owner,I,P,24.76,1,5800
+Young Adult,M,Obese,1,0,6.36,Kanpur,Retail Manager,I,P,25.16,1,9800
+Adult,M,Overweight,0,5,4.89,Vadodara,Insurance Agent,I,P,25.91,1,17800
+Senior,F,Obese,0,0,13.2,Surat,Retail Manager,I,S,24.91,0,21800
+Young Adult,M,Overweight,0,1,6.72,Kolkata,Retail Manager,I,P,25.17,1,8100
+Adult,F,Overweight,0,1,8.52,Bangalore,Retail Manager,I,S,25.59,0,10400
+Middle-Aged,F,Obese,0,2,10.32,Ghaziabad,Engineer,I,S,25.58,0,14500
+Senior,F,Obese,0,2,11.0,Nagpur,Accountant,I,P,23.74,1,25100
+Middle-Aged,M,Obese,0,2,5.7,Meerut,Shop Owner,I,S,22.67,0,18200
+Young Adult,M,Overweight,1,0,3.0,Patna,Nurse,I,S,19.0,0,8400
+Young Adult,F,Normal,0,0,5.0,Nagpur,Accountant,I,P,23.74,1,5900
+Adult,F,Overweight,1,1,7.98,Bangalore,Retail Manager,I,S,25.59,0,12850
+Middle-Aged,F,Obese,1,2,8.08,Bhopal,Pharmacist,I,S,24.0,0,24600
+Middle-Aged,F,Obese,1,0,10.7,Chennai,Accountant,I,S,23.75,0,29500
+Young Adult,F,Obese,0,1,4.48,Mumbai,Pharmacist,I,S,23.72,0,14200
+Young Adult,M,Obese,0,0,3.18,Ludhiana,Insurance Agent,I,S,25.64,0,7200
+Middle-Aged,M,Obese,0,2,6.88,Delhi,Real Estate Agent,I,P,25.58,1,21800
+Adult,F,Obese,1,1,5.2,Bhopal,Pharmacist,I,S,26.0,0,13500
+Young Adult,M,Overweight,0,0,7.0,Agra,Architect,I,P,22.06,1,6500
+Adult,M,Obese,0,1,7.85,Jaipur,Accountant,I,S,24.06,0,12900
+Middle-Aged,F,Obese,0,1,8.6,Bangalore,Government Employee,I,S,24.86,0,15800
+Middle-Aged,F,Overweight,0,0,10.32,Kolkata,Civil Servant,I,S,25.0,0,14600
+Young Adult,F,Underweight,1,2,6.0,Bhopal,Civil Servant,I,P,22.97,1,9100
+Adult,F,Obese,1,0,3.2,Agra,Carpenter,I,S,18.7,0,16800
+Adult,F,Obese,1,0,9.96,Jaipur,Civil Servant,I,S,24.49,0,19200
+Young Adult,M,Obese,0,2,8.68,Meerut,HR Manager,I,P,23.75,1,12400
+Young Adult,M,Obese,0,2,9.2,Rajkot,Marketing Manager,I,S,24.51,0,9600
+Adult,F,Obese,0,2,5.32,Pune,Content Writer,I,S,22.49,0,10100
+Middle-Aged,F,Obese,0,0,4.28,Agra,Carpenter,I,S,19.37,0,26800
+Young Adult,F,Normal,0,3,2.42,Agra,Carpenter,I,S,17.71,0,8200
+Young Adult,F,Obese,0,0,4.0,Allahabad,Chef,I,S,24.0,0,6900
+Middle-Aged,F,Obese,0,1,12.3,Kolkata,Civil Servant,I,S,24.0,0,22400
+Adult,M,Normal,1,2,4.89,Ludhiana,Lab Technician,I,S,21.85,0,16200
+Young Adult,M,Normal,1,0,2.42,Mumbai,Factory Worker,I,S,23.0,0,11400
+Young Adult,F,Obese,1,3,3.0,Ranchi,Nurse,I,P,24.25,1,10200
+Senior,M,Obese,0,0,17.84,Rajkot,Marketing Manager,I,S,24.51,0,29800
+Adult,M,Overweight,0,1,11.62,Bhopal,Architect,I,P,23.61,1,13200
+Young Adult,M,Obese,1,3,7.0,Meerut,HR Manager,I,P,23.75,1,11800
+Adult,M,Overweight,0,1,3.08,Mumbai,Factory Worker,I,S,23.0,0,12800
+Young Adult,F,Obese,0,0,4.0,Pune,Content Writer,I,S,21.0,0,7100
+Adult,F,Overweight,0,4,7.7,Bangalore,Government Employee,I,S,24.86,0,12500
+Adult,M,Normal,0,3,12.8,Indore,Consultant,I,P,24.31,1,11900
+Young Adult,F,Normal,0,0,8.0,Ranchi,Consultant,I,S,24.73,0,5800
+Adult,M,Overweight,1,2,10.88,Ludhiana,Consultant,I,P,23.99,1,12600
+Young Adult,F,Obese,0,3,3.72,Nashik,Shop Owner,I,P,23.99,1,9100
+Adult,M,Obese,0,0,11.84,Faridabad,Marketing Manager,I,P,5.99,1,13400
+Adult,F,Obese,0,1,10.14,Indore,Civil Servant,I,P,25.28,1,14800
+Adult,M,Overweight,0,3,4.08,Bhopal,Nurse,I,P,26.0,1,10400
+Young Adult,F,Obese,0,3,2.0,Srinagar,Carpenter,I,S,23.86,0,6400
+Young Adult,M,Overweight,1,0,3.09,Surat,Nurse,I,S,3.37,0,10100
+Young Adult,F,Obese,0,3,6.9,Surat,Engineer,I,P,23.24,1,8500
+Adult,F,Obese,0,2,3.38,Surat,Electrician,I,S,25.0,0,14900
+Senior,F,Obese,1,0,8.8,Mumbai,Pharmacist,I,P,24.74,1,32500
+Middle-Aged,M,Obese,0,0,11.58,Srinagar,Engineer,I,S,23.75,0,23200
+Middle-Aged,M,Obese,0,0,5.97,Surat,Nurse,I,S,4.36,0,20800
+Middle-Aged,F,Obese,0,0,5.52,Nashik,Shop Owner,I,P,24.99,1,18900
+Senior,F,Obese,0,0,8.8,Mumbai,Pharmacist,I,P,24.74,1,27800
+Adult,F,Obese,0,1,9.96,Srinagar,Engineer,I,S,24.75,0,14300
+Middle-Aged,F,Obese,0,1,14.48,Amritsar,Consultant,I,S,24.21,0,16500
+Senior,F,Normal,0,1,8.92,Mumbai,Pharmacist,I,P,24.74,1,26500
+Middle-Aged,F,Obese,0,0,4.16,Srinagar,Carpenter,I,S,23.86,0,23900
+Middle-Aged,F,Obese,0,1,16.64,Ranchi,Consultant,I,S,24.73,0,23100
+Young Adult,F,Normal,1,0,4.0,Mumbai,Pharmacist,I,P,24.74,1,9800
+Middle-Aged,F,Overweight,0,1,3.92,Srinagar,Carpenter,I,S,24.86,0,19800
+Senior,M,Obese,0,0,13.2,Srinagar,Engineer,I,S,22.8,0,29800
+Middle-Aged,M,Normal,1,1,5.88,Pune,Nurse,I,P,23.8,1,22500
+Adult,F,Obese,0,0,8.52,Faridabad,Engineer,I,S,25.42,0,11200
+Adult,M,Obese,0,0,7.98,Vadodara,Banker,I,P,25.0,1,11400
+Senior,F,Obese,1,0,13.2,Chennai,Retail Manager,I,S,24.0,0,31800
+Middle-Aged,F,Obese,0,0,14.72,Amritsar,Marketing Manager,I,P,24.74,1,18500
+Adult,M,Normal,0,1,3.14,Vadodara,Electrician,I,S,23.91,0,11300
+Young Adult,M,Overweight,0,0,8.0,Delhi,Consultant,I,P,25.16,1,6400
+Young Adult,F,Overweight,1,3,4.96,Meerut,Real Estate Agent,I,S,23.15,0,12100
+Middle-Aged,F,Overweight,0,0,8.32,Chennai,Content Writer,I,P,18.0,1,22600
+Middle-Aged,M,Overweight,0,2,5.25,Agra,Nurse,I,S,24.86,0,14200
+Middle-Aged,F,Obese,0,2,3.8,Nashik,Factory Worker,I,P,21.43,1,20400
+Senior,F,Obese,0,1,27.12,Hyderabad,Doctor,I,S,24.45,0,31500
+Young Adult,F,Normal,0,1,4.72,Chennai,Content Writer,I,P,19.0,1,8100
+Middle-Aged,M,Obese,0,0,7.84,Faridabad,Chef,I,P,5.33,1,19600
+Middle-Aged,M,Obese,1,1,5.25,Agra,Nurse,I,S,22.86,0,21500
+Adult,F,Obese,0,0,6.76,Agra,Content Writer,I,S,18.74,0,16100
+Young Adult,M,Overweight,0,0,3.0,Agra,Nurse,I,S,24.95,0,6800
+Middle-Aged,M,Obese,0,0,6.06,Lucknow,Nurse,I,P,25.49,1,23600
+Young Adult,F,Obese,0,1,7.08,Ghaziabad,Retail Manager,I,P,25.24,1,9800
+Young Adult,F,Obese,0,0,2.12,Lucknow,Plumber,I,P,24.5,1,7200
+Adult,F,Obese,0,2,5.07,Pune,Insurance Agent,I,P,20.54,1,18200
+Young Adult,M,Obese,0,4,2.18,Nagpur,Electrician,I,S,16.94,0,8500
+Middle-Aged,M,Obese,0,0,5.97,Patna,Nurse,I,S,24.22,0,22100
+Young Adult,F,Overweight,0,0,8.0,Nagpur,Consultant,I,P,24.42,1,6700
+Middle-Aged,F,Obese,1,2,9.8,Mumbai,Accountant,I,S,23.21,0,25100
+Young Adult,F,Normal,0,0,4.0,Ahmedabad,Teacher,I,S,24.74,0,6600
+Middle-Aged,M,Obese,1,3,13.72,Patna,Architect,I,S,21.5,0,26800
+Young Adult,F,Obese,0,1,9.92,Nagpur,Consultant,I,P,24.42,1,9400
+Adult,M,Overweight,0,0,19.92,Hyderabad,Doctor,I,S,23.88,0,13800
+Middle-Aged,F,Obese,0,0,5.7,Patna,Nurse,I,S,23.91,0,18200
+Young Adult,M,Overweight,0,0,6.0,Nagpur,Engineer,I,P,24.16,1,6200
+Young Adult,F,Obese,0,0,5.0,Mumbai,Accountant,I,S,24.7,0,7100
+Adult,M,Obese,0,3,2.72,Nagpur,Electrician,I,S,15.94,0,11200
+Middle-Aged,M,Obese,1,2,3.56,Ranchi,Plumber,I,P,23.04,1,21800
+Adult,F,Normal,0,1,10.4,Nagpur,Consultant,I,P,24.42,1,8900
+Young Adult,M,Normal,0,1,8.0,Ranchi,Lawyer,I,S,12.75,0,6100
+Adult,M,Obese,0,3,4.35,Visakhapatnam,Software Engineer,I,S,24.84,0,13200
+Adult,F,Obese,0,1,12.56,Nagpur,Consultant,I,P,24.42,1,14100
+Adult,M,Obese,1,0,4.35,Visakhapatnam,Software Engineer,I,S,25.25,0,17200
+Young Adult,F,Obese,0,0,3.0,Patna,Nurse,I,S,23.91,0,6300
+Middle-Aged,M,Obese,0,3,3.44,Nagpur,Electrician,I,S,14.94,0,14800
+Middle-Aged,M,Normal,0,2,9.65,Amritsar,Government Employee,I,P,23.45,1,18200
+Young Adult,F,Overweight,0,0,3.09,Patna,Nurse,I,S,23.91,0,6900
+Middle-Aged,M,Overweight,0,1,3.62,Nagpur,Electrician,I,S,15.94,0,15600
+Young Adult,M,Normal,1,0,5.3,Amritsar,Government Employee,I,P,23.45,1,10800
+Young Adult,M,Obese,0,2,6.72,Bhopal,Retail Manager,I,P,23.96,1,8400
+Middle-Aged,M,Underweight,0,0,12.84,Nagpur,Engineer,I,P,24.16,1,24850
+Young Adult,F,Obese,0,3,3.09,Vadodara,Insurance Agent,I,P,25.23,1,12450
+Middle-Aged,F,Overweight,0,2,14.72,Nagpur,Consultant,I,P,14.0,1,18900
+Senior,M,Overweight,0,0,6.69,Visakhapatnam,Software Engineer,I,S,23.84,0,28500
+Adult,M,Obese,0,1,4.8,Visakhapatnam,Software Engineer,I,S,25.83,0,15200
+Adult,F,Obese,1,2,4.26,Vadodara,Insurance Agent,I,P,25.23,1,21500
+Middle-Aged,M,Obese,0,1,12.66,Mumbai,Retail Manager,I,P,25.16,1,29800
+Adult,M,Normal,0,1,3.14,Nagpur,Electrician,I,S,16.44,0,11200
+Middle-Aged,M,Normal,0,3,11.76,Nagpur,Engineer,I,P,24.16,1,23400
+Adult,F,Obese,0,1,6.52,Ahmedabad,Teacher,I,S,24.74,0,12900
+Adult,F,Overweight,0,1,6.95,Mumbai,Accountant,I,S,24.21,0,10200
+Young Adult,M,Obese,1,0,8.72,Ranchi,Lawyer,I,S,14.75,0,13800
+Adult,F,Obese,0,0,3.9,Pune,Nurse,I,S,25.25,0,8400
+Middle-Aged,F,Obese,0,1,16.16,Nashik,Consultant,I,P,23.09,1,21200
+Young Adult,M,Obese,0,5,6.0,Ludhiana,Retail Manager,I,P,25.41,1,14200
+Young Adult,M,Overweight,0,1,3.36,Lucknow,Software Engineer,I,P,23.91,1,8100
+Senior,M,Overweight,1,2,6.51,Chennai,Lab Technician,I,S,24.0,0,42500
+Young Adult,M,Normal,0,0,3.09,Amritsar,Nurse,I,P,4.92,1,5200
+Middle-Aged,M,Obese,1,3,5.16,Ahmedabad,Lab Technician,I,S,24.75,0,31200
+Senior,F,Overweight,0,0,17.84,Vadodara,Consultant,I,P,23.91,1,27600
+Adult,M,Obese,0,1,4.62,Hyderabad,Shop Owner,C,P,8.69,1,11800
+Senior,F,Obese,1,1,6.51,Delhi,Lab Technician,I,P,24.18,1,46800
+Young Adult,M,Overweight,1,4,3.0,Hyderabad,Shop Owner,C,P,8.19,1,12800
+Young Adult,F,Overweight,0,0,6.54,Ahmedabad,Civil Servant,I,P,24.08,1,5900
+Adult,F,Obese,1,0,4.89,Bangalore,Insurance Agent,I,S,22.89,0,28400
+Senior,F,Normal,0,0,8.8,Bhopal,Chef,I,P,25.0,1,26200
+Middle-Aged,M,Obese,1,0,3.74,Indore,Electrician,I,P,24.49,1,34100
+Adult,F,Overweight,0,1,6.4,Bhopal,Chef,I,P,24.0,1,11900
+Adult,M,Obese,0,0,6.76,Hyderabad,Teacher,I,S,25.08,0,14300
+Middle-Aged,F,Normal,0,0,17.12,Vadodara,Consultant,I,P,25.91,1,24200
+Middle-Aged,F,Overweight,0,0,6.33,Delhi,Lab Technician,I,P,24.18,1,25800
+Middle-Aged,F,Normal,1,1,10.32,Meerut,Retail Manager,I,P,25.84,1,26500
+Young Adult,F,Normal,0,0,6.9,Ahmedabad,Civil Servant,I,P,25.08,1,6100
+Middle-Aged,F,Obese,0,4,5.52,Delhi,Lab Technician,I,P,24.18,1,23500
+Adult,M,Obese,0,2,6.04,Hyderabad,Teacher,I,S,24.08,0,13800
+Young Adult,F,Obese,1,0,12.0,Allahabad,Doctor,I,S,24.75,0,11200
+Adult,F,Overweight,0,0,10.4,Vadodara,Consultant,I,P,23.91,1,7600
+Young Adult,M,Obese,1,0,3.0,Ahmedabad,Lab Technician,I,S,26.0,0,11500
+Middle-Aged,F,Underweight,0,1,6.42,Nashik,Nurse,I,S,24.09,0,25100
+Young Adult,M,Obese,0,0,6.0,Ghaziabad,Engineer,I,S,25.09,0,4600
+Young Adult,F,Normal,0,3,9.92,Varanasi,Lawyer,I,S,19.84,0,11800
+Middle-Aged,F,Overweight,0,0,11.22,Meerut,Data Analyst,I,P,23.83,1,17200
+Young Adult,F,Overweight,0,1,3.0,Faridabad,Shop Owner,I,P,25.17,1,6800
+Young Adult,F,Overweight,0,5,2.0,Ghaziabad,Carpenter,I,S,23.8,0,14800
+Senior,M,Obese,0,0,15.61,Jaipur,Sales Manager,I,S,24.81,0,31000
+Young Adult,M,Obese,0,1,2.0,Kolkata,Carpenter,I,S,23.91,0,7200
+Young Adult,F,Obese,0,0,5.3,Bangalore,Government Employee,C,P,18.55,1,6200
+Young Adult,M,Overweight,0,2,2.36,Kolkata,Carpenter,I,S,23.91,0,10500
+Young Adult,M,Overweight,0,0,14.88,Srinagar,Doctor,C,P,8.8,1,6800
+Young Adult,M,Obese,0,1,7.0,Jaipur,Sales Manager,I,S,24.25,0,6100
+Young Adult,F,Obese,0,0,7.0,Jaipur,Sales Manager,I,S,24.43,0,4500
+Adult,F,Obese,0,1,2.66,Ghaziabad,Carpenter,I,S,24.8,0,9800
+Young Adult,F,Obese,0,0,2.42,Ghaziabad,Carpenter,I,S,23.8,0,7100
+Middle-Aged,M,Obese,0,1,3.74,Kolkata,Carpenter,I,S,25.13,0,19500
+Adult,M,Overweight,0,1,3.14,Kolkata,Carpenter,I,S,23.91,0,11400
+Adult,M,Overweight,0,2,6.8,Ghaziabad,Accountant,I,S,24.0,0,12100
+Middle-Aged,M,Overweight,0,0,3.86,Kolkata,Carpenter,I,S,23.91,0,18200
+Middle-Aged,M,Obese,0,0,24.6,Srinagar,Doctor,C,P,10.8,1,22400
+Adult,F,Obese,0,1,9.52,Jaipur,Sales Manager,I,S,24.43,0,9200
+Adult,F,Overweight,1,0,8.89,Jaipur,Sales Manager,I,S,24.43,0,13500
+Young Adult,M,Overweight,1,1,2.06,Kolkata,Carpenter,I,S,24.13,0,12500
+Adult,F,Overweight,0,4,2.66,Ghaziabad,Carpenter,I,S,23.72,0,13200
+Middle-Aged,M,Obese,0,1,14.96,Visakhapatnam,Marketing Manager,I,P,23.0,1,17800
+Adult,F,Obese,0,3,18.48,Allahabad,Doctor,I,P,24.75,1,15200
+Adult,F,Obese,0,0,18.84,Faridabad,Doctor,I,P,24.86,1,12600
+Adult,F,Overweight,0,1,9.24,Ahmedabad,Banker,I,P,24.33,1,11200
+Young Adult,M,Normal,1,0,2.3,Hyderabad,Driver,I,P,23.0,1,12800
+Adult,F,Obese,0,0,3.38,Faridabad,Electrician,I,S,25.0,0,14100
+Young Adult,F,Obese,0,3,8.47,Surat,Sales Manager,I,S,25.0,0,11800
+Adult,M,Overweight,0,1,12.32,Rajkot,Lawyer,I,S,25.79,0,11200
+Adult,M,Overweight,1,0,3.2,Hyderabad,Electrician,I,S,26.0,0,21500
+Young Adult,F,Obese,0,5,3.0,Meerut,Lab Technician,I,S,23.5,0,14500
+Middle-Aged,F,Obese,0,1,3.56,Faridabad,Electrician,I,S,24.0,0,15600
+Adult,M,Obese,0,2,2.78,Hyderabad,Electrician,I,S,26.0,0,13900
+Young Adult,F,Obese,0,0,6.0,Ahmedabad,Banker,I,P,22.84,1,5400
+Adult,M,Normal,0,0,3.99,Ghaziabad,Software Engineer,I,P,23.76,1,7200
+Young Adult,M,Obese,0,0,3.0,Ghaziabad,Software Engineer,I,P,24.76,1,4500
+Young Adult,M,Obese,0,1,3.0,Mumbai,Software Engineer,I,S,23.89,0,7800
+Middle-Aged,F,Overweight,0,0,9.2,Ghaziabad,Accountant,I,S,24.08,0,16200
+Young Adult,F,Obese,0,0,3.45,Ranchi,Shop Owner,I,S,3.39,0,6200
+Senior,F,Obese,0,0,13.02,Ahmedabad,Banker,I,P,22.84,1,26900
+Adult,M,Obese,0,2,3.26,Hyderabad,Electrician,I,S,24.0,0,14900
+Middle-Aged,F,Obese,0,4,12.12,Bangalore,Data Analyst,I,P,24.25,1,26800
+Middle-Aged,F,Obese,0,3,10.68,Nagpur,Engineer,I,P,25.36,1,21400
+Young Adult,F,Normal,0,0,5.0,Ghaziabad,Accountant,I,S,24.08,0,4200
+Adult,M,Obese,1,2,3.02,Hyderabad,Driver,I,P,23.0,1,21800
+Middle-Aged,F,Normal,0,1,11.58,Ahmedabad,Banker,I,P,24.84,1,18400
+Senior,F,Obese,0,3,6.51,Ranchi,Shop Owner,I,S,2.39,0,31500
+Adult,M,Obese,0,1,3.38,Mumbai,Factory Worker,I,S,22.8,0,13600
+Middle-Aged,F,Normal,1,3,10.86,Bangalore,Data Analyst,I,P,24.25,1,27200
+Middle-Aged,M,Obese,1,0,3.56,Hyderabad,Driver,I,P,23.0,1,28500
+Young Adult,F,Normal,1,0,2.18,Kolkata,Driver,I,S,24.21,0,11800
+Adult,M,Obese,1,2,8.7,Ahmedabad,Banker,I,S,24.0,0,22500
+Young Adult,F,Overweight,0,1,12.4,Allahabad,Businessman,I,S,25.0,0,8900
+Adult,M,Normal,0,3,9.06,Srinagar,Banker,I,S,25.83,0,14500
+Adult,M,Normal,1,2,6.52,Srinagar,Teacher,I,S,23.89,0,21200
+Young Adult,M,Obese,0,0,6.0,Ahmedabad,Banker,I,S,13.33,0,5200
+Middle-Aged,M,Obese,0,0,11.76,Ahmedabad,Banker,I,S,12.32,0,19800
+Adult,M,Normal,1,2,3.26,Hyderabad,Electrician,I,S,24.0,0,21500
+Adult,M,Obese,0,1,5.56,Srinagar,Teacher,I,S,23.89,0,11500
+Young Adult,M,Obese,0,1,3.72,Mumbai,Software Engineer,I,S,22.89,0,14850
+Young Adult,M,Obese,0,2,4.84,Srinagar,Teacher,I,S,23.89,0,13500
+Young Adult,M,Overweight,0,0,2.0,Hyderabad,Electrician,I,S,24.0,0,6800
+Adult,M,Overweight,0,0,12.32,Rajkot,Lawyer,I,S,25.0,0,12200
+Young Adult,M,Overweight,1,0,8.96,Rajkot,Lawyer,I,S,24.0,0,14500
+Adult,M,Obese,0,0,10.14,Jaipur,Data Analyst,I,S,23.61,0,16200
+Adult,F,Normal,0,2,11.62,Pune,Sales Manager,I,S,23.24,0,16800
+Young Adult,F,Normal,0,2,6.0,Visakhapatnam,Civil Servant,I,S,23.1,0,9800
+Middle-Aged,M,Overweight,0,1,3.8,Srinagar,Factory Worker,I,S,25.94,0,18900
+Middle-Aged,M,Obese,1,3,3.44,Amritsar,Factory Worker,I,P,25.95,1,29800
+Senior,F,Obese,1,0,11.15,Pune,Accountant,I,P,24.33,1,38500
+Adult,M,Overweight,0,2,3.38,Amritsar,Factory Worker,I,P,24.52,1,17800
+Young Adult,F,Overweight,0,1,8.47,Srinagar,HR Manager,I,S,22.89,0,10500
+Middle-Aged,M,Obese,0,2,14.77,Agra,Architect,I,P,23.0,1,26400
+Young Adult,F,Normal,1,0,6.0,Vadodara,Civil Servant,I,P,25.17,1,11200
+Adult,M,Obese,0,1,19.56,Agra,Doctor,I,P,24.33,1,18100
+Middle-Aged,M,Obese,0,2,23.88,Agra,Doctor,I,P,24.33,1,23900
+Adult,M,Obese,0,0,2.54,Amritsar,Factory Worker,I,P,25.95,1,9400
+Middle-Aged,F,Obese,0,1,3.44,Indore,Driver,I,S,24.0,0,17100
+Young Adult,M,Obese,0,0,2.0,Amritsar,Factory Worker,I,P,24.73,1,6800
+Middle-Aged,F,Obese,0,0,11.04,Vadodara,Civil Servant,I,S,25.83,0,21500
+Young Adult,F,Obese,0,2,8.68,Amritsar,Sales Manager,I,P,23.75,1,16500
+Adult,F,Obese,1,3,7.85,Visakhapatnam,Government Employee,I,P,23.61,1,24800
+Senior,F,Overweight,1,0,11.3,Ahmedabad,Accountant,I,S,24.19,0,31500
+Senior,F,Obese,0,3,11.15,Pune,Accountant,I,P,22.83,1,36200
+Young Adult,F,Obese,0,1,6.0,Chennai,Civil Servant,I,S,24.15,0,10200
+Middle-Aged,M,Overweight,0,1,3.92,Amritsar,Factory Worker,I,P,23.96,1,19800
+Young Adult,F,Obese,1,0,6.0,Chennai,Civil Servant,I,S,23.15,0,10900
+Middle-Aged,F,Obese,0,0,7.12,Meerut,Chef,I,P,23.49,1,18500
+Young Adult,F,Obese,0,1,8.05,Srinagar,HR Manager,I,S,24.89,0,10800
+Middle-Aged,F,Overweight,0,0,9.2,Pune,Accountant,I,P,23.83,1,16200
+Young Adult,F,Obese,0,1,2.0,Indore,Driver,I,S,24.49,0,7400
+Middle-Aged,M,Obese,0,3,3.68,Amritsar,Factory Worker,I,P,24.96,1,21800
+Young Adult,M,Obese,0,0,3.0,Pune,Software Engineer,I,S,23.0,0,6500
+Senior,F,Overweight,1,0,8.68,Meerut,Chef,I,P,24.0,1,29500
+Middle-Aged,F,Overweight,0,2,8.2,Pune,Real Estate Agent,I,P,24.15,1,24200
+Senior,M,Obese,1,1,11.3,Rajkot,Accountant,I,S,20.91,0,42500
+Young Adult,M,Normal,0,0,3.72,Visakhapatnam,Nurse,I,P,25.62,1,8800
+Middle-Aged,F,Overweight,0,0,11.4,Srinagar,Engineer,I,S,23.62,0,17600
+Senior,F,Normal,1,0,13.02,Chennai,Engineer,I,P,23.68,1,28200
+Young Adult,M,Overweight,1,0,7.0,Delhi,Sales Manager,I,P,6.29,1,11800
+Middle-Aged,M,Obese,0,0,5.7,Ranchi,Software Engineer,I,P,23.25,1,21200
+Adult,M,Normal,0,2,10.88,Patna,Lawyer,I,S,24.72,0,13100
+Adult,F,Overweight,0,2,3.9,Rajkot,Insurance Agent,C,P,24.63,1,12800
+Middle-Aged,F,Underweight,0,0,14.96,Bhopal,Marketing Manager,I,S,26.25,0,16500
+Adult,M,Normal,1,2,4.62,Srinagar,Lab Technician,I,S,23.7,0,21000
+Young Adult,F,Obese,0,0,5.0,Rajkot,Accountant,I,P,22.75,1,9200
+Young Adult,M,Obese,0,0,8.0,Kolkata,Lawyer,I,S,24.0,0,8900
+Adult,M,Overweight,0,0,6.4,Kanpur,Chef,I,S,24.24,0,13500
+Middle-Aged,M,Obese,0,0,16.88,Kolkata,Lawyer,I,S,23.24,0,28500
+Middle-Aged,F,Overweight,0,0,12.48,Jaipur,Engineer,I,S,24.0,0,21000
+Middle-Aged,F,Overweight,0,0,4.04,Agra,Electrician,I,P,4.3,1,19800
+Middle-Aged,F,Overweight,0,2,3.86,Faridabad,Electrician,I,P,11.16,1,21500
+Adult,F,Overweight,0,1,9.52,Srinagar,Sales Manager,I,S,23.34,0,12400
+Young Adult,M,Obese,1,0,8.0,Varanasi,Marketing Manager,I,S,23.99,0,11500
+Middle-Aged,F,Overweight,0,3,6.33,Ranchi,Software Engineer,I,S,23.0,0,28900
+Adult,F,Obese,0,1,8.88,Jaipur,Engineer,I,S,25.75,0,14200
+Adult,F,Overweight,0,2,11.84,Bhopal,Marketing Manager,I,S,26.04,0,14800
+Young Adult,M,Overweight,0,0,3.0,Ranchi,Software Engineer,I,P,23.25,1,7200
+Adult,M,Obese,0,3,12.56,Varanasi,Marketing Manager,I,S,22.99,0,18500
+Adult,F,Obese,0,1,4.89,Rajkot,Insurance Agent,C,P,24.29,1,16900
+Young Adult,F,Overweight,0,0,2.06,Faridabad,Electrician,I,P,11.16,1,7000
+Middle-Aged,F,Normal,0,0,14.35,Srinagar,Sales Manager,I,S,23.0,0,19500
+Young Adult,F,Overweight,0,2,3.27,Ranchi,Software Engineer,I,S,23.24,0,11800
+Senior,M,Obese,0,0,6.51,Ranchi,Software Engineer,I,P,23.25,1,27800
+Adult,F,Obese,0,3,2.72,Delhi,Electrician,I,S,23.91,0,15200
+Middle-Aged,M,Underweight,0,0,6.24,Amritsar,Lab Technician,I,S,25.8,0,22400
+Adult,F,Overweight,0,1,5.8,Bangalore,Content Writer,I,S,23.8,0,13100
+Adult,F,Normal,0,0,3.99,Mumbai,Software Engineer,I,P,26.0,1,9800
+Young Adult,F,Normal,0,0,3.36,Mumbai,Software Engineer,I,P,24.49,1,8200
+Young Adult,F,Overweight,0,1,3.54,Srinagar,Software Engineer,I,S,23.75,0,10200
+Young Adult,M,Overweight,0,1,2.42,Ranchi,Driver,I,P,23.98,1,11200
+Young Adult,M,Overweight,0,0,6.2,Ludhiana,Accountant,I,P,17.84,1,9100
+Middle-Aged,F,Overweight,0,0,5.34,Ghaziabad,Software Engineer,I,P,23.25,1,15600
+Middle-Aged,M,Overweight,0,3,5.52,Nagpur,Lab Technician,I,P,23.83,1,21200
+Senior,F,Obese,0,0,15.19,Nashik,Architect,I,S,24.0,0,26500
+Young Adult,F,Overweight,0,2,8.48,Bhopal,Lawyer,I,S,23.41,0,11400
+Middle-Aged,F,Obese,1,0,5.52,Nagpur,Lab Technician,I,S,24.84,0,23800
+Adult,F,Obese,0,2,3.14,Ahmedabad,Driver,I,S,9.08,0,17200
+Young Adult,F,Obese,1,2,3.27,Mumbai,Software Engineer,I,P,24.0,1,17800
+Middle-Aged,F,Obese,0,0,7.84,Kanpur,Pharmacist,I,P,26.0,1,18900
+Middle-Aged,F,Obese,0,0,6.24,Patna,Shop Owner,I,P,24.84,1,23500
+Middle-Aged,F,Overweight,1,1,10.1,Vadodara,Government Employee,I,S,24.94,0,25200
+Adult,F,Normal,0,2,8.89,Nashik,Architect,I,S,24.0,0,11800
+Young Adult,F,Normal,1,1,7.0,Nashik,Architect,I,S,24.0,0,10500
+Middle-Aged,F,Overweight,0,1,14.48,Bhopal,Lawyer,I,S,23.41,0,17500
+Adult,M,Normal,1,3,4.17,Nagpur,Lab Technician,I,P,23.83,1,21500
+Adult,M,Obese,1,0,7.25,Ludhiana,Accountant,I,P,17.84,1,17800
+Middle-Aged,M,Overweight,0,0,6.15,Nagpur,Lab Technician,I,P,23.83,1,20800
+Adult,M,Normal,0,0,8.0,Ludhiana,Accountant,I,P,19.84,1,12800
+Young Adult,F,Obese,1,0,2.0,Ahmedabad,Driver,I,S,8.15,0,10200
+Adult,F,Normal,0,2,10.64,Bhopal,Lawyer,I,S,23.41,0,12500
+Adult,M,Overweight,1,1,10.88,Srinagar,Lawyer,I,S,25.16,0,16200
+Adult,F,Overweight,0,1,10.36,Nashik,Architect,I,S,24.97,0,13600
+Adult,M,Normal,0,1,4.44,Nagpur,Lab Technician,I,P,24.84,1,11800
+Young Adult,F,Overweight,0,3,3.54,Patna,Shop Owner,I,P,24.39,1,13200
+Middle-Aged,F,Obese,1,3,5.79,Ghaziabad,Software Engineer,I,S,23.56,0,31000
+Adult,F,Normal,0,0,8.89,Nashik,Architect,I,S,23.0,0,8800
+Senior,M,Normal,0,0,15.61,Amritsar,Architect,I,P,25.68,1,29800
+Young Adult,M,Normal,1,0,3.0,Nagpur,Lab Technician,I,P,23.83,1,9500
+Adult,F,Obese,0,2,18.84,Jaipur,Doctor,I,P,24.0,1,23835
+Adult,F,Obese,1,1,11.41,Ludhiana,HR Manager,I,S,26.0,0,25032
+Adult,F,Obese,0,0,4.17,Ranchi,Lab Technician,I,P,23.78,1,11250
+Young Adult,F,Overweight,1,0,5.0,Nagpur,Accountant,I,S,16.85,0,6825
+Adult,F,Overweight,0,0,10.4,Vadodara,Marketing Manager,I,P,20.5,1,9923
+Adult,F,Obese,1,1,8.16,Ghaziabad,Retail Manager,I,S,24.0,0,13873
+Middle-Aged,F,Normal,1,0,10.68,Ghaziabad,Retail Manager,I,S,23.0,0,22604
+Young Adult,F,Overweight,0,0,7.63,Faridabad,HR Manager,I,P,25.0,1,6510
+Middle-Aged,M,Obese,1,2,7.36,Indore,Real Estate Agent,I,P,24.4,1,31534
+Middle-Aged,M,Obese,0,4,7.12,Indore,Real Estate Agent,I,P,11.66,1,25250
+Middle-Aged,F,Obese,0,1,8.9,Nagpur,Accountant,I,S,16.85,0,17870
+Senior,F,Obese,0,0,11.3,Nashik,Accountant,I,P,23.98,1,37950
+Adult,M,Overweight,0,3,11.12,Allahabad,Lawyer,I,S,19.31,0,17340
+Young Adult,F,Overweight,0,0,5.0,Nashik,Accountant,I,P,23.98,1,5250
+Young Adult,F,Overweight,0,2,5.9,Nashik,Accountant,I,P,23.98,1,10510
+Adult,F,Normal,0,1,6.65,Nashik,Accountant,I,P,23.98,1,9500
+Adult,F,Overweight,1,0,8.7,Hyderabad,Retail Manager,I,P,24.4,1,13514
+Senior,M,Obese,0,0,18.08,Varanasi,Lawyer,I,S,24.22,0,50531
+Middle-Aged,F,Normal,0,2,3.92,Rajkot,Plumber,I,P,23.09,1,22550
+Adult,F,Obese,0,1,4.26,Pune,Shop Owner,I,P,22.75,1,13385
+Adult,F,Obese,0,0,2.84,Bhopal,Plumber,I,P,24.57,1,10868
+Adult,F,Overweight,0,1,3.14,Patna,Electrician,I,S,24.28,0,13760
+Young Adult,M,Overweight,0,1,2.06,Delhi,Carpenter,I,P,24.05,1,8164
+Adult,F,Obese,0,1,3.02,Ghaziabad,Driver,I,S,24.86,0,12350
+Young Adult,F,Normal,0,1,2.24,Patna,Electrician,I,S,23.75,0,8200
+Young Adult,F,Obese,0,0,6.36,Hyderabad,Retail Manager,I,P,23.92,1,6325
+Middle-Aged,F,Overweight,0,0,15.92,Allahabad,Lawyer,I,P,25.92,1,30870
+Adult,M,Overweight,0,5,6.28,Indore,Real Estate Agent,I,P,11.66,1,21760
+Middle-Aged,F,Obese,0,0,5.97,Pune,Shop Owner,I,P,23.75,1,24255
+Middle-Aged,M,Normal,0,0,16.64,Varanasi,Lawyer,I,S,24.22,0,30870
+Young Adult,F,Obese,0,0,2.24,Patna,Electrician,I,S,23.75,0,7130
+Young Adult,M,Obese,0,1,2.18,Delhi,Carpenter,I,P,24.05,1,11051
+Middle-Aged,M,Obese,1,2,3.8,Rajkot,Plumber,I,P,2.78,1,30813
+Young Adult,F,Normal,0,3,2.0,Patna,Electrician,I,S,25.28,0,11000
+Young Adult,F,Normal,0,0,5.0,Nagpur,Accountant,I,S,19.84,0,5000
+Middle-Aged,M,Obese,1,0,7.24,Ahmedabad,Real Estate Agent,I,S,24.27,0,22694
+Adult,F,Overweight,0,1,9.06,Kolkata,Engineer,I,S,25.75,0,13015
+Adult,F,Obese,0,0,2.66,Bhopal,Electrician,I,P,25.75,1,9056
